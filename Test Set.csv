@@ -1,0 +1,1740 @@
+,HomePlanet,CryoSleep,Destination,Age,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Solo,TotalSpent,NoSpendings,Cabin_deck,Cabin_side,Cabin_region1,Cabin_region2,Cabin_region3,Cabin_region4,Cabin_region5,Cabin_region6,Cabin_region7,First_name,Last_name,FamilySize
+3601,Earth,False,55 Cancri e,16.0,0.0,0.0,623.0,40.0,209.0,False,872.0,0,F,S,0,0,1,0,0,0,0,Darry,Braymon,10
+6057,Earth,False,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Feline,Toddleton,8
+2797,Earth,False,TRAPPIST-1e,31.0,517.0,1.0,301.0,60.0,4.0,False,883.0,0,G,S,0,1,0,0,0,0,0,Deanny,Spencervan,6
+7110,Earth,False,55 Cancri e,14.0,653.0,0.0,4.0,0.0,0.0,True,657.0,0,F,P,0,0,0,0,0,1,0,Idace,Popelacruz,4
+8579,Europa,True,55 Cancri e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Magnon,Maglible,0
+989,Earth,False,TRAPPIST-1e,21.0,2.0,447.0,81.0,74.0,154.51933701657458,True,758.5193370165746,0,F,S,1,0,0,0,0,0,0,Frandy,Warrison,5
+5166,Earth,False,TRAPPIST-1e,22.0,758.0,0.0,46.0,0.0,0.0,True,804.0,0,F,P,0,0,0,1,0,0,0,Feryla,Prestonard,7
+4644,Europa,False,55 Cancri e,33.0,269.0,2171.0,2.0,2.0,0.0,False,2444.0,0,A,S,1,0,0,0,0,0,0,Hadirah,Ainserfle,11
+5049,Mars,True,TRAPPIST-1e,42.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Rish,Jamai,8
+6523,Mars,False,TRAPPIST-1e,27.0,725.0,0.0,1660.0,0.0,0.0,True,2385.0,0,D,P,1,0,0,0,0,0,0,Treynx,Casty,5
+1098,Europa,False,55 Cancri e,46.0,0.0,7201.0,0.0,32.0,2587.0,False,9820.0,0,B,P,1,0,0,0,0,0,0,Azhah,Heermy,4
+2828,Europa,False,55 Cancri e,52.0,0.0,2.0,0.0,10976.0,810.0,True,11788.0,0,B,P,1,0,0,0,0,0,0,Ainor,Fuelisent,5
+893,Earth,False,55 Cancri e,14.0,0.0,885.0,8.0,0.0,0.0,True,893.0,0,G,P,1,0,0,0,0,0,0,Gailia,Lewinez,5
+3480,Mars,False,PSO J318.5-22,34.0,0.0,490.0,869.0,0.0,0.0,True,1359.0,0,E,S,1,0,0,0,0,0,0,Denuts,Ropie,6
+3318,Mars,False,55 Cancri e,55.0,14.0,0.0,0.0,3778.0,1.0,False,3793.0,0,D,P,1,0,0,0,0,0,0,Mats,Nad,3
+5794,Earth,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Hary,Serry,10
+4528,Earth,True,55 Cancri e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Walla,Lunapperts,7
+185,Earth,True,PSO J318.5-22,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Thony,Mcfaddennon,6
+196,Earth,True,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Tyle,Wilsoney,10
+5984,Earth,False,TRAPPIST-1e,55.0,0.0,242.0,0.0,479.0,3.0,False,724.0,0,F,S,0,0,0,0,1,0,0,Rhony,Jenson,11
+7832,Europa,False,55 Cancri e,25.0,0.0,1673.0,0.0,642.0,612.0,False,2927.0,0,A,S,1,0,0,0,0,0,0,Shail,Crelaxle,2
+2031,Earth,False,TRAPPIST-1e,41.0,2.0,0.0,551.0,5577.0,68.0,False,6198.0,0,G,P,0,1,0,0,0,0,0,Karene,Camerrison,5
+4349,Europa,True,TRAPPIST-1e,68.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Azhasim,Dightent,6
+7865,Earth,True,PSO J318.5-22,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Arla,Sextones,7
+1453,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,1,0,0,0,0,0,0,Croo,Nuthe,2
+6700,Earth,False,PSO J318.5-22,63.0,526.0,2.0,0.0,0.0,0.0,True,528.0,0,G,S,0,0,0,1,0,0,0,Wilmay,Bushallert,6
+6040,Earth,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Pattie,Lambleyoun,7
+6383,Mars,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Cank,Scake,5
+5754,Earth,False,55 Cancri e,27.0,0.0,0.0,0.0,2725.0,73.0,True,2798.0,0,F,S,0,0,0,1,0,0,0,Essara,Contrevins,5
+4314,Europa,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Alarion,Swingse,6
+7759,Earth,False,TRAPPIST-1e,31.0,0.0,4334.0,55.0,56.0,167.54064039408868,True,4612.540640394089,0,G,P,0,0,0,0,1,0,0,Monah,Villenson,11
+3619,Mars,True,TRAPPIST-1e,36.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,1,0,0,0,0,0,0,Wolous,Anpie,6
+2306,Earth,False,55 Cancri e,41.0,682.0,0.0,0.0,0.0,17.0,True,699.0,0,F,S,0,1,0,0,0,0,0,Allara,Llovers,4
+234,Europa,True,55 Cancri e,54.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Diphah,Amsive,0
+5124,Earth,False,PSO J318.5-22,37.0,0.0,0.0,559.0,11.0,0.0,True,570.0,0,F,S,0,0,0,1,0,0,0,Jacque,Andley,2
+3162,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Berna,Moongton,5
+8092,Earth,False,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,1972.0,False,1972.0,0,F,S,0,0,0,0,0,1,0,Ninaha,Dunnisey,4
+6003,Earth,False,55 Cancri e,21.0,0.0,641.0,0.0,0.0,0.0,True,641.0,0,F,S,0,0,0,0,1,0,0,Joanry,Foledges,4
+7287,Mars,False,55 Cancri e,45.0,810.0,0.0,132.0,198.0,0.0,False,1140.0,0,F,S,0,0,0,0,1,0,0,Wifel,Casty,5
+7827,Europa,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,0,1,0,0,0,0,0,Mino,Springht,2
+5699,Europa,False,TRAPPIST-1e,15.0,0.0,677.0,0.0,179.0,3186.0,False,4042.0,0,C,S,1,0,0,0,0,0,0,Sular,Stpingepid,5
+7751,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Pigars,Fache,5
+882,Earth,False,55 Cancri e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Terrie,Weaverays,4
+7218,Europa,False,TRAPPIST-1e,24.0,0.0,82.0,0.0,1624.0,77.0,True,1783.0,0,D,P,1,0,0,0,0,0,0,Jihoton,Muspereed,2
+4608,Earth,False,TRAPPIST-1e,18.0,0.0,0.0,0.0,702.0,0.0,True,702.0,0,F,P,0,0,0,1,0,0,0,Adriet,Hughriend,7
+4612,Earth,True,PSO J318.5-22,49.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Mon,Lamberguson,3
+277,Earth,False,TRAPPIST-1e,23.0,368.0,175.0,259.0,1.0,101.0,True,904.0,0,E,S,1,0,0,0,0,0,0,Dony,Estevesters,0
+6220,Mars,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Guits,Stre,3
+6618,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Johna,Garnes,14
+843,Earth,False,55 Cancri e,19.0,0.0,388.0,469.0,167.58786446020488,0.0,True,1024.5878644602049,0,F,S,1,0,0,0,0,0,0,Gwenda,Hinetthews,7
+8424,Earth,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Gerry,Englence,6
+7915,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Eltais,Calazy,4
+6754,Europa,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Okulk,Belstrut,6
+4965,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Brina,Coopezmaney,5
+7884,Earth,False,TRAPPIST-1e,45.0,0.0,0.0,635.0,2.0,0.0,True,637.0,0,E,S,0,1,0,0,0,0,0,Joeula,Bakericks,6
+3618,Earth,False,PSO J318.5-22,18.0,0.0,525.0,0.0,0.0,84.0,True,609.0,0,F,S,0,0,1,0,0,0,0,Stald,Vinozarks,9
+7506,Earth,False,TRAPPIST-1e,31.0,779.0,0.0,3.0,57.0,0.0,True,839.0,0,G,S,0,0,0,0,1,0,0,Coracy,Gainebergan,10
+6879,Mars,False,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,0,1,0,Walls,One,2
+651,Mars,False,TRAPPIST-1e,30.0,269.0,96.0,252.0,0.0,0.0,True,617.0,0,F,P,1,0,0,0,0,0,0,Wheals,Parté,3
+5383,Earth,False,PSO J318.5-22,24.0,160.0,20.0,39.0,552.0,1.0,True,772.0,0,G,P,0,0,0,1,0,0,0,Unknown,Unknown,0
+8608,Earth,False,TRAPPIST-1e,24.0,0.0,0.0,807.0,0.0,2.0,True,809.0,0,G,S,0,0,0,0,1,0,0,Delley,Pager,5
+6059,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Diandy,Toddleton,8
+3705,Earth,True,PSO J318.5-22,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Regory,Wilsoney,10
+1917,Earth,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Unknown,Woodwinez,9
+4927,Europa,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Celeon,Pressive,5
+233,Earth,True,PSO J318.5-22,47.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Camily,Kramosley,8
+1946,Europa,True,TRAPPIST-1e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Dyonon,Boltund,9
+7013,Earth,True,TRAPPIST-1e,64.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Fayey,Vincenton,10
+2067,Europa,False,55 Cancri e,41.0,0.0,29813.0,0.0,1257.0,6.0,False,31076.0,0,A,S,1,0,0,0,0,0,0,Pulchib,Quidedbolt,4
+394,Mars,True,TRAPPIST-1e,45.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,1,0,0,0,0,0,0,Row,Pread,11
+4596,Earth,False,TRAPPIST-1e,18.0,0.0,0.0,31.0,2121.0,0.0,True,2152.0,0,F,P,0,0,0,1,0,0,0,Trice,Weavesend,8
+692,Earth,False,TRAPPIST-1e,21.0,521.0,0.0,4.0,261.0,1.0,True,787.0,0,E,P,1,0,0,0,0,0,0,Alendy,Mondsey,4
+4672,Earth,False,TRAPPIST-1e,28.0,0.0,0.0,0.0,882.0,0.0,False,882.0,0,G,P,0,0,1,0,0,0,0,Lelah,Potterry,6
+2090,Earth,False,TRAPPIST-1e,27.0,203.0,539.0,0.0,0.0,0.0,True,742.0,0,F,P,0,1,0,0,0,0,0,Elica,Tranciams,10
+2516,Earth,False,TRAPPIST-1e,18.0,0.0,617.0,0.0,0.0,10.0,True,627.0,0,G,S,0,1,0,0,0,0,0,Rena,Ashipeck,3
+3126,Earth,False,TRAPPIST-1e,42.0,0.0,3.0,0.0,898.0,1.0,True,902.0,0,F,P,0,0,1,0,0,0,0,Marix,Birds,2
+221,Europa,True,TRAPPIST-1e,42.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Weias,Aginge,0
+635,Earth,False,TRAPPIST-1e,44.0,86.0,525.0,16.0,49.0,39.0,True,715.0,0,F,P,1,0,0,0,0,0,0,Jeroy,Buckentry,11
+3291,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Grake,Porki,4
+3182,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,1,0,0,0,0,Tig,Datte,5
+2817,Earth,False,PSO J318.5-22,57.0,506.0,0.0,1.0,178.0,0.0,True,685.0,0,F,P,0,0,1,0,0,0,0,Penne,Booneid,10
+2044,Earth,False,TRAPPIST-1e,34.0,0.0,0.0,0.0,628.0,0.0,True,628.0,0,G,P,0,1,0,0,0,0,0,Nelly,Cruzaley,4
+3972,Europa,False,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Sadiram,Roustorly,2
+5526,Mars,False,TRAPPIST-1e,35.0,750.0,0.0,0.0,0.0,1065.0,False,1815.0,0,F,P,0,0,0,0,1,0,0,Wifel,Blate,4
+6760,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Heidie,Kimpson,3
+2308,Earth,False,TRAPPIST-1e,26.0,552.0,192.0,30.0,0.0,1.0,False,775.0,0,F,P,0,1,0,0,0,0,0,Marily,Lopelases,10
+1468,Europa,False,TRAPPIST-1e,30.0,0.0,1376.0,43.0,0.0,1460.0,True,2879.0,0,E,P,1,0,0,0,0,0,0,Skyrmak,Clidly,2
+6542,Earth,False,55 Cancri e,16.0,43.0,3.0,750.0,0.0,0.0,False,796.0,0,F,S,0,0,0,0,1,0,0,Gaylah,Acobson,4
+2657,Mars,False,TRAPPIST-1e,50.0,357.0,0.0,657.0,0.0,0.0,True,1014.0,0,E,P,1,0,0,0,0,0,0,Apsps,Terte,3
+6409,Earth,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Reneen,Warrishales,8
+7163,Earth,True,PSO J318.5-22,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Hanry,Moorez,4
+3791,Mars,True,TRAPPIST-1e,10.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Rowls,Can,3
+8326,Earth,False,PSO J318.5-22,27.0,0.0,0.0,0.0,1606.0,3675.0,True,5281.0,0,G,S,0,0,0,0,1,0,0,Coreen,Tersimpson,8
+2178,Mars,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Heersh,Burry,2
+462,Mars,False,TRAPPIST-1e,22.0,10.0,0.0,817.0,471.0,0.0,True,1298.0,0,F,unknown,1,0,0,0,0,0,0,Pigars,Swell,0
+1590,Mars,False,TRAPPIST-1e,26.0,714.0,450.0,208.0,0.0,44.0,True,1416.0,0,F,P,0,1,0,0,0,0,0,Bases,Batte,2
+5068,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Wees,Saf,5
+1085,Mars,False,TRAPPIST-1e,41.0,29.0,0.0,1095.0,0.0,4.0,True,1128.0,0,F,S,1,0,0,0,0,0,0,Gral,Coflé,4
+1277,Mars,False,TRAPPIST-1e,39.0,1535.0,0.0,340.0,0.0,723.0,False,2598.0,0,F,S,1,0,0,0,0,0,0,Beant,Tepie,7
+6799,Earth,False,TRAPPIST-1e,46.0,438.0,283.0,944.0,0.0,355.0,True,2020.0,0,G,unknown,0,0,0,1,0,0,0,Jacki,Ricews,4
+6868,Europa,False,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Chelik,String,3
+5836,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Margia,Chanan,11
+158,Earth,False,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Sallyl,Webstephrey,9
+1869,Earth,False,TRAPPIST-1e,17.0,0.0,0.0,249.0,537.0,5.0,True,791.0,0,E,P,1,0,0,0,0,0,0,Cary,Pagedy,2
+2381,Mars,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Barave,Katte,7
+7068,Earth,False,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,908.0,True,908.0,0,G,P,0,0,0,0,1,0,0,Harlen,Cartyernan,8
+7659,Earth,True,PSO J318.5-22,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Wena,Boyers,6
+1644,Mars,False,PSO J318.5-22,34.0,49.0,478.0,387.0,0.0,0.0,True,914.0,0,D,P,1,0,0,0,0,0,0,Anack,Trad,3
+2172,Earth,False,TRAPPIST-1e,18.0,128.0,37.0,626.0,0.0,5.0,True,796.0,0,F,P,0,1,0,0,0,0,0,Lindy,Bradamss,5
+4004,Europa,False,55 Cancri e,26.0,1.0,1269.0,4790.0,270.0,5116.0,False,11446.0,0,C,P,1,0,0,0,0,0,0,Weid,Derterval,2
+2095,Earth,False,TRAPPIST-1e,27.0,485.0,1109.0,921.0,0.0,1.0,True,2516.0,0,F,P,0,1,0,0,0,0,0,Jacky,Jacostaffey,7
+987,Mars,True,55 Cancri e,36.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Ockies,Prie,6
+8064,Europa,False,TRAPPIST-1e,47.0,187.0,268.0,977.0,3441.0,236.0,True,5109.0,0,E,S,0,1,0,0,0,0,0,Mardach,Heermy,4
+521,Earth,False,PSO J318.5-22,21.0,0.0,12.0,580.0,0.0,79.0,True,671.0,0,F,S,1,0,0,0,0,0,0,Margia,Harmond,3
+4130,Europa,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Wezna,Unkepery,0
+2429,Mars,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,1,0,0,0,0,0,0,Oakes,Seche,3
+6871,Earth,False,55 Cancri e,21.0,61.0,201.0,222.0,161.0,60.0,True,705.0,0,G,P,0,0,0,1,0,0,0,Unknown,Unknown,0
+8023,Earth,False,TRAPPIST-1e,25.0,637.0,0.0,89.0,312.0,2.0,True,1040.0,0,F,P,0,0,0,0,0,1,0,Ronard,Fielsenders,5
+1766,Earth,False,TRAPPIST-1e,49.0,0.0,0.0,0.0,724.0,0.0,True,724.0,0,F,P,0,1,0,0,0,0,0,Fanna,Chenson,2
+7192,Europa,False,TRAPPIST-1e,24.0,812.0,5450.0,0.0,1.0,262.0,True,6525.0,0,C,S,1,0,0,0,0,0,0,Cheratz,Ressing,2
+6999,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Kenny,Thorney,8
+3957,Earth,False,TRAPPIST-1e,31.0,553.0,224.0,9.0,1.0,0.0,True,787.0,0,E,P,1,0,0,0,0,0,0,Tine,Acobson,4
+6532,Mars,False,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Dies,Khake,3
+574,Mars,False,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Bases,Crité,11
+6377,Mars,False,55 Cancri e,16.0,1337.0,0.0,2614.0,0.0,0.0,False,3951.0,0,D,P,1,0,0,0,0,0,0,Crick,Nan,8
+5862,Mars,False,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,1,0,0,Cinkes,Brity,6
+5176,Earth,True,TRAPPIST-1e,64.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Eleah,Stroyledgez,4
+1819,Earth,False,TRAPPIST-1e,47.0,0.0,444.0,328.0,56.0,167.54064039408868,True,995.5406403940887,0,G,P,0,1,0,0,0,0,0,Gerly,Gaineyerson,5
+4324,Earth,False,PSO J318.5-22,23.0,0.0,138.0,4.0,412.0,220.0,True,774.0,0,G,P,0,0,1,0,0,0,0,Ronard,Hoppers,9
+5063,Earth,False,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Bryany,Buckentry,11
+7175,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Moniey,Belley,11
+4394,Earth,False,55 Cancri e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Isa,Cartez,14
+6681,Mars,False,55 Cancri e,19.0,1043.0,0.0,138.0,0.0,0.0,True,1181.0,0,D,P,1,0,0,0,0,0,0,Range,Bara,0
+187,Mars,False,TRAPPIST-1e,29.0,902.0,1.0,137.0,0.0,0.0,False,1040.0,0,F,P,1,0,0,0,0,0,0,Pebuts,Appie,2
+2509,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Mirfark,Geousty,3
+7938,Europa,False,55 Cancri e,21.0,2.0,4887.0,64.0,4952.0,1734.0,False,11639.0,0,B,S,0,1,0,0,0,0,0,Shellum,Aindlylid,2
+1578,Earth,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Jordy,Sancasey,9
+6759,Earth,False,TRAPPIST-1e,18.0,457.0,0.0,11.0,335.0,0.0,True,803.0,0,F,S,0,0,0,0,1,0,0,Tammyl,Delangleton,3
+6327,Earth,False,TRAPPIST-1e,28.0,62.0,202.0,542.0,0.0,183.11436170212767,True,989.1143617021277,0,F,P,0,0,0,0,1,0,0,Pamont,Schwardson,7
+5634,Earth,False,TRAPPIST-1e,20.0,0.0,0.0,172.70347003154575,703.0,0.0,True,875.7034700315457,0,F,S,0,0,0,1,0,0,0,Darrie,Holcompton,0
+7580,Earth,False,TRAPPIST-1e,30.0,4.0,0.0,442.0,2441.0,0.0,True,2887.0,0,F,P,0,0,0,0,0,1,0,Ela,Castron,5
+2065,Earth,False,TRAPPIST-1e,15.0,0.0,2347.0,0.0,380.0,0.0,True,2727.0,0,F,S,0,1,0,0,0,0,0,Amela,Hurles,6
+6415,Earth,False,55 Cancri e,24.0,1.0,0.0,0.0,691.0,0.0,True,692.0,0,F,P,0,0,0,0,1,0,0,Alancy,Mcgoway,6
+4589,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,874.0,185.49180327868854,0.0,False,1059.4918032786886,0,F,S,0,0,0,1,0,0,0,Cline,Browlerson,14
+1308,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Murie,Polliamposs,7
+7617,Europa,False,TRAPPIST-1e,60.0,0.0,5998.0,0.0,4794.0,8.0,False,10800.0,0,C,P,1,0,0,0,0,0,0,Achium,Inderad,2
+5585,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Burs,Shbre,6
+1467,Europa,False,55 Cancri e,53.0,5022.0,2376.0,0.0,0.0,235.0,False,7633.0,0,C,S,1,0,0,0,0,0,0,Coxaton,Supiensive,3
+4213,Earth,False,TRAPPIST-1e,39.0,0.0,3.0,0.0,802.0,49.0,True,854.0,0,G,P,0,0,1,0,0,0,0,Tine,Buckleinson,5
+7624,Europa,True,55 Cancri e,45.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Graston,Donotaked,2
+6259,Earth,True,PSO J318.5-22,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Derina,Garden,7
+3960,Earth,False,TRAPPIST-1e,28.0,0.0,53.0,0.0,732.0,6.0,False,791.0,0,E,P,1,0,0,0,0,0,0,Patha,Clean,3
+7457,Europa,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Unknown,Bealvewd,5
+5279,Earth,False,TRAPPIST-1e,43.0,1.0,8.0,0.0,0.0,715.0,True,724.0,0,F,P,0,0,0,1,0,0,0,Sonard,Simson,6
+4001,Earth,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Chelly,Kaney,3
+7085,Earth,False,TRAPPIST-1e,29.0,0.0,0.0,702.0,0.0,56.0,True,758.0,0,F,P,0,0,0,0,0,1,0,Patsya,Saley,6
+3894,Mars,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,1,0,0,0,0,Fruik,Flell,8
+8273,Earth,False,TRAPPIST-1e,42.0,4.0,0.0,0.0,0.0,792.0,True,796.0,0,F,S,0,0,0,0,0,1,0,Milda,Howayery,3
+7512,Mars,False,TRAPPIST-1e,52.0,1222.0,2.0,74.0,0.0,0.0,False,1298.0,0,E,S,0,1,0,0,0,0,0,Almone,Bost,4
+8555,Mars,False,TRAPPIST-1e,28.0,1789.0,16.0,3.0,10.0,1.0,False,1819.0,0,F,P,0,0,0,0,0,0,1,Pil,Ancy,5
+914,Earth,False,55 Cancri e,20.0,0.0,11.0,0.0,136.0,1088.0,False,1235.0,0,F,S,1,0,0,0,0,0,0,Greggy,Sweekstarks,8
+2917,Earth,False,TRAPPIST-1e,55.0,0.0,0.0,5.0,0.0,2409.0,False,2414.0,0,F,S,0,1,0,0,0,0,0,Robyny,Simonson,2
+6267,Europa,True,TRAPPIST-1e,64.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Alasmon,Dischod,4
+6856,Mars,False,55 Cancri e,51.0,40.0,716.0,1907.0,0.0,0.0,True,2663.0,0,F,P,0,0,0,0,0,1,0,Pold,Chmad,4
+3277,Earth,False,TRAPPIST-1e,26.0,0.0,597.0,0.0,0.0,212.0,False,809.0,0,G,P,0,1,0,0,0,0,0,Lesley,Wartyson,10
+273,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,15.0,0.0,1370.0,True,1385.0,0,F,P,1,0,0,0,0,0,0,Lesley,Shephendry,6
+2890,Mars,False,TRAPPIST-1e,47.0,1130.0,8.0,299.0,0.0,0.0,False,1437.0,0,F,P,0,0,1,0,0,0,0,Gech,Hapie,8
+2026,Europa,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Coxaton,Queldry,2
+4359,Earth,False,TRAPPIST-1e,45.0,65.0,63.0,3.0,713.0,27.0,True,871.0,0,F,S,0,0,1,0,0,0,0,Vanie,Peter,6
+5216,Europa,False,TRAPPIST-1e,43.0,7.0,494.0,2473.0,443.0,71.0,False,3488.0,0,A,P,1,0,0,0,0,0,0,Ankab,Fueling,5
+3524,Europa,False,TRAPPIST-1e,38.0,821.0,960.0,0.0,27.0,321.0,True,2129.0,0,A,S,1,0,0,0,0,0,0,Sabit,Spirfuent,2
+3261,Earth,False,TRAPPIST-1e,21.0,196.0,5.0,674.0,12.0,20.0,False,907.0,0,G,P,0,1,0,0,0,0,0,Francy,Mccarveymon,7
+735,Europa,False,55 Cancri e,37.0,0.0,16.0,325.0,4476.0,1359.0,False,6176.0,0,E,S,1,0,0,0,0,0,0,Minoton,Hednigic,8
+1865,Earth,False,55 Cancri e,22.0,0.0,0.0,30.0,499.0,138.0,False,667.0,0,F,S,0,1,0,0,0,0,0,Leenny,Palmes,6
+8152,Earth,False,TRAPPIST-1e,38.0,139.0,9.0,0.0,0.0,582.0,True,730.0,0,F,S,0,0,0,0,0,1,0,Nelley,Freevenson,4
+3353,Europa,False,TRAPPIST-1e,57.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Skyrmak,Mormonized,5
+8571,Europa,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,0,1,0,0,0,0,0,Eltan,Geneltic,4
+1509,Earth,False,TRAPPIST-1e,18.0,0.0,0.0,0.0,2681.0,55.0,True,2736.0,0,F,S,0,1,0,0,0,0,0,Vina,Chardsons,4
+1812,Earth,True,55 Cancri e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Sharie,Gallenry,7
+2632,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Krus,Betie,4
+1156,Earth,False,TRAPPIST-1e,20.0,0.0,0.0,0.0,1608.0,1.0,False,1609.0,0,E,S,1,0,0,0,0,0,0,Tricky,Alfordonard,6
+2753,Earth,False,PSO J318.5-22,28.0,1.0,0.0,933.0,614.0,0.0,True,1548.0,0,F,P,0,0,1,0,0,0,0,Unknown,Unknown,0
+842,Mars,False,PSO J318.5-22,29.0,4.0,0.0,421.0,435.0,19.0,True,879.0,0,D,P,1,0,0,0,0,0,0,Gicks,Kin,3
+2730,Europa,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Gluinol,Mander,4
+3315,Mars,True,TRAPPIST-1e,43.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,1,0,0,0,0,Skies,Oncy,2
+1022,Earth,False,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Elly,Willangsey,9
+5451,Mars,False,TRAPPIST-1e,27.0,89.0,888.0,51.0,5.0,0.0,False,1033.0,0,D,S,1,0,0,0,0,0,0,Honda,Bine,9
+633,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Leonyl,Saley,6
+4601,Earth,False,TRAPPIST-1e,52.0,0.0,837.0,1.0,2.0,8.0,False,848.0,0,G,P,0,0,1,0,0,0,0,Nichad,Baldson,6
+8584,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Idace,Edwartizman,4
+7976,Mars,False,TRAPPIST-1e,28.0,2502.0,0.0,44.0,23.0,29.0,True,2598.0,0,F,S,0,0,0,0,0,1,0,Sher,Shpie,4
+1437,Earth,False,TRAPPIST-1e,18.0,765.0,0.0,13.0,0.0,0.0,True,778.0,0,F,S,1,0,0,0,0,0,0,Herina,Oconley,7
+1785,Earth,True,55 Cancri e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Walles,Fishopper,5
+140,Earth,False,TRAPPIST-1e,22.0,4119.0,0.0,0.0,0.0,61.0,True,4180.0,0,G,P,1,0,0,0,0,0,0,Gory,Atkinney,0
+6809,Earth,True,55 Cancri e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Lilace,Rutler,3
+1957,Mars,False,TRAPPIST-1e,43.0,546.0,0.0,41.0,710.0,0.0,False,1297.0,0,E,S,1,0,0,0,0,0,0,Wins,Stpie,7
+4942,Earth,False,TRAPPIST-1e,14.0,0.0,56.0,126.5180055401662,0.0,2.0,True,184.5180055401662,0,F,S,0,0,0,1,0,0,0,Bony,Flynney,3
+1364,Earth,False,TRAPPIST-1e,23.0,0.0,20.0,26.0,0.0,659.0,True,705.0,0,G,P,1,0,0,0,0,0,0,Gabrin,Gilleranks,5
+5828,Earth,False,TRAPPIST-1e,33.0,0.0,2.0,130.99143206854345,0.0,807.0,True,939.9914320685434,0,G,P,0,0,0,1,0,0,0,Jacky,Hurchanney,6
+6335,Europa,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Asellah,Dishocatal,5
+1259,Earth,False,TRAPPIST-1e,29.0,28.0,0.0,561.0,203.0,0.0,True,792.0,0,E,S,1,0,0,0,0,0,0,Kayd,Hurchez,8
+5932,Earth,False,TRAPPIST-1e,57.0,0.0,1409.0,29.0,0.0,0.0,True,1438.0,0,G,P,0,0,0,1,0,0,0,Brada,Batestonley,7
+5429,Mars,False,TRAPPIST-1e,44.0,815.0,219.0,22.0,0.0,0.0,True,1056.0,0,D,S,1,0,0,0,0,0,0,Terry,Killé,3
+4423,Mars,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Whex,Snoff,6
+8231,Earth,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Gailia,Jorden,7
+1870,Earth,False,PSO J318.5-22,30.0,231.0,0.0,0.0,274.0,26.0,True,531.0,0,G,S,0,1,0,0,0,0,0,Gerry,Sterreray,6
+3447,Mars,True,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Nios,Quart,9
+2470,Earth,False,TRAPPIST-1e,23.0,490.0,313.0,0.0,6.0,0.0,True,809.0,0,G,S,0,1,0,0,0,0,0,Allena,Sullones,7
+3338,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,1609.0,True,1609.0,0,E,P,1,0,0,0,0,0,0,Elenay,Serraynardy,3
+3990,Earth,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Hencey,Garnes,14
+3829,Earth,False,TRAPPIST-1e,15.0,0.0,840.0,123.0,0.0,20.0,True,983.0,0,E,P,1,0,0,0,0,0,0,Belly,Weavesend,8
+4900,Mars,True,PSO J318.5-22,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Goles,Ble,8
+2528,Earth,False,55 Cancri e,59.0,269.0,1776.0,0.0,0.0,12.0,True,2057.0,0,F,P,0,1,0,0,0,0,0,Maryn,Mcintons,3
+2488,Earth,False,55 Cancri e,34.0,0.0,382.0,0.0,87.0,236.0,False,705.0,0,G,S,0,1,0,0,0,0,0,Adamie,Ingston,12
+6090,Earth,False,TRAPPIST-1e,24.0,552.0,1.0,0.0,231.0,0.0,True,784.0,0,G,S,0,0,0,1,0,0,0,Hene,Barks,3
+4426,Europa,False,55 Cancri e,30.0,818.0,44.0,2.0,2956.0,2311.0,True,6131.0,0,D,P,1,0,0,0,0,0,0,Grafi,Grentual,2
+154,Europa,False,TRAPPIST-1e,38.0,0.0,10346.0,1.0,14970.0,2111.0,True,27428.0,0,B,S,1,0,0,0,0,0,0,Toperon,Iniouser,4
+4402,Earth,True,55 Cancri e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Billey,Byerson,3
+7560,Earth,True,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Deanny,Cochrisons,7
+98,Earth,False,TRAPPIST-1e,27.0,0.0,0.0,570.0,2.0,131.0,True,703.0,0,F,P,1,0,0,0,0,0,0,Carry,Cleachrand,7
+5879,Earth,False,PSO J318.5-22,50.0,199.0,0.0,182.0,0.0,167.54064039408868,True,548.5406403940887,0,F,S,0,0,0,1,0,0,0,Philda,Cookson,7
+8292,Earth,True,PSO J318.5-22,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Teremy,Mckinsond,10
+4399,Earth,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,unknown,0,0,1,0,0,0,0,Dian,Sextones,7
+5147,Europa,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Taurah,Covetive,6
+6443,Europa,False,55 Cancri e,42.0,1751.0,516.0,0.0,12.0,672.0,True,2951.0,0,A,P,1,0,0,0,0,0,0,Eleb,Disteady,0
+6783,Earth,False,TRAPPIST-1e,65.0,43.0,21.0,22.0,50.0,731.0,True,867.0,0,F,P,0,0,0,0,1,0,0,Bland,Pernard,2
+528,Europa,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Taura,Dinsprody,5
+6351,Europa,False,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,A,S,1,0,0,0,0,0,0,Genubik,Guieroolow,2
+1765,Earth,False,TRAPPIST-1e,37.0,28.0,25.0,26.0,806.0,3.0,True,888.0,0,G,P,0,1,0,0,0,0,0,Raque,Ellahan,8
+7918,Europa,True,55 Cancri e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,0,1,0,0,0,0,0,Canon,Sempreate,5
+6423,Earth,False,PSO J318.5-22,15.0,124.72881355932203,0.0,533.0,72.0,0.0,True,729.728813559322,0,F,S,0,0,0,0,1,0,0,Samany,Ments,3
+7816,Europa,False,TRAPPIST-1e,48.0,0.0,1755.6256323777402,0.0,408.0,293.0,False,2456.62563237774,0,E,S,0,1,0,0,0,0,0,Tach,Sprender,7
+2999,Earth,False,55 Cancri e,10.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Tonald,Hermanapp,5
+8066,Earth,False,TRAPPIST-1e,15.0,9.0,731.0,85.0,0.0,537.0,True,1362.0,0,G,P,0,0,0,0,1,0,0,Vandy,Hoffergess,4
+5377,Earth,False,55 Cancri e,50.0,57.0,29.0,0.0,0.0,643.0,True,729.0,0,F,S,0,0,0,1,0,0,0,Ger,Rigginsen,10
+33,Mars,False,TRAPPIST-1e,47.0,214.0,0.0,1411.0,0.0,1229.0,False,2854.0,0,F,P,1,0,0,0,0,0,0,Coobix,Datie,4
+3412,Earth,False,TRAPPIST-1e,24.0,0.0,0.0,788.0,0.0,3.0,True,791.0,0,E,S,1,0,0,0,0,0,0,Anny,Bellarkerd,5
+8461,Europa,False,TRAPPIST-1e,33.0,0.0,1876.0,0.0,1432.0,14.0,False,3322.0,0,D,P,1,0,0,0,0,0,0,Mothab,Crakete,7
+1868,Earth,False,TRAPPIST-1e,31.0,1062.0,0.0,802.0,71.0,0.0,True,1935.0,0,F,S,0,1,0,0,0,0,0,Lorey,Fishopper,5
+2630,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Fredy,Smalloney,3
+3413,Europa,False,TRAPPIST-1e,45.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Diphah,Dervalt,0
+7641,Earth,False,55 Cancri e,39.0,1663.0,0.0,262.0,229.0,0.0,False,2154.0,0,F,S,0,0,0,0,0,1,0,Nance,Morelly,11
+8101,Europa,False,TRAPPIST-1e,29.0,0.0,4455.0,0.0,1663.0,4435.0,False,10553.0,0,A,S,1,0,0,0,0,0,0,Antinon,Imparmle,2
+2796,Europa,False,TRAPPIST-1e,37.0,0.0,216.0,0.0,5391.0,3372.0,True,8979.0,0,B,S,1,0,0,0,0,0,0,Tard,Monfulewss,0
+7006,Europa,True,TRAPPIST-1e,48.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Dyonon,Sloweber,5
+499,Europa,True,TRAPPIST-1e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Tard,Nalanet,6
+5871,Earth,False,TRAPPIST-1e,36.0,1603.0,0.0,2.0,87.0,0.0,False,1692.0,0,E,S,0,1,0,0,0,0,0,Brinez,Villenson,11
+8030,Europa,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Menchah,Healted,5
+704,Mars,False,TRAPPIST-1e,47.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,1,0,0,0,0,0,0,Ran,Pread,11
+2535,Mars,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Frunch,Sutte,3
+5128,Earth,False,TRAPPIST-1e,17.0,0.0,150.0,166.0,570.0,0.0,True,886.0,0,G,S,0,0,1,0,0,0,0,Gerte,Baxterson,2
+1294,Europa,False,TRAPPIST-1e,43.0,0.0,2801.0,537.0,42.0,144.0,True,3524.0,0,C,P,1,0,0,0,0,0,0,Coxah,Coniple,3
+2551,Europa,False,55 Cancri e,45.0,0.0,726.0,0.0,281.0,1257.0,False,2264.0,0,C,S,1,0,0,0,0,0,0,Naschab,Forous,3
+6925,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,1.0,95.0,605.0,True,701.0,0,F,S,0,0,0,0,1,0,0,Tyle,Mcbriddley,8
+5180,Earth,True,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Almara,Dickman,5
+7826,Europa,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,0,1,0,0,0,0,0,Phargak,Springht,2
+4061,Europa,False,TRAPPIST-1e,51.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Leshmet,Gealloyalt,5
+1382,Europa,True,55 Cancri e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Gimph,Distured,13
+4668,Earth,False,TRAPPIST-1e,46.0,0.0,4.0,834.0,0.0,32.0,False,870.0,0,F,S,0,0,0,1,0,0,0,Kylen,Merce,7
+4075,Earth,False,TRAPPIST-1e,21.0,641.0,0.0,409.0,0.0,0.0,True,1050.0,0,F,P,0,0,1,0,0,0,0,Timmy,Carezquez,5
+8240,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Nunkibi,Unsible,3
+4557,Earth,False,TRAPPIST-1e,30.0,148.0,0.0,0.0,619.0,34.0,True,801.0,0,F,P,0,0,0,1,0,0,0,Nathy,Griffince,6
+4750,Earth,False,55 Cancri e,36.0,0.0,1808.0,0.0,344.0,0.0,True,2152.0,0,F,S,0,0,0,1,0,0,0,Kerryn,Wolfernan,8
+5165,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Jodip,Monroellynn,9
+6768,Europa,False,55 Cancri e,51.0,0.0,287.0,0.0,1442.0,66.0,True,1795.0,0,A,S,1,0,0,0,0,0,0,Ranark,Patimonne,3
+6902,Earth,False,TRAPPIST-1e,18.0,0.0,949.0,0.0,0.0,0.0,True,949.0,0,F,P,0,0,0,0,0,1,0,Winia,Gordanieves,8
+1087,Europa,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Celeb,Ingascomet,4
+1490,Mars,True,TRAPPIST-1e,38.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Cor,Che,5
+5542,Earth,False,TRAPPIST-1e,42.0,84.0,392.0,300.0,0.0,0.0,True,776.0,0,F,S,0,0,0,1,0,0,0,Paulia,Brooker,3
+5460,Europa,False,55 Cancri e,44.0,0.0,496.0,99.0,317.0,5615.0,True,6527.0,0,C,P,1,0,0,0,0,0,0,Dirfak,Calazy,4
+5648,Europa,False,55 Cancri e,45.0,1017.0,3863.0,0.0,601.0,3999.0,False,9480.0,0,D,P,1,0,0,0,0,0,0,Okulam,Monpreery,2
+4183,Europa,True,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Aldhib,Diabysid,4
+7559,Europa,False,55 Cancri e,39.0,2.0,15450.0,336.0,1.0,904.0,True,16693.0,0,D,P,1,0,0,0,0,0,0,Mesarga,Ambleetive,6
+2375,Europa,True,55 Cancri e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Branasl,Glisormal,2
+6716,Earth,False,TRAPPIST-1e,24.0,590.0,0.0,1.0,168.0,16.0,True,775.0,0,F,P,0,0,0,0,1,0,0,Juline,Hamcmahon,6
+4250,Earth,False,TRAPPIST-1e,49.0,820.0,1.0,690.0,292.0,13.0,True,1816.0,0,G,P,0,0,1,0,0,0,0,Dennya,Juartis,2
+7237,Earth,False,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Lilly,Matts,9
+343,Earth,False,TRAPPIST-1e,31.0,198.0,0.0,591.0,0.0,164.0,True,953.0,0,G,P,1,0,0,0,0,0,0,Brita,Moodson,6
+6589,Europa,True,TRAPPIST-1e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Mares,Beling,0
+5454,Mars,True,TRAPPIST-1e,39.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Naffsh,Bine,9
+3136,Earth,True,55 Cancri e,20.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Lyney,Pettyreeman,4
+49,Earth,False,TRAPPIST-1e,56.0,0.0,112.0,0.0,1379.0,127.0,True,1618.0,0,E,S,1,0,0,0,0,0,0,Vivia,Johnshines,6
+7408,Earth,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Elson,Mayods,9
+229,Europa,False,55 Cancri e,46.0,0.0,3571.0,0.0,0.0,7.0,False,3578.0,0,C,P,1,0,0,0,0,0,0,Glueba,Repumparte,3
+8534,Mars,False,TRAPPIST-1e,28.0,554.4971428571429,0.0,0.0,0.0,0.0,True,554.4971428571429,0,D,P,1,0,0,0,0,0,0,Wealke,Brin,4
+6222,Europa,False,55 Cancri e,25.0,0.0,1538.0,97.0,530.0,35.0,True,2200.0,0,A,P,1,0,0,0,0,0,0,Sitron,Platch,10
+7732,Earth,False,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Thondy,Nieldsond,4
+3858,Mars,True,TRAPPIST-1e,40.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,1,0,0,0,0,Cird,Datty,3
+2563,Mars,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Permit,Must,6
+3411,Earth,False,PSO J318.5-22,24.0,105.0,0.0,37.0,518.0,0.0,True,660.0,0,F,S,0,0,1,0,0,0,0,Glenna,Valezaley,7
+2923,Earth,False,TRAPPIST-1e,24.0,0.0,7.0,548.0,4.0,0.0,True,559.0,0,F,P,0,0,1,0,0,0,0,Jaimez,Peckerson,6
+6793,Europa,False,TRAPPIST-1e,26.0,0.0,6050.0,0.0,662.0,920.0,False,7632.0,0,C,P,1,0,0,0,0,0,0,Kochard,Chhaft,3
+4899,Mars,False,55 Cancri e,47.0,275.0,0.0,252.50607287449392,24.0,0.0,False,551.506072874494,0,F,S,0,0,0,1,0,0,0,Munda,Ble,8
+3262,Earth,False,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Yolace,Clemondsey,12
+5887,Mars,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,1,0,0,0,Chios,Mity,4
+7523,Europa,True,55 Cancri e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Sinon,Fanseld,4
+3673,Earth,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Ivanne,Lambles,6
+1261,Earth,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Shan,Moodsey,10
+4110,Mars,True,TRAPPIST-1e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Jayrin,Vloaf,12
+6111,Europa,True,55 Cancri e,42.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Altaira,Unative,3
+3754,Europa,False,55 Cancri e,28.0,0.0,3238.0,0.0,750.0,2368.0,False,6356.0,0,B,P,1,0,0,0,0,0,0,Unknown,Metful,2
+834,Earth,True,55 Cancri e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Rica,Barris,5
+44,Earth,True,55 Cancri e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Kayne,Coopelandez,6
+7835,Earth,False,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Irmark,Burnewman,6
+7550,Earth,False,TRAPPIST-1e,53.0,0.0,0.0,716.0,0.0,0.0,True,716.0,0,F,S,0,0,0,0,0,1,0,Olly,Klindsey,6
+543,Europa,True,TRAPPIST-1e,55.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Isoton,Ousious,11
+8003,Earth,True,PSO J318.5-22,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Dandra,Sandry,3
+2041,Earth,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Ivanne,Johnsby,6
+2009,Earth,True,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Thel,Miltongson,5
+4447,Europa,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Hekabih,Praugnox,5
+5164,Earth,False,TRAPPIST-1e,27.0,0.0,6.0,0.0,814.0,107.0,False,927.0,0,G,S,0,0,1,0,0,0,0,Ton,Monroellynn,9
+8016,Mars,True,TRAPPIST-1e,56.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,0,1,0,Mans,Kill,0
+4945,Mars,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Push,Winie,6
+3551,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,0.0,724.0,80.0,True,804.0,0,F,P,0,0,1,0,0,0,0,Tarah,Patteraley,4
+257,Europa,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,1,0,0,0,0,0,0,Krabik,Invebodene,9
+1928,Mars,False,TRAPPIST-1e,17.0,583.0,0.0,753.0,0.0,0.0,True,1336.0,0,F,S,0,1,0,0,0,0,0,Unknown,Unknown,0
+4887,Europa,False,55 Cancri e,41.0,717.0,641.0,2.0,1559.0,4828.0,False,7747.0,0,C,P,1,0,0,0,0,0,0,Alcorix,Unressind,2
+3054,Earth,False,TRAPPIST-1e,27.0,0.0,0.0,775.0,127.0,0.0,True,902.0,0,F,P,0,0,1,0,0,0,0,Jeanny,Fowles,5
+2545,Earth,False,TRAPPIST-1e,16.0,0.0,1115.0,0.0,1674.0,132.0,False,2921.0,0,F,S,0,1,0,0,0,0,0,Candra,Douglasen,7
+6621,Mars,False,TRAPPIST-1e,19.0,1962.0,0.0,1.0,641.0,0.0,False,2604.0,0,F,P,0,0,0,0,1,0,0,Cupers,Hake,4
+6641,Earth,False,TRAPPIST-1e,29.0,888.0,0.0,1.0,0.0,0.0,True,889.0,0,G,S,0,0,0,1,0,0,0,Rickie,Mickersones,2
+7593,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Eilace,Browlerson,14
+7388,Earth,False,TRAPPIST-1e,40.0,0.0,0.0,14.0,785.0,10.0,False,809.0,0,G,S,0,0,0,0,1,0,0,Randa,Hinesh,6
+1833,Earth,False,PSO J318.5-22,21.0,0.0,0.0,677.0,4.0,0.0,False,681.0,0,E,P,1,0,0,0,0,0,0,Joana,Lynnerett,8
+5371,Europa,False,TRAPPIST-1e,39.0,0.0,11856.0,13.0,39.0,3.0,False,11911.0,0,C,S,1,0,0,0,0,0,0,Mintard,Inicont,3
+1091,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Jayne,Hessey,5
+8675,Earth,False,TRAPPIST-1e,44.0,1030.0,1015.0,0.0,11.0,167.54064039408868,True,2223.5406403940888,0,F,P,0,0,0,0,0,0,1,Annah,Gilleyons,8
+532,Earth,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Jeron,Munozanson,6
+6701,Earth,False,PSO J318.5-22,56.0,1.0,2.0,0.0,102.0,170.35874439461884,True,275.35874439461884,0,F,S,0,0,0,0,1,0,0,Karah,Harverez,7
+8580,Earth,False,TRAPPIST-1e,41.0,169.0,0.0,516.0,0.0,52.0,True,737.0,0,F,P,0,0,0,0,0,0,1,Davis,Mallerez,6
+2615,Europa,True,55 Cancri e,38.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Menchah,Timleplet,2
+5488,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Graviph,Wincer,3
+6019,Mars,False,TRAPPIST-1e,30.0,1960.0,0.0,638.0,0.0,0.0,False,2598.0,0,F,S,0,0,0,0,1,0,0,Hal,Botte,2
+1070,Earth,False,55 Cancri e,26.0,620.0,0.0,187.0,0.0,1304.0,True,2111.0,0,F,P,1,0,0,0,0,0,0,Dianie,Roses,9
+7802,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Melica,Huffy,2
+3345,Earth,False,55 Cancri e,19.0,616.0,0.0,46.0,0.0,14.0,True,676.0,0,G,S,0,1,0,0,0,0,0,Dony,Olivasquez,5
+5426,Mars,False,TRAPPIST-1e,32.0,6769.0,0.0,387.36827195467424,113.0,1.0,True,7270.368271954674,0,F,S,0,0,0,1,0,0,0,Grog,Pre,5
+3112,Europa,False,TRAPPIST-1e,45.0,0.0,1897.0,0.0,880.0,605.0,False,3382.0,0,C,S,1,0,0,0,0,0,0,Hamelik,Reming,6
+6571,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Letta,Howayery,3
+4598,Earth,True,TRAPPIST-1e,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Elicia,Leonzaley,7
+2345,Europa,True,55 Cancri e,38.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Chelik,Fatted,2
+1425,Mars,False,TRAPPIST-1e,61.0,1114.0,0.0,68.0,0.0,0.0,False,1182.0,0,D,P,1,0,0,0,0,0,0,Wat,Haste,2
+2891,Mars,True,TRAPPIST-1e,46.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,1,0,0,0,0,Wal,Hapie,8
+5058,Mars,False,TRAPPIST-1e,33.0,748.0,130.0,1047.0,458.0,0.0,True,2383.0,0,D,S,1,0,0,0,0,0,0,Sweal,Frasp,7
+776,Earth,False,TRAPPIST-1e,13.0,2.0,1.0,30.0,127.27808988764045,0.0,True,160.27808988764045,0,E,S,1,0,0,0,0,0,0,Wenise,Meyersones,7
+3171,Earth,True,TRAPPIST-1e,65.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Jilley,Brownings,3
+4270,Earth,False,PSO J318.5-22,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Kenda,Bailes,3
+7240,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Croo,Nake,3
+6595,Mars,False,TRAPPIST-1e,20.0,3839.0,57.0,1967.0,4.0,2.0,True,5869.0,0,F,S,0,0,0,0,1,0,0,Soyos,Boste,2
+7722,Earth,True,55 Cancri e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Allara,Thomason,5
+2059,Europa,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Taraid,Aillyber,3
+3341,Earth,True,PSO J318.5-22,64.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Amyra,Kirks,6
+3284,Earth,False,TRAPPIST-1e,23.0,1.0,0.0,778.0,8.0,154.51933701657458,True,941.5193370165746,0,F,S,0,0,1,0,0,0,0,Bryany,Rocknight,8
+852,Earth,False,TRAPPIST-1e,24.0,47.0,0.0,10.0,139.0,1406.0,True,1602.0,0,E,S,1,0,0,0,0,0,0,Caseye,Fuenterson,0
+6497,Europa,False,55 Cancri e,39.0,0.0,60.0,0.0,310.0,4674.0,False,5044.0,0,B,P,1,0,0,0,0,0,0,Zinopus,Spandisket,8
+541,Europa,True,55 Cancri e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Polam,Ousious,11
+5617,Mars,False,TRAPPIST-1e,33.0,3090.0,0.0,808.0,0.0,0.0,True,3898.0,0,D,S,1,0,0,0,0,0,0,Mits,Mane,4
+6882,Europa,False,55 Cancri e,52.0,360.0,1314.0,8.0,641.0,66.0,True,2389.0,0,A,P,1,0,0,0,0,0,0,Naschab,Purellliss,4
+5688,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Kendy,Haynardy,4
+3992,Earth,False,TRAPPIST-1e,37.0,0.0,0.0,115.0,671.0,0.0,False,786.0,0,G,P,0,0,1,0,0,0,0,Elicia,Wooterston,4
+3573,Earth,False,TRAPPIST-1e,27.0,0.0,253.0,0.0,79.0,421.0,True,753.0,0,G,P,0,0,1,0,0,0,0,Timmy,Santry,10
+3616,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Unknown,Unknown,0
+5076,Mars,False,TRAPPIST-1e,49.0,552.0,0.0,7.0,0.0,183.0,False,742.0,0,F,P,0,0,0,1,0,0,0,Almone,Prine,3
+3554,Earth,False,TRAPPIST-1e,32.0,0.0,600.0,80.0,0.0,18.0,True,698.0,0,G,unknown,0,0,1,0,0,0,0,Rankie,Hoodgers,6
+1559,Earth,False,TRAPPIST-1e,28.0,3202.0,233.608,0.0,0.0,5.0,False,3440.608,0,F,S,0,1,0,0,0,0,0,Karay,Dicksons,6
+3501,Earth,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Elene,Hendrys,5
+2860,Europa,False,TRAPPIST-1e,27.0,0.0,6013.0,0.0,820.0,31.0,True,6864.0,0,B,S,1,0,0,0,0,0,0,Minoces,Myling,9
+4085,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,1,0,0,0,0,Possh,Crie,2
+6600,Earth,False,PSO J318.5-22,20.0,0.0,136.6765498652291,0.0,0.0,1318.0,False,1454.6765498652292,0,F,P,0,0,0,0,1,0,0,Randa,Yanton,7
+3654,Europa,False,55 Cancri e,42.0,0.0,1249.0,0.0,1313.0,1148.0,False,3710.0,0,C,S,1,0,0,0,0,0,0,Alar,Tionstious,4
+3088,Earth,False,TRAPPIST-1e,34.0,578.0,0.0,0.0,0.0,323.0,True,901.0,0,F,P,0,0,1,0,0,0,0,Rena,Yorkland,11
+8175,Earth,False,TRAPPIST-1e,20.0,227.0,0.0,1.0,0.0,707.0,True,935.0,0,F,P,0,0,0,0,0,1,0,Glasey,Ryanglasey,3
+454,Earth,True,PSO J318.5-22,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Chery,Vantonson,4
+4744,Europa,False,TRAPPIST-1e,54.0,0.0,8246.0,0.0,56.0,118.0,False,8420.0,0,C,S,1,0,0,0,0,0,0,Mediton,Patoetic,4
+5499,Earth,False,TRAPPIST-1e,45.0,183.1891891891892,0.0,0.0,1501.0,24.0,True,1708.1891891891892,0,F,P,0,0,0,0,1,0,0,Noria,Rocknight,8
+6952,Earth,False,PSO J318.5-22,19.0,40.0,0.0,77.0,572.0,0.0,True,689.0,0,F,S,0,0,0,0,1,0,0,Coracy,Reyerson,2
+1605,Mars,False,55 Cancri e,18.0,86.0,1164.0,516.0,0.0,0.0,False,1766.0,0,D,S,1,0,0,0,0,0,0,Allota,Fincy,3
+8465,Europa,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,A,S,1,0,0,0,0,0,0,Betenar,Listive,8
+2631,Earth,False,TRAPPIST-1e,25.0,237.0,0.0,910.0,0.0,12.0,True,1159.0,0,F,P,0,1,0,0,0,0,0,Sealfs,Sutty,0
+7480,Earth,False,55 Cancri e,22.0,0.0,15.0,0.0,548.0,124.0,False,687.0,0,F,S,0,0,0,0,0,1,0,Thel,Olivasquez,5
+5031,Europa,False,TRAPPIST-1e,30.0,0.0,95.0,0.0,1202.0,5558.0,True,6855.0,0,C,P,1,0,0,0,0,0,0,Cellum,Alenter,6
+1589,Earth,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Camina,Dillestron,5
+4613,Mars,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Unch,Mity,4
+1132,Earth,False,55 Cancri e,28.0,2.0,558.0,0.0,0.0,0.0,True,560.0,0,F,P,1,0,0,0,0,0,0,Mael,Lancis,2
+6422,Europa,False,TRAPPIST-1e,39.0,2167.0,30.0,1472.0,961.9506802721088,0.0,False,4630.950680272109,0,C,S,1,0,0,0,0,0,0,Eltan,Plaricit,3
+4459,Mars,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Wheal,Bau,6
+2412,Earth,False,PSO J318.5-22,18.0,9.0,419.0,0.0,201.0,7.0,False,636.0,0,F,S,0,1,0,0,0,0,0,Adammy,Coolerson,11
+1811,Earth,False,TRAPPIST-1e,45.0,10.0,0.0,0.0,168.04944375772558,0.0,True,178.04944375772558,0,E,P,1,0,0,0,0,0,0,Timyra,Hammons,3
+5291,Europa,False,55 Cancri e,52.0,0.0,1425.0,31.0,0.0,1320.0,False,2776.0,0,C,P,1,0,0,0,0,0,0,Chabih,Matoltuble,5
+526,Mars,False,55 Cancri e,33.0,840.0,642.0,402.0,21.0,0.0,True,1905.0,0,F,P,1,0,0,0,0,0,0,Hamsp,Petie,2
+2272,Earth,False,55 Cancri e,17.0,0.0,11.0,493.0,0.0,372.0,True,876.0,0,F,S,0,1,0,0,0,0,0,Tamin,Bowenasey,3
+1643,Earth,False,TRAPPIST-1e,22.0,762.0,13.0,10.0,0.0,0.0,True,785.0,0,G,S,1,0,0,0,0,0,0,Eillis,Torrez,11
+5372,Europa,False,TRAPPIST-1e,35.0,0.0,7636.0,0.0,353.0,705.0,False,8694.0,0,C,S,1,0,0,0,0,0,0,Lesaton,Inicont,3
+7203,Mars,False,TRAPPIST-1e,37.0,1000.0,0.0,80.0,40.0,0.0,False,1120.0,0,F,P,0,0,0,0,0,1,0,Ars,Ches,5
+7776,Earth,False,TRAPPIST-1e,17.0,4.0,0.0,867.0,0.0,0.0,False,871.0,0,F,S,0,0,0,0,0,1,0,Heremy,Burchrison,9
+4255,Earth,False,TRAPPIST-1e,20.0,9.0,0.0,157.0,525.0,0.0,True,691.0,0,F,P,0,0,0,1,0,0,0,Fanna,Leonaldez,4
+5986,Earth,False,TRAPPIST-1e,32.0,18.0,0.0,0.0,1382.0,0.0,True,1400.0,0,F,P,0,0,0,0,1,0,0,Joandy,Potterry,6
+2793,Earth,False,TRAPPIST-1e,35.0,0.0,1438.0,0.0,112.0,74.0,True,1624.0,0,E,S,1,0,0,0,0,0,0,Dord,Pottley,2
+8427,Earth,False,55 Cancri e,15.0,0.0,20.0,816.0,39.0,1.0,True,876.0,0,F,S,0,0,0,0,0,1,0,Kaye,Chardsonnon,2
+5813,Earth,False,TRAPPIST-1e,18.0,0.0,784.0,8.0,11.0,0.0,True,803.0,0,F,S,0,0,0,1,0,0,0,Briane,Anthon,2
+38,Earth,False,55 Cancri e,15.0,0.0,492.0,48.0,20.0,401.0,True,961.0,0,F,S,1,0,0,0,0,0,0,Marina,Leodger,5
+5255,Earth,False,TRAPPIST-1e,14.0,30.0,757.0,115.0,0.0,0.0,True,902.0,0,F,P,0,0,0,1,0,0,0,Son,Mclainez,6
+7417,Earth,False,TRAPPIST-1e,41.0,84.0,0.0,6.0,811.0,2.0,True,903.0,0,F,S,0,0,0,0,0,1,0,Ward,Rodger,7
+3461,Earth,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Brence,Bardina,5
+8263,Earth,True,55 Cancri e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Iree,Halexandez,0
+6647,Earth,False,TRAPPIST-1e,23.0,779.0,7.0,9.0,9.0,0.0,True,804.0,0,F,S,0,0,0,0,1,0,0,Berta,Philliames,4
+6696,Earth,False,PSO J318.5-22,45.0,0.0,0.0,0.0,0.0,595.0,True,595.0,0,F,S,0,0,0,0,1,0,0,Irmark,Mcfaddenson,4
+1701,Europa,False,55 Cancri e,30.0,0.0,3722.0,4.0,140.0,4045.0,True,7911.0,0,B,P,1,0,0,0,0,0,0,Ainor,Ingetrody,0
+1270,Earth,True,55 Cancri e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Sharie,Cleang,6
+8409,Earth,True,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Catha,Fowlesterez,12
+2088,Mars,True,55 Cancri e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Shood,Gen,3
+147,Mars,False,TRAPPIST-1e,27.0,1365.0,0.0,48.0,22.0,137.0,False,1572.0,0,F,S,1,0,0,0,0,0,0,Rios,Floaf,4
+2036,Europa,False,TRAPPIST-1e,30.0,437.0,3585.0,0.0,4488.0,281.0,True,8791.0,0,C,S,1,0,0,0,0,0,0,Eltaird,Dianket,5
+2838,Earth,True,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Joana,Daughttley,7
+5376,Europa,False,55 Cancri e,32.0,70.0,764.0,724.0,547.0,1297.0,False,3402.0,0,A,P,1,0,0,0,0,0,0,Unukath,Alaxed,2
+274,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Oraryn,Kirklander,4
+1961,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Lles,Buncy,3
+6991,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Arid,Couresteer,3
+4097,Europa,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Ranon,Shricatory,7
+4840,Earth,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,0,1,0,0,0,0,0,Ellie,Beckeey,9
+4156,Europa,True,TRAPPIST-1e,39.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Unknown,Clinarfork,5
+1621,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Camily,Mirandry,5
+6964,Europa,False,55 Cancri e,28.0,6.0,3392.0,3944.0,987.0,0.0,False,8329.0,0,C,S,1,0,0,0,0,0,0,Zibah,Queldry,2
+6299,Europa,False,55 Cancri e,35.0,0.0,2504.0,0.0,0.0,5496.0,False,8000.0,0,B,P,1,0,0,0,0,0,0,Saiphda,Disivering,7
+4024,Europa,False,55 Cancri e,41.0,14.0,6777.0,81.0,604.0,2936.0,True,10412.0,0,B,P,1,0,0,0,0,0,0,Asellan,Taketiatim,2
+7577,Europa,False,55 Cancri e,44.0,9.0,2311.0,0.0,633.0,1.0,False,2954.0,0,B,P,1,0,0,0,0,0,0,Quarkib,Mosteraked,11
+722,Mars,False,PSO J318.5-22,35.0,1248.0,0.0,55.0,12.0,0.0,False,1315.0,0,F,S,1,0,0,0,0,0,0,Frus,Burle,4
+380,Europa,True,TRAPPIST-1e,59.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Enifik,Unhearfus,5
+6740,Earth,False,PSO J318.5-22,23.0,0.0,3.0,0.0,0.0,546.0,True,549.0,0,F,S,0,0,0,0,1,0,0,Lyney,Berges,5
+4482,Earth,False,55 Cancri e,22.0,0.0,509.0,2.0,8.0,74.0,False,593.0,0,F,S,0,0,0,1,0,0,0,Elany,Stantiagord,4
+7533,Earth,False,TRAPPIST-1e,27.0,0.0,0.0,846.0,59.0,0.0,True,905.0,0,E,S,0,1,0,0,0,0,0,Joeula,Baxterson,2
+2455,Mars,True,TRAPPIST-1e,39.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Apies,Pine,7
+6137,Mars,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,1,0,0,Luse,Ses,6
+4881,Earth,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Alley,Briggston,14
+4202,Mars,False,TRAPPIST-1e,28.0,3559.0,0.0,251.22285714285715,13.0,2.0,True,3825.2228571428573,0,D,P,1,0,0,0,0,0,0,Zelowl,Sidie,5
+4685,Mars,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,1,0,0,0,Scera,Mitte,0
+5480,Mars,False,TRAPPIST-1e,27.0,149.0,0.0,890.0,9.0,0.0,True,1048.0,0,E,S,0,1,0,0,0,0,0,Morny,Gerin,2
+7238,Earth,False,TRAPPIST-1e,24.0,9.0,769.0,9.0,0.0,0.0,False,787.0,0,E,S,0,1,0,0,0,0,0,Jilla,Matts,9
+7868,Europa,False,55 Cancri e,33.0,9.0,1365.0,0.0,5577.0,1483.0,True,8434.0,0,B,P,1,0,0,0,0,0,0,Rasalm,Foller,0
+8582,Earth,True,55 Cancri e,38.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Olgary,Lopelases,10
+8181,Earth,False,55 Cancri e,19.0,179.0,16.0,246.0,280.0,0.0,True,721.0,0,F,P,0,0,0,0,0,0,1,Isa,Villenson,11
+2311,Europa,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Alraida,Purellliss,4
+4641,Earth,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Lis,Reenon,5
+6023,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Row,Kart,6
+5301,Earth,False,PSO J318.5-22,43.0,635.0,53.0,0.0,3.0,0.0,False,691.0,0,E,P,0,1,0,0,0,0,0,Elany,Ellahan,8
+5584,Mars,False,TRAPPIST-1e,19.0,758.0,425.0,0.0,0.0,0.0,False,1183.0,0,D,S,1,0,0,0,0,0,0,Cin,Shbre,6
+3725,Earth,False,TRAPPIST-1e,25.0,20.0,0.0,424.0,0.0,359.0,False,803.0,0,F,S,0,0,1,0,0,0,0,Vivia,Burraymons,4
+4585,Earth,False,TRAPPIST-1e,20.0,0.0,254.0,868.0,405.0,0.0,True,1527.0,0,F,P,0,0,0,1,0,0,0,Debora,Thomason,5
+6401,Mars,False,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,0,1,0,0,0,0,0,Neysma,Horte,6
+4631,Mars,False,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Puffal,Gin,5
+6132,Earth,False,TRAPPIST-1e,19.0,14.0,614.0,0.0,160.0,0.0,True,788.0,0,E,S,0,1,0,0,0,0,0,Sterry,Chardst,3
+1334,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Genee,Nichoan,8
+3860,Earth,False,55 Cancri e,39.0,664.0,0.0,0.0,40.0,0.0,True,704.0,0,F,S,0,0,1,0,0,0,0,Lonna,Rocknight,8
+6261,Earth,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Herry,Farrowns,0
+844,Europa,False,55 Cancri e,41.0,0.0,5738.0,7.0,9038.0,28.0,False,14811.0,0,B,P,1,0,0,0,0,0,0,Achah,Cassiding,4
+6656,Mars,False,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,0,1,0,0,0,0,0,Set,Sturt,6
+821,Earth,False,TRAPPIST-1e,19.0,0.0,162.0,540.0,0.0,0.0,True,702.0,0,F,S,1,0,0,0,0,0,0,Breney,Briggston,14
+8110,Earth,True,55 Cancri e,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Donnie,Hurchrisong,5
+39,Earth,False,55 Cancri e,20.0,554.0,195.0,0.0,2606.0,0.0,True,3355.0,0,F,S,1,0,0,0,0,0,0,Loise,Wheelez,7
+7174,Europa,True,55 Cancri e,40.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Coxatik,Eguing,3
+2377,Europa,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Nusoton,Flesping,2
+495,Europa,False,TRAPPIST-1e,34.0,98.0,715.0,29.0,5732.0,1902.0,False,8476.0,0,B,P,1,0,0,0,0,0,0,Asellux,Parbage,4
+2310,Mars,False,TRAPPIST-1e,69.0,4483.0,0.0,525.0,0.0,500.0,True,5508.0,0,D,S,1,0,0,0,0,0,0,Meal,Wate,7
+7860,Earth,False,TRAPPIST-1e,57.0,0.0,839.0,1.0,0.0,2.0,False,842.0,0,G,P,0,0,0,0,1,0,0,Jorgie,Gibbsonton,13
+3689,Earth,False,PSO J318.5-22,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Cassa,Bradlerson,8
+6977,Earth,False,TRAPPIST-1e,30.0,1110.0,0.0,439.0,5.0,0.0,True,1554.0,0,F,P,0,0,0,0,0,1,0,Racy,Bakericks,6
+5450,Mars,True,55 Cancri e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Scers,Bine,9
+2227,Earth,True,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Neila,Pollarkeeks,9
+3879,Earth,False,TRAPPIST-1e,37.0,246.0,0.0,703.0,5.0,0.0,True,954.0,0,G,P,0,0,1,0,0,0,0,Kendy,Logannon,5
+787,Earth,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Alendy,Wardendez,9
+1353,Earth,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Maryne,Adavisons,9
+4153,Mars,False,TRAPPIST-1e,36.0,721.0,0.0,471.0,0.0,0.0,True,1192.0,0,F,P,0,0,0,1,0,0,0,Salros,Wate,7
+7197,Mars,True,TRAPPIST-1e,42.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,0,1,0,Jack,Nate,4
+2635,Earth,False,TRAPPIST-1e,38.0,77.0,169.0,0.0,0.0,470.0,True,716.0,0,F,P,0,1,0,0,0,0,0,Stal,Ocherman,4
+4376,Earth,False,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Vanney,Miranciash,3
+3682,Earth,False,TRAPPIST-1e,21.0,0.0,80.0,255.0,0.0,5190.0,False,5525.0,0,G,P,0,0,1,0,0,0,0,Leahy,Sullones,7
+7542,Earth,False,TRAPPIST-1e,20.0,153.478672985782,25.0,0.0,11.0,0.0,True,189.478672985782,0,F,S,0,0,0,0,0,1,0,Paulie,Loway,12
+841,Europa,False,TRAPPIST-1e,44.0,0.0,2792.0,0.0,148.0,1043.0,True,3983.0,0,C,P,1,0,0,0,0,0,0,Wein,Alcemblery,5
+4540,Mars,False,TRAPPIST-1e,45.0,944.0,292.0,2.0,83.24147727272727,0.0,True,1321.2414772727273,0,F,P,0,0,0,1,0,0,0,Ale,Shpie,4
+8575,Earth,False,55 Cancri e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Arla,Navages,10
+20,Earth,False,55 Cancri e,14.0,412.0,0.0,1.0,0.0,679.0,False,1092.0,0,F,P,1,0,0,0,0,0,0,Philda,Brighttt,6
+683,Earth,False,TRAPPIST-1e,26.0,1577.0,2.0,0.0,30.0,0.0,True,1609.0,0,E,S,1,0,0,0,0,0,0,Vivia,Stantiagord,4
+8568,Earth,False,TRAPPIST-1e,45.0,1.0,0.0,638.0,9.0,161.0,True,809.0,0,G,S,0,0,0,0,1,0,0,Geney,Schmondez,5
+4577,Earth,False,TRAPPIST-1e,20.0,362.0,0.0,31.0,12.0,483.0,True,888.0,0,G,P,0,0,1,0,0,0,0,Emilla,Hebernandry,4
+1916,Earth,False,PSO J318.5-22,32.0,0.0,58.0,0.0,0.0,642.0,False,700.0,0,G,P,0,1,0,0,0,0,0,Sall,Woodwinez,9
+244,Earth,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Maen,Merkins,7
+3202,Earth,False,TRAPPIST-1e,20.0,1.0,760.0,172.70347003154575,21.0,0.0,True,954.7034700315457,0,G,S,0,1,0,0,0,0,0,Mara,Hermanapp,5
+8577,Earth,False,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Pamont,Navages,10
+1235,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Medib,Plegred,7
+6449,Mars,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Cings,Knik,7
+7535,Europa,False,TRAPPIST-1e,28.0,40.0,9012.0,0.0,111.0,551.0,False,9714.0,0,C,P,1,0,0,0,0,0,0,Marrai,Ausivetpul,3
+2650,Earth,False,TRAPPIST-1e,34.0,0.0,250.0,23.0,0.0,514.0,True,787.0,0,E,P,1,0,0,0,0,0,0,Unknown,Unknown,0
+7766,Earth,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Stendy,Fredersend,3
+3535,Earth,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Trick,Meyersones,7
+5753,Mars,False,TRAPPIST-1e,18.0,4397.0,610.0,1437.0,4.0,0.0,False,6448.0,0,F,S,0,0,0,1,0,0,0,Pebray,Wooes,3
+379,Europa,False,55 Cancri e,22.0,0.0,1170.0,0.0,5467.0,1241.0,False,7878.0,0,B,P,1,0,0,0,0,0,0,Mirark,Unhearfus,5
+6773,Earth,False,PSO J318.5-22,28.0,0.0,0.0,0.0,669.0,16.0,True,685.0,0,F,S,0,0,0,0,1,0,0,Troyra,Cames,3
+5158,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Leen,Gallenry,7
+121,Mars,False,TRAPPIST-1e,45.0,2103.0,6.0,0.0,0.0,0.0,False,2109.0,0,E,S,1,0,0,0,0,0,0,Barave,Fles,2
+296,Europa,False,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Bellah,Siveduced,3
+1499,Europa,False,TRAPPIST-1e,35.0,305.0,3621.0,0.0,320.0,341.0,False,4587.0,0,C,S,1,0,0,0,0,0,0,Ankabih,Idivent,2
+6359,Earth,False,TRAPPIST-1e,29.0,68.0,74.0,713.0,37.0,15.0,True,907.0,0,G,P,0,0,0,1,0,0,0,Lillia,Dyers,4
+1829,Europa,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Weion,Exibuctich,4
+162,Earth,False,TRAPPIST-1e,25.0,62.0,0.0,0.0,0.0,956.0,True,1018.0,0,G,P,1,0,0,0,0,0,0,Camiet,Shephendry,6
+6973,Earth,False,TRAPPIST-1e,23.0,0.0,1089.0,311.0,0.0,0.0,True,1400.0,0,F,S,0,0,0,0,1,0,0,Hellia,Steeletters,6
+2043,Earth,False,55 Cancri e,24.0,0.0,421.0,0.0,207.0,63.0,True,691.0,0,F,P,0,1,0,0,0,0,0,Ollip,Hopez,6
+6556,Earth,False,TRAPPIST-1e,29.0,0.0,10.0,0.0,5.0,975.0,True,990.0,0,E,S,0,1,0,0,0,0,0,Verek,Wolferguson,8
+2092,Europa,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Ruchban,Fushausive,4
+5204,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Rayley,Foledges,4
+4821,Mars,False,TRAPPIST-1e,20.0,859.0,3.0,0.0,939.0,0.0,False,1801.0,0,F,P,0,0,0,1,0,0,0,Bler,Cre,7
+304,Mars,False,TRAPPIST-1e,19.0,417.0,349.0,634.0,3.0,1057.0,False,2460.0,0,F,S,1,0,0,0,0,0,0,Weros,Perle,5
+3410,Earth,False,55 Cancri e,34.0,232.0,457.0,1.0,218.0,0.0,True,908.0,0,G,S,0,0,1,0,0,0,0,Ebonya,Buchansen,5
+6550,Europa,False,TRAPPIST-1e,40.0,0.0,120.0,0.0,2814.0,318.0,True,3252.0,0,C,P,1,0,0,0,0,0,0,Weino,Slomed,0
+2607,Europa,False,55 Cancri e,43.0,0.0,9923.0,660.0,10.0,266.0,False,10859.0,0,B,P,1,0,0,0,0,0,0,Zaninon,Simous,5
+4347,Europa,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Asellum,Calazy,4
+3358,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Hencey,Buckleinson,5
+693,Mars,False,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,P,1,0,0,0,0,0,0,Naros,Reate,2
+5861,Mars,False,TRAPPIST-1e,31.0,915.0,0.0,1313.0,370.0,0.0,False,2598.0,0,F,P,0,0,0,0,1,0,0,Rinkes,Brity,6
+3937,Earth,True,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Gailya,Avisnydes,5
+5424,Europa,False,TRAPPIST-1e,45.0,0.0,1202.0,149.0,1472.0,3379.0,True,6202.0,0,D,P,1,0,0,0,0,0,0,Winopus,Shoeweely,3
+3884,Earth,False,TRAPPIST-1e,28.0,0.0,241.0,6.0,0.0,542.0,False,789.0,0,E,P,1,0,0,0,0,0,0,Elina,Deckerson,7
+4016,Mars,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,1,0,0,0,0,Lidex,Perta,4
+7699,Earth,False,TRAPPIST-1e,18.0,22.0,0.0,681.0,0.0,1.0,True,704.0,0,G,P,0,0,0,0,1,0,0,Patsya,Bonder,2
+5266,Earth,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Gordo,Freder,2
+8077,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,0,1,0,Sinkes,Spien,6
+3143,Earth,False,TRAPPIST-1e,20.0,0.0,39.0,830.0,17.0,0.0,False,886.0,0,G,S,0,1,0,0,0,0,0,Philia,Gallard,8
+6136,Mars,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Koat,Chpie,5
+6374,Earth,False,TRAPPIST-1e,33.0,1288.0,2.0,0.0,0.0,1.0,True,1291.0,0,F,S,0,0,0,0,1,0,0,Elanie,Talls,4
+1515,Earth,False,TRAPPIST-1e,24.0,1158.0,193.0,798.0,2.0,0.0,True,2151.0,0,F,P,0,1,0,0,0,0,0,Glena,Dicksons,6
+839,Earth,False,TRAPPIST-1e,18.0,200.0,124.0,0.0,413.0,0.0,True,737.0,0,F,P,1,0,0,0,0,0,0,Duana,Jacostaney,9
+8479,Mars,False,TRAPPIST-1e,26.0,887.0,6.0,15.0,148.0,0.0,True,1056.0,0,D,S,1,0,0,0,0,0,0,Chars,Flate,7
+6546,Earth,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Louisa,Mcmahoney,4
+5543,Earth,False,55 Cancri e,19.0,0.0,716.0,0.0,0.0,0.0,False,716.0,0,F,S,0,0,0,1,0,0,0,Luisy,Fryan,8
+2936,Europa,True,55 Cancri e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Tarmus,Sechausive,3
+6833,Europa,False,TRAPPIST-1e,24.0,0.0,2921.0,5.0,795.0,3155.0,False,6876.0,0,C,P,1,0,0,0,0,0,0,Atinon,Arible,7
+4109,Europa,False,TRAPPIST-1e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Unknown,Unknown,0
+2293,Earth,False,TRAPPIST-1e,42.0,183.1891891891892,1.0,61.0,897.0,0.0,True,1142.1891891891892,0,F,S,0,1,0,0,0,0,0,Carley,Harmond,3
+4542,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Weros,Pelie,0
+3743,Earth,True,TRAPPIST-1e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Unknown,Castannison,10
+4299,Europa,False,TRAPPIST-1e,33.0,0.0,4592.0,0.0,209.0,954.0,False,5755.0,0,B,S,1,0,0,0,0,0,0,Skatzn,Entedraved,2
+6258,Earth,False,TRAPPIST-1e,44.0,1175.0,0.0,13.0,642.0,498.0,True,2328.0,0,G,P,0,0,0,1,0,0,0,Oraryn,Prickmantes,5
+3125,Mars,False,TRAPPIST-1e,18.0,2532.0,0.0,46.0,0.0,0.0,True,2578.0,0,D,S,1,0,0,0,0,0,0,Par,Port,2
+4244,Mars,False,TRAPPIST-1e,34.0,849.0,51.0,375.0,0.0,24.0,True,1299.0,0,E,S,1,0,0,0,0,0,0,Yos,Stike,6
+6298,Europa,False,TRAPPIST-1e,53.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Tachba,Disivering,7
+4126,Earth,True,PSO J318.5-22,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Louisy,Waderoachez,7
+5168,Earth,False,TRAPPIST-1e,56.0,0.0,4.0,778.0,0.0,0.0,True,782.0,0,G,S,0,0,1,0,0,0,0,Vanard,Nasquez,5
+5221,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Brance,Mcfarleys,2
+42,Europa,False,TRAPPIST-1e,45.0,0.0,164.0,45.0,2511.0,855.0,True,3575.0,0,B,P,1,0,0,0,0,0,0,Ankalik,Cylistrand,2
+5817,Earth,False,TRAPPIST-1e,22.0,1.0,0.0,10.0,625.0,0.0,True,636.0,0,F,S,0,0,0,1,0,0,0,Walla,Bardina,5
+5787,Europa,False,55 Cancri e,33.0,0.0,3095.0,0.0,197.0,40.0,True,3332.0,0,C,P,1,0,0,0,0,0,0,Sariton,Fatchanble,0
+1675,Earth,False,TRAPPIST-1e,43.0,0.0,0.0,870.0,0.0,14.0,True,884.0,0,G,S,1,0,0,0,0,0,0,Murie,Mejiaddox,6
+7207,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Chesty,Morez,4
+1830,Europa,False,TRAPPIST-1e,40.0,0.0,382.0,0.0,1.0,3822.0,False,4205.0,0,C,P,1,0,0,0,0,0,0,Unknown,Exibuctich,4
+3650,Earth,True,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Kaye,Cofferson,11
+1607,Earth,False,PSO J318.5-22,70.0,0.0,3.0,1.0,2.0,1290.0,True,1296.0,0,F,P,0,1,0,0,0,0,0,Lavey,Hopez,6
+6260,Earth,False,55 Cancri e,15.0,3.0,854.0,23.0,0.0,0.0,False,880.0,0,F,P,0,0,0,0,1,0,0,Hughy,Garden,7
+7668,Earth,False,55 Cancri e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Leneva,Jenkinnedy,4
+6872,Earth,False,55 Cancri e,36.0,207.0,0.0,450.0,94.0,0.0,True,751.0,0,G,S,0,0,0,1,0,0,0,Jaimer,Pacerty,5
+7430,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,0,1,0,Mitch,Vloaf,12
+2887,Earth,True,PSO J318.5-22,6.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Trice,Moreman,6
+1815,Mars,False,TRAPPIST-1e,57.0,975.0,0.0,295.0,39.0,0.0,False,1309.0,0,F,P,0,1,0,0,0,0,0,Wacks,Burta,3
+3000,Earth,False,TRAPPIST-1e,25.0,764.0,16.0,0.0,8.0,0.0,True,788.0,0,E,P,1,0,0,0,0,0,0,Harvin,Malliamsey,6
+1103,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,1,0,0,0,0,0,0,Sugbix,Terry,8
+1172,Europa,True,TRAPPIST-1e,61.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Unknown,Pronfraked,4
+6161,Earth,False,TRAPPIST-1e,27.0,0.0,1.0,20.0,0.0,1363.0,True,1384.0,0,F,P,0,0,0,0,1,0,0,Billia,Mcfarley,5
+6468,Earth,False,TRAPPIST-1e,49.0,0.0,69.0,92.0,1600.0,15.0,True,1776.0,0,G,S,0,0,0,1,0,0,0,Elle,Harrenoldez,3
+994,Mars,True,55 Cancri e,30.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Otlios,Ble,8
+7191,Earth,False,TRAPPIST-1e,28.0,0.0,817.0,58.0,0.0,25.0,True,900.0,0,F,S,0,0,0,0,1,0,0,Katen,Avisnydes,5
+4346,Earth,False,PSO J318.5-22,28.0,0.0,18.0,0.0,0.0,674.0,True,692.0,0,F,S,0,0,1,0,0,0,0,Jona,Dukertyler,4
+1358,Earth,False,TRAPPIST-1e,14.0,360.0,0.0,2116.0,1.0,8.0,True,2485.0,0,F,P,1,0,0,0,0,0,0,Lina,Popez,4
+4615,Earth,True,55 Cancri e,59.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Andyn,Ryanga,4
+3724,Earth,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Hanry,Burraymons,4
+3200,Europa,False,TRAPPIST-1e,41.0,0.0,649.0,0.0,945.0,1002.435593220339,False,2596.435593220339,0,B,S,1,0,0,0,0,0,0,Quarke,Scerodbox,7
+8217,Mars,False,TRAPPIST-1e,18.0,697.0,0.0,25.0,0.0,61.0,False,783.0,0,D,P,1,0,0,0,0,0,0,Pebix,Wate,7
+836,Earth,False,TRAPPIST-1e,26.0,0.0,0.0,716.0,0.0,1.0,False,717.0,0,F,P,1,0,0,0,0,0,0,Evane,Warrishales,8
+7471,Europa,True,55 Cancri e,47.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Dyonon,Frakepeed,2
+3908,Europa,False,55 Cancri e,44.0,36.0,588.0,0.0,1675.0,3597.0,False,5896.0,0,B,S,1,0,0,0,0,0,0,Wasath,Foraud,7
+5169,Earth,False,TRAPPIST-1e,28.0,0.0,0.0,0.0,676.0,124.0,True,800.0,0,F,S,0,0,0,1,0,0,0,Ireene,Boltertley,2
+5990,Europa,False,55 Cancri e,25.0,484.0,11441.0,0.0,4.0,5477.0,False,17406.0,0,C,P,1,0,0,0,0,0,0,Anyonon,Pressive,5
+4095,Europa,False,TRAPPIST-1e,27.0,0.0,2717.0,0.0,0.0,986.0,False,3703.0,0,C,S,1,0,0,0,0,0,0,Mesatz,Shricatory,7
+7353,Europa,False,55 Cancri e,43.0,0.0,16856.0,0.0,4344.0,977.0,True,22177.0,0,C,P,1,0,0,0,0,0,0,Tabdhib,Heeroling,4
+2032,Earth,False,PSO J318.5-22,23.0,0.0,774.0,0.0,0.0,0.0,True,774.0,0,G,S,0,1,0,0,0,0,0,Belly,Barbes,13
+3939,Earth,False,TRAPPIST-1e,22.0,0.0,13.0,524.0,7.0,0.0,True,544.0,0,F,P,0,0,1,0,0,0,0,Analdy,Bucknersony,5
+6452,Earth,False,55 Cancri e,22.0,38.0,19.0,348.0,217.0,115.0,True,737.0,0,F,P,0,0,0,0,1,0,0,Thell,Newtontoss,4
+1185,Mars,False,TRAPPIST-1e,27.0,1277.0,0.0,1.0,10.0,9.0,True,1297.0,0,E,S,1,0,0,0,0,0,0,Hary,Erpie,3
+6942,Earth,False,TRAPPIST-1e,24.0,821.0,0.0,0.0,68.0,0.0,True,889.0,0,G,P,0,0,0,1,0,0,0,Garion,Ayalazquez,3
+4463,Europa,False,TRAPPIST-1e,34.0,0.0,48.0,2067.0,3.0,6.0,False,2124.0,0,C,P,1,0,0,0,0,0,0,Alino,Ingent,4
+4967,Europa,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Altara,Pretive,4
+8027,Earth,False,TRAPPIST-1e,37.0,210.0,3.0,601.0,1.0,68.0,True,883.0,0,G,S,0,0,0,0,1,0,0,Heremy,Clayson,2
+3679,Earth,True,TRAPPIST-1e,45.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Arlen,Blacks,7
+5092,Earth,False,55 Cancri e,30.0,0.0,59.0,18.0,639.0,0.0,False,716.0,0,F,S,0,0,0,1,0,0,0,Crisey,Beckeey,9
+4763,Earth,False,TRAPPIST-1e,20.0,0.0,15.0,455.0,95.0,0.0,True,565.0,0,F,S,0,0,0,1,0,0,0,Alie,Grahangory,5
+388,Europa,True,55 Cancri e,46.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Taurak,Ineysive,2
+2194,Earth,False,55 Cancri e,31.0,1.0,144.04761904761904,2.0,605.0,0.0,False,752.047619047619,0,G,P,0,1,0,0,0,0,0,Therry,Wellierras,8
+5570,Europa,True,55 Cancri e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Sarich,Geakerat,4
+119,Mars,False,TRAPPIST-1e,35.0,701.0,0.0,296.0,0.0,25.0,True,1022.0,0,E,S,1,0,0,0,0,0,0,Miloss,Mesty,3
+1283,Earth,False,TRAPPIST-1e,25.0,0.0,997.0,0.0,0.0,0.0,True,997.0,0,E,S,1,0,0,0,0,0,0,Terta,Blandez,5
+7762,Earth,False,TRAPPIST-1e,61.0,67.0,0.0,654.0,0.0,86.0,True,807.0,0,G,S,0,0,0,0,1,0,0,Alvia,Jacostaney,9
+2431,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,1,0,0,0,0,0,0,Unch,Seche,3
+6780,Europa,True,PSO J318.5-22,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Alrairk,Perable,4
+7851,Earth,False,TRAPPIST-1e,24.0,462.0,0.0,0.0,0.0,240.0,True,702.0,0,F,S,0,0,0,0,0,1,0,Toniel,Heney,2
+6284,Earth,True,55 Cancri e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Unknown,Griffince,6
+8395,Earth,False,TRAPPIST-1e,35.0,503.0,236.0,2.0,0.0,68.0,False,809.0,0,G,P,0,0,0,0,1,0,0,Penne,Goffey,6
+3083,Mars,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Yalmon,Buche,7
+4120,Earth,False,TRAPPIST-1e,25.0,141.0,3.0,640.0,0.0,100.0,True,884.0,0,G,P,0,0,1,0,0,0,0,All,Wolferton,6
+6903,Mars,False,TRAPPIST-1e,41.0,2754.0,398.0,21.0,0.0,0.0,True,3173.0,0,D,P,1,0,0,0,0,0,0,Conth,Kashe,7
+5578,Earth,True,PSO J318.5-22,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Alber,Kerristicey,7
+4625,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Toat,Brele,6
+8337,Earth,False,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,810.0,True,810.0,0,G,S,0,0,0,0,1,0,0,Darrie,Herreras,6
+8676,Earth,True,PSO J318.5-22,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,0,1,0,Therta,Casentry,2
+1034,Mars,False,TRAPPIST-1e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Jel,Cuche,5
+5356,Europa,False,TRAPPIST-1e,58.0,0.0,1975.0,598.0,7.0,3726.0,False,6306.0,0,B,S,1,0,0,0,0,0,0,Scellus,Mostedry,4
+4059,Europa,False,55 Cancri e,40.0,2320.0,0.0,4874.0,3131.0,498.0,False,10823.0,0,C,S,1,0,0,0,0,0,0,Krazet,Gloother,5
+6487,Europa,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,P,1,0,0,0,0,0,0,Marinon,Ambleetive,6
+2500,Earth,False,TRAPPIST-1e,26.0,886.0,0.0,0.0,0.0,21.0,True,907.0,0,G,P,0,1,0,0,0,0,0,Lilly,Webstephrey,9
+4770,Earth,False,PSO J318.5-22,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Joyton,Willy,12
+5587,Earth,False,55 Cancri e,21.0,423.0,0.0,172.0,0.0,154.51933701657458,True,749.5193370165746,0,F,S,0,0,0,1,0,0,0,Patoya,Landolphrey,3
+5515,Earth,False,TRAPPIST-1e,29.0,0.0,2395.0,7.0,20.0,6.0,False,2428.0,0,F,S,0,0,0,1,0,0,0,Glena,Oneiles,16
+1373,Earth,False,TRAPPIST-1e,59.0,0.0,0.0,0.0,0.0,755.0,True,755.0,0,G,P,1,0,0,0,0,0,0,Sadine,Simson,6
+3021,Earth,False,TRAPPIST-1e,64.0,0.0,0.0,16.0,733.0,159.0,False,908.0,0,G,P,0,1,0,0,0,0,0,Annaha,Hahnstoneal,6
+4388,Europa,False,TRAPPIST-1e,32.0,45.0,985.0,0.0,0.0,6803.0,False,7833.0,0,C,P,1,0,0,0,0,0,0,Dirk,Uningably,2
+725,Europa,False,55 Cancri e,36.0,29.0,12180.0,0.0,93.0,17306.0,False,29608.0,0,B,P,1,0,0,0,0,0,0,Maiam,Oilloody,4
+1003,Earth,True,PSO J318.5-22,38.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Kayd,Pughanders,5
+7411,Mars,True,TRAPPIST-1e,42.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,0,1,0,Anamse,Backe,3
+4379,Europa,False,TRAPPIST-1e,38.0,0.0,93.0,0.0,0.0,7303.0,False,7396.0,0,D,S,1,0,0,0,0,0,0,Ruchban,Bradiary,4
+7489,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Mesh,Bache,5
+7955,Mars,False,TRAPPIST-1e,31.0,49.0,322.0,977.0,0.0,0.0,True,1348.0,0,F,P,0,0,0,0,0,1,0,Chios,Purte,5
+3581,Europa,False,TRAPPIST-1e,57.0,205.0,4415.0,0.0,1589.0,305.0,True,6514.0,0,C,P,1,0,0,0,0,0,0,Alino,Namsheary,4
+2103,Europa,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Polah,Spadicage,3
+2868,Earth,False,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Andrey,Farmonrada,5
+422,Earth,True,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Sallyl,Poperez,5
+5644,Mars,False,TRAPPIST-1e,41.0,1.0,0.0,808.0,0.0,0.0,False,809.0,0,D,P,1,0,0,0,0,0,0,Rhex,Bart,3
+4773,Earth,False,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Scotte,Willy,12
+8097,Europa,False,55 Cancri e,49.0,3.0,1108.0,2.0,5775.0,1964.0,False,8852.0,0,C,S,0,1,0,0,0,0,0,Chamark,Vertfull,4
+22,Earth,True,55 Cancri e,49.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Glendy,Brantuarez,7
+6116,Earth,False,PSO J318.5-22,28.0,0.0,7.0,17.0,0.0,1724.0,True,1748.0,0,G,P,0,0,0,1,0,0,0,Bel,Harmontry,4
+3643,Europa,True,55 Cancri e,55.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Alhenah,Ciplanke,2
+1817,Mars,False,TRAPPIST-1e,27.0,120.0,0.0,1476.0,3.0,0.0,True,1599.0,0,F,P,0,1,0,0,0,0,0,Wins,Bate,9
+6312,Earth,False,TRAPPIST-1e,45.0,1595.0,0.0,0.0,0.0,13.0,True,1608.0,0,E,P,0,1,0,0,0,0,0,Sonnie,Phillis,2
+3852,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,1,0,0,0,0,Aars,Pare,5
+7908,Mars,False,55 Cancri e,31.0,1997.0,0.0,0.0,0.0,0.0,False,1997.0,0,F,S,0,0,0,0,0,1,0,Ale,Start,5
+4499,Europa,False,55 Cancri e,48.0,0.0,342.0,929.0,10887.0,0.0,False,12158.0,0,C,S,1,0,0,0,0,0,0,Alrairk,Maxled,4
+144,Earth,True,PSO J318.5-22,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Ianya,Hutchinton,4
+8280,Europa,False,TRAPPIST-1e,24.0,3.0,2910.0,0.0,112.0,36.0,True,3061.0,0,D,S,1,0,0,0,0,0,0,Hekaron,Amspring,0
+4955,Earth,False,TRAPPIST-1e,35.0,35.0,0.0,14.0,0.0,816.0,False,865.0,0,E,S,0,1,0,0,0,0,0,Florey,Torrez,11
+5320,Earth,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Ianne,Bryants,5
+7796,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,693.0,True,693.0,0,F,P,0,0,0,0,0,1,0,Hillie,Farrez,3
+7314,Earth,True,PSO J318.5-22,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Gordo,Belley,11
+5744,Earth,False,TRAPPIST-1e,16.0,0.0,0.0,641.0,33.0,29.0,False,703.0,0,F,S,0,0,0,1,0,0,0,Karlie,Singtons,4
+4194,Mars,False,TRAPPIST-1e,27.0,994.0,0.0,26.0,1.0,0.0,False,1021.0,0,E,S,1,0,0,0,0,0,0,Terek,Welte,7
+167,Earth,False,TRAPPIST-1e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Robyny,Adavisons,9
+7525,Earth,False,TRAPPIST-1e,22.0,6.0,21.0,0.0,782.0,0.0,True,809.0,0,G,P,0,0,0,0,1,0,0,Bonya,Workmans,4
+1180,Earth,False,TRAPPIST-1e,22.0,0.0,17.0,0.0,61.0,567.0,True,645.0,0,F,S,1,0,0,0,0,0,0,Dony,Torrez,11
+7448,Europa,False,55 Cancri e,18.0,0.0,3492.0,0.0,506.0,8.0,True,4006.0,0,C,P,1,0,0,0,0,0,0,Genif,Wassird,7
+4140,Europa,False,TRAPPIST-1e,29.0,0.0,6338.0,0.0,1366.0,89.0,False,7793.0,0,B,S,1,0,0,0,0,0,0,Ranark,Dinsprody,5
+888,Earth,False,PSO J318.5-22,48.0,0.0,306.0,3.0,168.04944375772558,359.0,True,836.0494437577256,0,F,P,1,0,0,0,0,0,0,Erice,Potters,9
+1112,Europa,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Kleeiak,Dischod,4
+1220,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,675.0,5.0,0.0,True,680.0,0,F,S,1,0,0,0,0,0,0,Naomin,Moodsey,10
+2826,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,1,0,0,0,0,0,0,Mitch,Canie,3
+4737,Mars,True,TRAPPIST-1e,42.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Leos,Apie,8
+1750,Earth,False,55 Cancri e,58.0,14.0,0.0,1081.0,0.0,0.0,True,1095.0,0,F,P,0,1,0,0,0,0,0,Bony,Handertiz,9
+5659,Mars,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Cappe,Manie,5
+7072,Europa,False,TRAPPIST-1e,27.0,390.0,1377.0,0.0,2809.0,4914.0,False,9490.0,0,C,S,1,0,0,0,0,0,0,Canonon,Retefule,4
+3071,Earth,False,TRAPPIST-1e,19.0,260.0,0.0,238.0,139.0,8.0,True,645.0,0,F,S,0,0,1,0,0,0,0,Maurie,Hornettoney,6
+5283,Europa,True,55 Cancri e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Isoton,Supred,5
+7597,Europa,False,55 Cancri e,36.0,0.0,4260.0,0.0,0.0,1678.0,True,5938.0,0,D,P,1,0,0,0,0,0,0,Hekarf,Pacticious,0
+4705,Mars,False,TRAPPIST-1e,18.0,1092.0,31.0,309.0,0.0,0.0,True,1432.0,0,F,P,0,0,0,1,0,0,0,Honda,Bert,4
+8574,Earth,False,PSO J318.5-22,10.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Andrey,Navages,10
+5470,Earth,False,TRAPPIST-1e,19.0,546.0,11.0,0.0,325.0,218.0,True,1100.0,0,F,P,0,0,0,0,1,0,0,Sterry,Brenney,7
+3628,Earth,True,55 Cancri e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Unknown,Doughan,5
+6451,Mars,True,55 Cancri e,68.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Dors,Knik,7
+2877,Earth,True,PSO J318.5-22,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Billey,Romason,3
+6853,Earth,False,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,1150.0,True,1150.0,0,F,S,0,0,0,0,1,0,0,Chrisa,Hurchanney,6
+4844,Earth,False,TRAPPIST-1e,47.0,1.0,17.0,0.0,1069.0,0.0,True,1087.0,0,F,S,0,0,0,1,0,0,0,Joana,Crayeson,4
+2823,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Helean,Hestes,8
+642,Earth,False,TRAPPIST-1e,25.0,1.0,0.0,38.0,7.0,740.0,True,786.0,0,G,P,1,0,0,0,0,0,0,Josey,Carreralend,6
+7056,Earth,False,TRAPPIST-1e,37.0,1442.0,4.0,0.0,3.0,0.0,True,1449.0,0,F,S,0,0,0,0,1,0,0,Herina,Mcneiley,6
+152,Earth,False,TRAPPIST-1e,58.0,0.0,985.0,0.0,5.0,0.0,True,990.0,0,E,S,1,0,0,0,0,0,0,Hilip,Grifford,4
+5215,Europa,False,TRAPPIST-1e,42.0,0.0,890.0,2929.0,352.0,4898.0,False,9069.0,0,A,P,1,0,0,0,0,0,0,Gluinol,Fueling,5
+4643,Mars,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Packs,Curie,3
+1624,Earth,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Elindy,Reyervaney,4
+1837,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Dixiel,Ryanga,4
+641,Earth,True,PSO J318.5-22,46.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Veroy,Santry,10
+5728,Earth,False,TRAPPIST-1e,23.0,0.0,723.0,1.0,0.0,0.0,True,724.0,0,F,S,0,0,0,1,0,0,0,Lloyde,Kimons,7
+7093,Europa,False,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Proxima,Quidedbolt,4
+5167,Mars,False,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,0,1,0,0,0,0,0,Totax,Brazo,2
+487,Earth,True,TRAPPIST-1e,47.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Wenise,Mirezavis,8
+3975,Earth,False,TRAPPIST-1e,17.0,0.0,628.0,0.0,66.0,449.0,True,1143.0,0,F,S,0,0,1,0,0,0,0,Yvetta,Weaverays,4
+6866,Earth,True,PSO J318.5-22,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Rician,Mondsey,4
+5711,Earth,False,TRAPPIST-1e,24.0,178.0,0.0,235.0,0.0,396.0,True,809.0,0,G,S,0,0,0,1,0,0,0,Unknown,Unknown,0
+2453,Mars,True,55 Cancri e,50.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Sealfs,Queke,5
+2182,Europa,False,TRAPPIST-1e,44.0,1409.0,910.0,17.0,1452.0,3782.0,False,7570.0,0,A,S,1,0,0,0,0,0,0,Wezna,Fulatorly,4
+134,Earth,False,TRAPPIST-1e,56.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Verly,Wolferguson,8
+2983,Europa,False,TRAPPIST-1e,28.0,0.0,3281.0,0.0,68.0,341.0,False,3690.0,0,C,S,1,0,0,0,0,0,0,Bosoneb,Surind,2
+2643,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Smark,Parté,3
+3596,Earth,False,TRAPPIST-1e,56.0,3.0,167.15765765765767,768.0,0.0,170.35874439461884,True,1108.5164020522766,0,F,P,0,0,1,0,0,0,0,Tyle,Guerson,11
+8173,Earth,False,TRAPPIST-1e,23.0,22.0,226.0,0.0,0.0,633.0,True,881.0,0,G,S,0,0,0,0,1,0,0,Leen,Wolfernan,8
+4995,Earth,False,TRAPPIST-1e,30.0,0.0,674.0,39.0,0.0,10.0,False,723.0,0,G,S,0,0,1,0,0,0,0,Therly,Connon,6
+1357,Earth,False,TRAPPIST-1e,44.0,0.0,200.0,128.0,460.0,0.0,True,788.0,0,E,S,1,0,0,0,0,0,0,Artis,Hanghanson,5
+6896,Mars,True,TRAPPIST-1e,10.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,0,1,0,Jet,Sinda,6
+7674,Earth,False,PSO J318.5-22,18.0,0.0,0.0,19.0,751.0,4.0,True,774.0,0,G,S,0,0,0,0,1,0,0,Gracy,Gaington,5
+3281,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,1,0,0,0,0,Frohs,Tité,5
+8031,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Patoya,Moreman,6
+7227,Mars,False,TRAPPIST-1e,27.0,83.0,0.0,2621.0,5.0,0.0,True,2709.0,0,D,P,1,0,0,0,0,0,0,Shog,Khaf,4
+1386,Europa,True,55 Cancri e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Markton,Wassird,7
+5472,Europa,True,55 Cancri e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Phah,Irintious,3
+2702,Earth,False,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Wilmay,Coolerson,11
+8383,Earth,False,TRAPPIST-1e,21.0,0.0,6.0,0.0,593.0,0.0,False,599.0,0,F,P,0,0,0,0,0,0,1,Dandy,Blancoy,7
+1051,Earth,False,TRAPPIST-1e,18.0,855.0,0.0,51.0,0.0,0.0,True,906.0,0,E,P,1,0,0,0,0,0,0,Jimen,Andackson,3
+318,Europa,True,55 Cancri e,36.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Pharmus,Gloyanthy,4
+5328,Earth,True,TRAPPIST-1e,39.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Brene,Collinson,3
+5384,Earth,False,TRAPPIST-1e,23.0,88.0,0.0,586.0,0.0,0.0,True,674.0,0,G,S,0,0,0,1,0,0,0,Loreen,Cardner,11
+2911,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Katen,Portananney,5
+3050,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Elinda,Georgasey,12
+4216,Earth,True,TRAPPIST-1e,46.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Ricke,Nolds,6
+6864,Earth,False,PSO J318.5-22,22.0,28.0,194.0,2.0,0.0,370.0,True,594.0,0,F,P,0,0,0,0,0,1,0,Sterry,Meadoney,3
+6726,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Nunkib,Tashal,3
+2006,Earth,False,55 Cancri e,66.0,0.0,0.0,1610.0,0.0,0.0,True,1610.0,0,E,P,1,0,0,0,0,0,0,Annaha,Rivanseney,5
+6711,Europa,False,55 Cancri e,57.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Minoton,Pirejus,11
+1540,Europa,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Cella,Fatted,2
+5469,Earth,False,55 Cancri e,9.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,unknown,0,0,0,1,0,0,0,Jacky,Rosalanenn,3
+8087,Mars,False,TRAPPIST-1e,19.0,1146.0,0.0,3.0,0.0,0.0,False,1149.0,0,F,S,0,0,0,0,0,1,0,Conth,Mille,9
+6981,Earth,False,TRAPPIST-1e,47.0,0.0,61.0,805.0,0.0,6.0,False,872.0,0,F,P,0,0,0,0,0,1,0,Lerion,Bardson,4
+5765,Earth,False,55 Cancri e,57.0,0.0,0.0,0.0,0.0,642.0,True,642.0,0,E,P,0,1,0,0,0,0,0,Sus,Warrishales,8
+8388,Mars,False,TRAPPIST-1e,52.0,1231.0,2.0,8.0,0.0,0.0,True,1241.0,0,F,S,0,0,0,0,0,1,0,Dow,Bush,0
+1063,Europa,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Mergas,Sofraten,5
+2902,Earth,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Feline,Mcneiderson,3
+6501,Earth,True,TRAPPIST-1e,48.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Diandi,Mcfaddennon,6
+2916,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Diandi,Kellyons,6
+5073,Earth,False,TRAPPIST-1e,39.0,0.0,829.0,0.0,1.0,0.0,True,830.0,0,F,S,0,0,0,1,0,0,0,Gayla,Merrelliss,2
+5775,Mars,False,55 Cancri e,42.0,1156.0,0.0,1.0,305.0,0.0,False,1462.0,0,F,P,0,0,0,0,1,0,0,Carde,Pité,3
+6350,Mars,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,1,0,0,Panter,Cres,5
+3697,Earth,False,TRAPPIST-1e,44.0,39.0,821.0,0.0,7.0,41.0,True,908.0,0,G,P,0,0,1,0,0,0,0,Joanry,Brighttt,6
+6637,Mars,False,TRAPPIST-1e,24.0,2261.0,0.0,95.0,10.0,0.0,False,2366.0,0,F,P,0,0,0,0,1,0,0,Weet,Sfin,6
+7343,Earth,False,TRAPPIST-1e,21.0,9.0,0.0,0.0,25.0,811.0,False,845.0,0,G,P,0,0,0,0,1,0,0,Grette,Kramorry,5
+3172,Earth,False,PSO J318.5-22,40.0,15.0,0.0,0.0,670.0,167.54064039408868,True,852.5406403940887,0,F,P,0,0,1,0,0,0,0,Lardy,Burrilllins,2
+509,Earth,False,TRAPPIST-1e,23.0,0.0,15.0,831.0,16.0,3.0,True,865.0,0,F,S,1,0,0,0,0,0,0,Trick,Weavesend,8
+1359,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,4.0,0.0,965.0,True,969.0,0,G,P,1,0,0,0,0,0,0,Tonioe,Ments,3
+8029,Europa,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Aldah,Healted,5
+2756,Mars,False,TRAPPIST-1e,25.0,1228.0,0.0,132.0,0.0,0.0,True,1360.0,0,E,P,1,0,0,0,0,0,0,Cints,Backe,3
+8220,Earth,False,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Caseya,Llobsoney,7
+5342,Earth,False,TRAPPIST-1e,19.0,153.478672985782,0.0,0.0,692.0,164.0,True,1009.4786729857819,0,F,P,0,0,0,1,0,0,0,Daryla,Mullericer,4
+6747,Earth,False,PSO J318.5-22,17.0,0.0,1381.0,2.0,0.0,0.0,True,1383.0,0,F,P,0,0,0,0,1,0,0,Jimmya,Campson,5
+779,Europa,False,TRAPPIST-1e,71.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Ksorab,Couseced,3
+7899,Earth,False,PSO J318.5-22,36.0,52.0,0.0,132.0,334.0,176.0,True,694.0,0,G,unknown,0,0,0,0,1,0,0,Anny,Tersony,3
+6714,Mars,True,55 Cancri e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,1,0,0,Kokrus,Pread,11
+8054,Earth,False,TRAPPIST-1e,31.0,4.0,9.0,870.0,0.0,0.0,True,883.0,0,G,P,0,0,0,0,1,0,0,Carlen,Welles,7
+313,Mars,False,TRAPPIST-1e,22.0,142.0,2876.0,202.0,3.0,0.0,False,3223.0,0,D,P,1,0,0,0,0,0,0,Stray,Mane,4
+4448,Europa,False,TRAPPIST-1e,37.0,8.0,21.0,0.0,56.0,2167.0,False,2252.0,0,C,S,1,0,0,0,0,0,0,Arraiam,Inghtal,8
+2262,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,1,0,0,0,0,0,Kies,Gine,4
+8025,Europa,False,55 Cancri e,26.0,6.0,728.0,0.0,1273.0,1116.0,True,3123.0,0,D,P,1,0,0,0,0,0,0,Gacrab,Gealter,2
+5975,Earth,False,TRAPPIST-1e,53.0,627.0,32.0,0.0,0.0,37.0,False,696.0,0,F,P,0,0,0,0,1,0,0,Marice,Hoppers,9
+5893,Earth,True,55 Cancri e,10.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Jonaye,Griffince,6
+1479,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Samany,Burchrison,9
+1892,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Ellard,Kinson,5
+6442,Europa,False,TRAPPIST-1e,50.0,0.0,7293.0,136.0,97.0,440.0,True,7966.0,0,B,S,1,0,0,0,0,0,0,Syrmino,Imprank,3
+628,Earth,False,TRAPPIST-1e,32.0,0.0,0.0,0.0,768.0,3.0,True,771.0,0,G,P,1,0,0,0,0,0,0,Nicey,Gordond,6
+1167,Earth,True,PSO J318.5-22,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Aarone,Burryerson,3
+8442,Europa,False,55 Cancri e,41.0,3.0,1320.0,0.0,0.0,12392.0,True,13715.0,0,B,S,0,1,0,0,0,0,0,Nunkino,Perable,4
+982,Europa,False,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Halsham,Unteckery,8
+8378,Earth,False,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,741.0,False,741.0,0,F,P,0,0,0,0,0,0,1,Harvin,Bonnondry,9
+8062,Europa,False,55 Cancri e,18.0,0.0,694.0,0.0,0.0,1370.0,False,2064.0,0,B,S,0,1,0,0,0,0,0,Hallux,Resendent,4
+558,Mars,True,TRAPPIST-1e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Sugard,Fone,10
+5286,Mars,False,TRAPPIST-1e,15.0,643.0,0.0,45.0,0.0,10.0,False,698.0,0,F,S,0,0,0,1,0,0,0,Eaturs,Karte,3
+276,Europa,False,55 Cancri e,23.0,0.0,584.0,0.0,20.0,2469.0,True,3073.0,0,C,P,1,0,0,0,0,0,0,Suhelik,Geousker,0
+3251,Europa,False,55 Cancri e,19.0,0.0,1347.0,0.0,1756.0,37.0,False,3140.0,0,D,P,1,0,0,0,0,0,0,Shain,Sprender,7
+5139,Europa,True,TRAPPIST-1e,51.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Weidus,Hoorherve,5
+4534,Mars,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Tive,Hotte,5
+5183,Mars,False,TRAPPIST-1e,37.0,10.0,20.0,868.0,115.0,0.0,False,1013.0,0,E,P,0,1,0,0,0,0,0,Eerch,Mesty,3
+2899,Mars,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,1,0,0,0,0,Sce,Meake,10
+6365,Earth,False,TRAPPIST-1e,32.0,3135.0,2.0,0.0,0.0,0.0,True,3137.0,0,F,P,0,0,0,0,1,0,0,Tin,Rochan,0
+2457,Earth,False,TRAPPIST-1e,22.0,153.478672985782,0.0,137.0,671.0,154.51933701657458,True,1115.9980100023565,0,G,S,0,1,0,0,0,0,0,Idave,Owerson,6
+6012,Earth,True,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Isaacy,Gouldensen,12
+1255,Earth,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Joandy,Rigginsen,10
+3294,Earth,False,TRAPPIST-1e,31.0,1.0,110.0,274.0,27.0,376.0,True,788.0,0,E,S,1,0,0,0,0,0,0,Olly,Edwartizman,4
+5575,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Blancy,Floydendley,5
+8083,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Wifts,Berle,6
+4035,Earth,False,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Carlie,Whitledges,6
+2265,Earth,False,TRAPPIST-1e,13.0,0.0,2.0,0.0,566.0,208.0,True,776.0,0,F,P,0,1,0,0,0,0,0,Candy,Josesh,3
+837,Earth,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Allene,Warrishales,8
+1414,Earth,False,TRAPPIST-1e,30.0,0.0,495.0,156.64171122994654,0.0,153.0,True,804.6417112299465,0,F,P,1,0,0,0,0,0,0,Karay,Talls,4
+4026,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,P,1,0,0,0,0,0,0,Terops,Brakeded,2
+7986,Mars,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,P,0,1,0,0,0,0,0,Dow,Chate,5
+1029,Europa,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Alhail,Drelcate,5
+6073,Europa,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Azhab,Redand,2
+3164,Europa,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Bosonon,Ainserfle,11
+1516,Earth,False,TRAPPIST-1e,42.0,0.0,865.0,0.0,0.0,44.0,True,909.0,0,G,S,1,0,0,0,0,0,0,Lorey,Torrez,11
+8596,Earth,False,TRAPPIST-1e,24.0,0.0,537.0,0.0,5.0,197.0,True,739.0,0,F,S,0,0,0,0,0,1,0,Willy,Mcneiderson,3
+1824,Earth,False,TRAPPIST-1e,23.0,382.0,0.0,398.0,8.0,0.0,True,788.0,0,E,P,1,0,0,0,0,0,0,Unknown,Unknown,0
+7445,Earth,False,TRAPPIST-1e,14.0,0.0,360.0,0.0,25.0,1340.0,True,1725.0,0,G,P,0,0,0,0,1,0,0,Gwendy,Dillines,3
+3545,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Benew,Barnolaney,6
+1712,Earth,False,TRAPPIST-1e,26.0,151.51861702127658,4.0,361.0,0.0,19.0,True,535.5186170212766,0,G,P,1,0,0,0,0,0,0,Ronna,Cohendright,2
+6880,Earth,False,TRAPPIST-1e,17.0,124.72881355932203,647.0,49.0,74.0,0.0,True,894.728813559322,0,G,P,0,0,0,1,0,0,0,Rayle,Walterson,4
+2740,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Allene,Belley,11
+6005,Earth,False,TRAPPIST-1e,25.0,106.0,0.0,0.0,0.0,925.0,True,1031.0,0,F,S,0,0,0,0,1,0,0,Billa,Pacerty,5
+1278,Mars,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Cings,Tepie,7
+4977,Europa,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Mirark,Fuelisent,5
+1422,Earth,True,TRAPPIST-1e,46.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Everly,Barbes,13
+286,Earth,True,PSO J318.5-22,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Adriet,Valezaley,7
+845,Europa,False,TRAPPIST-1e,28.0,0.0,1736.0,229.29323308270676,145.0,634.0,False,2744.293233082707,0,B,P,1,0,0,0,0,0,0,Marinon,Cassiding,4
+6615,Earth,False,TRAPPIST-1e,22.0,712.0,6.0,70.0,0.0,0.0,True,788.0,0,E,P,0,1,0,0,0,0,0,Arla,Morelly,11
+4178,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,1,0,0,0,0,Annams,Mellé,2
+6763,Mars,False,TRAPPIST-1e,22.0,0.0,0.0,1128.0,0.0,45.0,False,1173.0,0,E,S,0,1,0,0,0,0,0,Muew,Pre,5
+3647,Earth,True,PSO J318.5-22,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Melica,Bardsey,4
+1536,Earth,True,PSO J318.5-22,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Rayne,Cofferson,11
+1478,Earth,False,TRAPPIST-1e,22.0,1018.0,100.0,0.0,9.0,0.0,False,1127.0,0,G,P,1,0,0,0,0,0,0,Idace,Burchrison,9
+3018,Earth,True,PSO J318.5-22,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Lonnez,Wilkinner,3
+7345,Earth,False,TRAPPIST-1e,40.0,634.0,60.0,134.0,0.0,0.0,False,828.0,0,F,P,0,0,0,0,0,1,0,Tinez,Kramorry,5
+72,Mars,False,TRAPPIST-1e,28.0,14.0,0.0,1295.0,0.0,0.0,True,1309.0,0,F,P,1,0,0,0,0,0,0,Pon,Blité,0
+519,Europa,False,TRAPPIST-1e,33.0,0.0,165.0,1.0,2525.0,0.0,False,2691.0,0,C,P,1,0,0,0,0,0,0,Alhain,Graciansus,2
+1854,Mars,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Froder,Paska,4
+5904,Mars,False,TRAPPIST-1e,18.0,102.0,3.0,186.0,2287.0,0.0,False,2578.0,0,D,P,1,0,0,0,0,0,0,Cops,Pane,4
+2189,Earth,False,55 Cancri e,28.0,613.0,22.0,0.0,0.0,0.0,False,635.0,0,F,P,0,1,0,0,0,0,0,Evaley,Wellierras,8
+6146,Earth,False,55 Cancri e,78.0,0.0,213.0,202.0,288.0,0.0,False,703.0,0,F,S,0,0,0,0,1,0,0,Regory,Haydenzier,11
+548,Earth,False,TRAPPIST-1e,65.0,0.0,0.0,521.0,105.0,0.0,True,626.0,0,G,P,1,0,0,0,0,0,0,Gwendy,Holson,4
+4919,Earth,False,TRAPPIST-1e,23.0,0.0,13.0,643.0,47.0,0.0,False,703.0,0,F,P,0,0,0,1,0,0,0,Jodia,Drakeekss,9
+7637,Earth,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Stanya,Bullisey,3
+8237,Earth,False,TRAPPIST-1e,27.0,1771.0,0.0,242.0,0.0,37.0,True,2050.0,0,F,S,0,0,0,0,0,1,0,Guyl,Mcculley,2
+2712,Earth,False,TRAPPIST-1e,29.0,1.0,0.0,133.0,104.0,574.0,True,812.0,0,G,S,0,1,0,0,0,0,0,Margia,Gainebergan,10
+4716,Earth,False,TRAPPIST-1e,36.0,0.0,52.0,8.0,0.0,4160.0,True,4220.0,0,G,S,0,0,1,0,0,0,0,Briany,Sellahaney,7
+7541,Mars,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Colatz,Chman,6
+8178,Europa,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Neutrak,Alaring,7
+5065,Earth,False,TRAPPIST-1e,43.0,0.0,0.0,0.0,0.0,1544.0,False,1544.0,0,F,P,0,0,0,1,0,0,0,Eduana,Buckentry,11
+3408,Europa,True,55 Cancri e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Beide,Crakenecal,3
+3847,Earth,False,TRAPPIST-1e,21.0,40.0,0.0,736.0,0.0,0.0,True,776.0,0,F,S,0,0,1,0,0,0,0,Ryany,Torrez,11
+1399,Earth,False,TRAPPIST-1e,21.0,894.0,1.0,0.0,61.0,26.0,True,982.0,0,E,S,1,0,0,0,0,0,0,Russey,Dillips,6
+938,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Nadie,Llonovancis,2
+5807,Earth,False,TRAPPIST-1e,23.0,3.0,791.0,0.0,362.0,0.0,True,1156.0,0,F,S,0,0,0,1,0,0,0,Willah,Browlerson,14
+6247,Earth,True,TRAPPIST-1e,50.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Briany,Philloway,4
+7432,Mars,False,TRAPPIST-1e,28.0,1811.0,1.0,57.0,0.0,0.0,True,1869.0,0,F,P,0,0,0,0,0,1,0,Guark,Shbre,6
+8052,Earth,True,PSO J318.5-22,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Thondy,Mayson,5
+6098,Earth,False,TRAPPIST-1e,16.0,45.0,0.0,622.0,0.0,564.0,False,1231.0,0,F,S,0,0,0,0,1,0,0,Kimena,Cartyernan,8
+2217,Earth,False,55 Cancri e,22.0,0.0,30.0,0.0,0.0,673.0,True,703.0,0,F,S,0,1,0,0,0,0,0,Harlos,Coffmaney,3
+8394,Earth,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Daisya,Flynner,5
+224,Europa,False,55 Cancri e,33.0,0.0,1249.0,0.0,4812.0,1116.0,True,7177.0,0,E,P,1,0,0,0,0,0,0,Alas,Dischod,4
+1942,Earth,False,PSO J318.5-22,17.0,8.0,911.0,0.0,0.0,0.0,True,919.0,0,F,P,0,1,0,0,0,0,0,Brie,Moodsey,10
+3753,Europa,False,TRAPPIST-1e,42.0,0.0,456.0,1.0,1193.0,3039.0,False,4689.0,0,B,P,1,0,0,0,0,0,0,Hekabih,Metful,2
+2738,Earth,False,TRAPPIST-1e,16.0,24.0,0.0,13.0,717.0,0.0,True,754.0,0,G,P,0,1,0,0,0,0,0,Coreee,Beasleyes,4
+4222,Earth,True,PSO J318.5-22,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Loise,Beckeetter,5
+5254,Europa,False,TRAPPIST-1e,31.0,0.0,1219.0,7.0,104.0,1082.0,False,2412.0,0,B,S,1,0,0,0,0,0,0,Brab,Dectory,3
+3757,Mars,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Tibers,Mele,5
+247,Earth,False,55 Cancri e,47.0,0.0,231.0,592.0,0.0,0.0,True,823.0,0,F,S,1,0,0,0,0,0,0,Lerome,Polliamposs,7
+6197,Earth,False,TRAPPIST-1e,20.0,0.0,564.0,25.0,158.0,62.0,True,809.0,0,G,P,0,0,0,1,0,0,0,Fayey,Webstenson,6
+5723,Earth,False,TRAPPIST-1e,19.0,3.0,785.0,0.0,0.0,0.0,True,788.0,0,E,S,0,1,0,0,0,0,0,Sharie,Rodricker,6
+6998,Earth,True,PSO J318.5-22,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Franda,Morrencis,6
+4269,Earth,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Regana,Pottney,4
+5212,Mars,False,TRAPPIST-1e,57.0,1696.0,0.0,1006.0,0.0,27.0,True,2729.0,0,D,S,1,0,0,0,0,0,0,Tyog,Birte,3
+8113,Mars,True,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,0,1,0,Mall,Rapie,7
+2813,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Andie,Wolfernan,8
+2402,Earth,False,PSO J318.5-22,21.0,0.0,0.0,172.70347003154575,0.0,0.0,True,172.70347003154575,0,G,P,0,1,0,0,0,0,0,Lilace,Woodwardy,7
+7357,Earth,False,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Elancy,Wardendez,9
+4228,Earth,False,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Kendy,Munozanson,6
+2824,Mars,True,PSO J318.5-22,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,1,0,0,0,0,0,0,Jack,Quart,9
+4301,Europa,False,55 Cancri e,32.0,0.0,154.0,0.0,5492.0,1924.0,True,7570.0,0,B,S,1,0,0,0,0,0,0,Skatz,Wasterivel,4
+2652,Europa,False,55 Cancri e,26.0,0.0,186.0,68.74074074074075,548.0,5058.0,True,5860.740740740741,0,A,P,1,0,0,0,0,0,0,Sadirk,Unaring,2
+7798,Europa,True,55 Cancri e,52.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,0,1,0,0,0,0,0,Adharan,Briouse,3
+8407,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Maen,Fowlesterez,12
+944,Earth,False,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,791.0,False,791.0,0,E,S,1,0,0,0,0,0,0,Velyne,Summington,6
+2521,Earth,False,PSO J318.5-22,23.0,3.0,548.0,37.0,0.0,12.0,True,600.0,0,F,S,0,1,0,0,0,0,0,Pattin,Cardner,11
+4320,Earth,False,TRAPPIST-1e,37.0,374.0,1327.0,10.0,81.0,0.0,True,1792.0,0,G,S,0,0,1,0,0,0,0,Tancis,Wonglasquez,4
+2755,Earth,False,TRAPPIST-1e,56.0,0.0,54.0,0.0,724.0,0.0,True,778.0,0,F,P,0,0,1,0,0,0,0,Evaned,Kellynn,5
+7909,Mars,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Grog,Start,5
+3440,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,889.0,0.0,0.0,False,889.0,0,G,S,0,0,1,0,0,0,0,Willey,Delangleton,3
+3989,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Crisey,Garnes,14
+2232,Earth,False,TRAPPIST-1e,20.0,768.0,19.0,0.0,1.0,0.0,True,788.0,0,E,P,1,0,0,0,0,0,0,Chery,Hendrys,5
+3663,Earth,False,TRAPPIST-1e,24.0,3537.0,0.0,0.0,0.0,0.0,True,3537.0,0,G,S,0,0,1,0,0,0,0,Carley,Sancasey,9
+2337,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Minon,Fouseding,2
+8208,Europa,True,55 Cancri e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,0,1,0,0,0,0,0,Unknown,Motled,5
+1657,Earth,False,TRAPPIST-1e,50.0,742.0,21.0,10.0,26.0,4.0,True,803.0,0,F,S,0,1,0,0,0,0,0,Elicey,Cardsay,4
+5525,Mars,False,55 Cancri e,27.0,1331.0,0.0,0.0,0.0,0.0,False,1331.0,0,F,P,0,0,0,0,1,0,0,Yogal,Blate,4
+4132,Mars,True,TRAPPIST-1e,75.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Pich,Knike,6
+7217,Europa,False,TRAPPIST-1e,27.0,118.0,1769.0,4127.0,118.0,619.0,True,6751.0,0,B,P,1,0,0,0,0,0,0,Chabih,Eguing,3
+7216,Earth,True,PSO J318.5-22,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Lerome,Sweett,8
+7968,Earth,False,55 Cancri e,48.0,0.0,717.0,0.0,0.0,10.0,True,727.0,0,F,S,0,0,0,0,0,1,0,Verly,Flyncharlan,2
+50,Earth,False,TRAPPIST-1e,23.0,4.0,0.0,2.0,4683.0,0.0,True,4689.0,0,G,S,1,0,0,0,0,0,0,Elaney,Hubbarton,8
+5670,Earth,True,PSO J318.5-22,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Carlie,Fowlaney,4
+5554,Earth,False,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Elia,Bairdyork,3
+8440,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Brancy,Prestonard,7
+733,Earth,True,PSO J318.5-22,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Unknown,Mclardson,11
+8663,Earth,True,PSO J318.5-22,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Chrisa,Francock,3
+406,Earth,False,TRAPPIST-1e,25.0,1352.0,0.0,0.0,24.0,799.0,False,2175.0,0,F,S,1,0,0,0,0,0,0,Loria,Marshopper,3
+496,Europa,False,TRAPPIST-1e,49.0,3573.0,1308.0,316.0,641.0,25.0,False,5863.0,0,B,P,1,0,0,0,0,0,0,Weia,Parbage,4
+4247,Earth,False,55 Cancri e,15.0,6.0,1740.0,2184.0,0.0,0.0,False,3930.0,0,G,P,0,0,1,0,0,0,0,Samie,Fryersonis,11
+2162,Europa,True,TRAPPIST-1e,56.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Geons,Holiabler,3
+572,Earth,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Gabrin,Buckeelez,3
+396,Earth,False,55 Cancri e,10.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Sallyl,Hodes,7
+8658,Earth,False,TRAPPIST-1e,30.0,8.0,752.0,0.0,0.0,687.0,True,1447.0,0,F,S,0,0,0,0,0,1,0,Joanny,Burchrison,9
+1985,Earth,True,PSO J318.5-22,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,France,Johnsondez,4
+6520,Mars,True,TRAPPIST-1e,46.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Whee,Vloaf,12
+4860,Earth,False,TRAPPIST-1e,21.0,41.0,651.0,2.0,29.0,0.0,True,723.0,0,F,P,0,0,0,1,0,0,0,Monah,Harry,5
+8656,Earth,False,TRAPPIST-1e,41.0,3.0,0.0,668.0,0.0,0.0,True,671.0,0,G,unknown,0,0,0,0,1,0,0,Royce,Giller,3
+2767,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Tarino,Unrespery,0
+1513,Earth,False,TRAPPIST-1e,24.0,2.0,3.0,0.0,616.0,161.0,True,782.0,0,G,P,1,0,0,0,0,0,0,Dellie,Rostarks,4
+5468,Earth,False,TRAPPIST-1e,23.0,0.0,21.0,0.0,0.0,716.0,True,737.0,0,F,S,0,0,0,1,0,0,0,Jona,Sancasey,9
+2604,Europa,False,55 Cancri e,41.0,0.0,320.0,4333.0,1313.0,51.0,False,6017.0,0,B,P,1,0,0,0,0,0,0,Cheliak,Simous,5
+156,Earth,False,TRAPPIST-1e,19.0,1.0,219.0,673.0,2.0,11.0,False,906.0,0,G,P,1,0,0,0,0,0,0,Elaney,Webstephrey,9
+4152,Earth,True,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Idacey,Cartz,8
+4699,Mars,False,TRAPPIST-1e,26.0,1033.0,172.0,26.0,0.0,518.0,True,1749.0,0,F,P,0,0,0,1,0,0,0,Poloos,Sincy,2
+3680,Earth,True,TRAPPIST-1e,45.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Morrie,Gamberson,4
+4133,Europa,False,TRAPPIST-1e,50.0,0.0,817.0,388.0,78.0,693.0,True,1976.0,0,C,S,1,0,0,0,0,0,0,Proxima,Regmansidy,3
+7967,Earth,False,PSO J318.5-22,51.0,590.0,28.0,73.0,0.0,82.0,True,773.0,0,G,S,0,0,0,0,1,0,0,Craine,Moreman,6
+2175,Earth,True,PSO J318.5-22,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Claura,Petermandez,4
+578,Mars,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Seats,Brine,5
+597,Europa,True,55 Cancri e,43.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Ankabit,Holatirint,5
+460,Mars,False,55 Cancri e,21.0,513.0,0.0,1749.0,82.0,0.0,True,2344.0,0,D,P,1,0,0,0,0,0,0,Ots,Cakie,3
+8441,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Nunkib,Dishearly,2
+4135,Earth,False,PSO J318.5-22,37.0,715.0,0.0,54.0,0.0,0.0,True,769.0,0,G,S,0,0,1,0,0,0,0,Alendy,Parsoney,5
+7319,Europa,False,55 Cancri e,34.0,0.0,3424.0,6.0,2445.0,1128.0,False,7003.0,0,B,S,0,1,0,0,0,0,0,Ainkard,Spandisket,8
+8677,Europa,True,55 Cancri e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,0,0,1,0,0,0,0,Giedir,Sionerorly,0
+2303,Europa,True,55 Cancri e,50.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Hasich,Suptibler,5
+7974,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,0,1,0,0,0,0,0,Algeno,Conablese,0
+6225,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Becca,Hornettoney,6
+317,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,unknown,1,0,0,0,0,0,0,Tricky,Warrison,5
+5792,Earth,False,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Camily,Serry,10
+2971,Earth,True,55 Cancri e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Jennyn,Haydenzier,11
+7107,Europa,False,TRAPPIST-1e,23.0,30.0,2237.0,1.0,49.0,52.0,False,2369.0,0,D,P,1,0,0,0,0,0,0,Mergas,Alenat,3
+6603,Europa,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Alcoran,Distured,13
+1533,Europa,False,TRAPPIST-1e,29.0,0.0,930.0,0.0,2113.0,98.0,False,3141.0,0,C,P,1,0,0,0,0,0,0,Dabik,Patimonne,3
+8411,Earth,False,TRAPPIST-1e,30.0,0.0,1028.0,0.0,80.0,0.0,False,1108.0,0,F,S,0,0,0,0,0,1,0,Melara,Fowlesterez,12
+2940,Mars,False,TRAPPIST-1e,25.0,1299.0,0.0,0.0,0.0,0.0,False,1299.0,0,D,P,1,0,0,0,0,0,0,Womel,Che,5
+8255,Earth,False,TRAPPIST-1e,19.0,586.0,10.0,0.0,30.0,0.0,True,626.0,0,G,P,0,0,0,0,1,0,0,Yola,Mirezavis,8
+4100,Mars,True,TRAPPIST-1e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Halesh,Birt,10
+7169,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Jilly,Palmes,6
+5111,Mars,False,TRAPPIST-1e,27.0,1.0,1.0,2196.0,372.0,0.0,False,2570.0,0,F,P,0,0,0,1,0,0,0,Sugaly,Chité,5
+4374,Europa,True,TRAPPIST-1e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Rotan,Seflock,2
+6658,Earth,False,TRAPPIST-1e,20.0,0.0,750.0,957.0,0.0,722.0,False,2429.0,0,F,P,0,0,0,0,1,0,0,Kurta,Nasquez,5
+4597,Earth,False,TRAPPIST-1e,28.0,647.0,1.0,32.0,71.0,140.0,True,891.0,0,F,S,0,0,0,1,0,0,0,Lorian,Bertsontry,4
+188,Mars,True,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Corsh,Appie,2
+916,Earth,True,PSO J318.5-22,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Shery,Flemaney,9
+1379,Europa,True,TRAPPIST-1e,70.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Gorab,Distured,13
+4398,Earth,True,PSO J318.5-22,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Bettie,Rickson,2
+1570,Earth,False,PSO J318.5-22,20.0,127.0,0.0,0.0,542.0,0.0,True,669.0,0,F,S,0,1,0,0,0,0,0,Wenise,Sterson,5
+217,Mars,False,TRAPPIST-1e,30.0,85.0,0.0,1.0,1720.0,0.0,True,1806.0,0,F,S,1,0,0,0,0,0,0,Krus,Nate,4
+6322,Earth,False,55 Cancri e,22.0,0.0,833.0,381.0,0.0,12.0,True,1226.0,0,F,S,0,0,0,0,1,0,0,Belly,Lerez,6
+2584,Earth,False,PSO J318.5-22,22.0,0.0,837.0,192.0,0.0,154.51933701657458,True,1183.5193370165746,0,F,P,0,1,0,0,0,0,0,Lindy,Fishopper,5
+2948,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Allena,Litthews,16
+5193,Mars,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Hocks,Gele,4
+7242,Europa,False,TRAPPIST-1e,19.0,0.0,4534.0,0.0,617.0,1156.0,False,6307.0,0,B,S,1,0,0,0,0,0,0,Weznif,Prearright,5
+3614,Europa,True,55 Cancri e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Dira,Unreezy,3
+6796,Earth,False,TRAPPIST-1e,53.0,3.0,2251.0,0.0,95.0,12.0,True,2361.0,0,E,P,0,1,0,0,0,0,0,Denis,Mullon,2
+2456,Mars,False,TRAPPIST-1e,18.0,1867.0,0.0,29.0,72.0,60.6228813559322,True,2028.6228813559321,0,D,P,1,0,0,0,0,0,0,Oafron,Babre,0
+2865,Mars,False,PSO J318.5-22,71.0,924.0,1284.0,10.0,9.0,0.0,True,2227.0,0,F,S,0,1,0,0,0,0,0,Aarjel,Rhuba,5
+1893,Earth,False,55 Cancri e,17.0,44.0,1535.0,10.0,51.0,0.0,False,1640.0,0,E,S,1,0,0,0,0,0,0,Ianne,Kinson,5
+15,Earth,False,TRAPPIST-1e,31.0,32.0,0.0,876.0,0.0,0.0,True,908.0,0,G,unknown,1,0,0,0,0,0,0,Justie,Pooles,7
+6227,Earth,False,TRAPPIST-1e,38.0,115.0,125.0,0.0,202.0,0.0,False,442.0,0,G,S,0,0,0,1,0,0,0,Denne,Moodsey,10
+3213,Earth,True,TRAPPIST-1e,36.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Herry,Hutchinton,4
+1285,Europa,False,55 Cancri e,33.0,77.0,2381.0,0.0,3656.0,150.0,False,6264.0,0,B,S,1,0,0,0,0,0,0,Alkeson,Exnutch,2
+3181,Earth,False,TRAPPIST-1e,74.0,0.0,193.0,581.0,0.0,0.0,True,774.0,0,G,S,0,1,0,0,0,0,0,Lewise,Bullisey,3
+5595,Europa,True,55 Cancri e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Zedark,Chuble,5
+6635,Earth,False,55 Cancri e,34.0,0.0,442.0,175.0,79.0,3.0,True,699.0,0,F,P,0,0,0,0,1,0,0,Tricki,Whitledges,6
+4390,Europa,False,TRAPPIST-1e,46.0,0.0,3856.0,0.0,1.0,312.0,False,4169.0,0,C,P,1,0,0,0,0,0,0,Dyonium,Ingwhed,5
+8351,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,0.0,912.0,41.0,True,953.0,0,F,S,0,0,0,0,0,1,0,Bretty,Blanglison,5
+5685,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Alene,Ellson,7
+1852,Europa,True,TRAPPIST-1e,64.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Wasaleh,Lansuffle,5
+6916,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,787.0,1.0,154.51933701657458,True,942.5193370165746,0,E,S,0,1,0,0,0,0,0,Essara,Schwardson,7
+6666,Earth,False,55 Cancri e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Dandra,Reyervaney,4
+2196,Europa,False,55 Cancri e,44.0,0.0,1223.0,78.0,1418.0,1239.0,True,3958.0,0,D,S,1,0,0,0,0,0,0,Asellux,Alaring,7
+3699,Earth,False,TRAPPIST-1e,19.0,0.0,0.0,5.0,756.0,0.0,False,761.0,0,F,S,0,0,1,0,0,0,0,Karia,Davens,3
+6597,Earth,False,TRAPPIST-1e,37.0,951.0,0.0,0.0,80.0,0.0,True,1031.0,0,F,P,0,0,0,0,1,0,0,Leneva,Freevenson,4
+1755,Earth,False,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Unknown,Roses,9
+1332,Earth,False,TRAPPIST-1e,23.0,0.0,567.0,896.0,0.0,122.0,True,1585.0,0,F,P,1,0,0,0,0,0,0,Evane,Lerez,6
+6678,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Picers,Panie,5
+1044,Earth,False,TRAPPIST-1e,20.0,0.0,0.0,0.0,0.0,719.0,True,719.0,0,E,S,1,0,0,0,0,0,0,Stevey,Fielsenders,5
+2417,Europa,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Neutrix,Cisorter,2
+4013,Earth,False,TRAPPIST-1e,24.0,0.0,717.0,222.0,8.0,1.0,True,948.0,0,G,S,0,0,1,0,0,0,0,Evey,Kellyons,6
+7803,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Jeron,Ington,2
+5397,Earth,False,TRAPPIST-1e,24.0,140.06469002695417,0.0,0.0,838.0,193.0,False,1171.0646900269542,0,F,S,0,0,0,1,0,0,0,Erick,Alentonway,6
+3028,Earth,True,PSO J318.5-22,31.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Idace,Ricks,5
+2124,Earth,False,TRAPPIST-1e,19.0,26.0,313.0,470.0,0.0,0.0,True,809.0,0,G,S,0,1,0,0,0,0,0,Diandy,Wallerson,3
+6088,Mars,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Unknown,Prité,5
+1861,Earth,False,PSO J318.5-22,17.0,414.0,0.0,139.0,28.0,173.0,True,754.0,0,G,P,0,1,0,0,0,0,0,Felia,Cooperkins,7
+6578,Mars,False,TRAPPIST-1e,39.0,9.0,0.0,687.0,0.0,0.0,True,696.0,0,F,S,0,0,0,0,1,0,0,Goats,Steen,0
+7173,Earth,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Tera,Palmes,6
+7815,Earth,False,TRAPPIST-1e,37.0,477.0,0.0,167.0,0.0,46.0,True,690.0,0,F,S,0,0,0,0,0,1,0,Etha,Pughlinsons,4
+1914,Europa,False,55 Cancri e,39.0,0.0,1684.1822916666667,0.0,1528.0,1119.0,True,4331.182291666667,0,C,P,1,0,0,0,0,0,0,Alark,Stivelte,2
+7398,Europa,False,TRAPPIST-1e,31.0,0.0,87.0,0.0,2263.0,224.0,False,2574.0,0,C,S,1,0,0,0,0,0,0,Zinor,Axlentindy,3
+1454,Europa,False,55 Cancri e,32.0,54.0,3782.0,0.0,21.0,5.0,True,3862.0,0,A,S,1,0,0,0,0,0,0,Alyadum,Barmant,3
+122,Earth,True,PSO J318.5-22,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Race,Fowles,5
+6830,Europa,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Taraid,Arible,7
+7693,Earth,False,TRAPPIST-1e,57.0,6.0,510.0,372.0,0.0,0.0,True,888.0,0,G,P,0,0,0,0,1,0,0,Oraryn,Mirandry,5
+4548,Earth,True,TRAPPIST-1e,36.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,1,0,0,0,Unknown,Unknown,0
+2465,Europa,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Mariton,Improus,4
+2285,Mars,False,TRAPPIST-1e,42.0,554.0,0.0,1168.0,0.0,275.0,True,1997.0,0,F,S,0,1,0,0,0,0,0,Naish,Muste,0
+6198,Earth,False,PSO J318.5-22,39.0,0.0,0.0,0.0,0.0,744.0,True,744.0,0,F,P,0,0,0,0,1,0,0,Bel,Phillis,2
+5721,Mars,False,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,0,1,0,0,0,0,0,Cranch,Sesa,4
+5385,Earth,False,TRAPPIST-1e,51.0,542.0,0.0,360.0,0.0,0.0,False,902.0,0,F,P,0,0,0,1,0,0,0,Card,Dicksons,6
+8653,Mars,True,55 Cancri e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,0,0,1,Denuts,Paie,7
+3493,Earth,False,55 Cancri e,55.0,0.0,519.0,131.0,63.0,3.0,True,716.0,0,F,P,0,0,1,0,0,0,0,Unknown,Unknown,0
+7795,Earth,True,PSO J318.5-22,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Beula,Mckinsond,10
+5776,Mars,True,TRAPPIST-1e,39.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,P,0,1,0,0,0,0,0,Tyog,Pité,3
+1751,Mars,False,TRAPPIST-1e,26.0,1752.0,22.0,0.0,4.0,50.0919540229885,True,1828.0919540229886,0,D,S,1,0,0,0,0,0,0,Hone,Erflé,3
+294,Earth,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Charly,Edwartizman,4
+8121,Earth,False,TRAPPIST-1e,40.0,21.0,155.0,0.0,267.0,0.0,True,443.0,0,G,P,0,0,0,0,1,0,0,Cary,Rilley,10
+6285,Earth,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Ernice,Griffince,6
+3286,Mars,False,55 Cancri e,28.0,809.0,0.0,31.0,733.0,0.0,False,1573.0,0,F,P,0,0,1,0,0,0,0,Chtios,Erflé,3
+6499,Earth,True,PSO J318.5-22,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Blancy,Harry,5
+2407,Europa,False,TRAPPIST-1e,30.0,0.0,632.0,0.0,673.0,2272.0,False,3577.0,0,C,P,1,0,0,0,0,0,0,Weias,Meteet,5
+1082,Earth,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Chadie,Vaught,3
+8327,Earth,False,TRAPPIST-1e,24.0,1186.0,0.0,381.0,3.0,173.0,False,1743.0,0,F,P,0,0,0,0,0,0,1,Jimmyn,Pooley,4
+4003,Europa,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Ankabih,Derterval,2
+6677,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Gileen,Mcphernard,7
+384,Mars,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Ree,Fiha,5
+3027,Europa,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Kabiak,Whifounrew,4
+8612,Earth,False,PSO J318.5-22,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Camily,Howence,0
+2588,Earth,False,TRAPPIST-1e,29.0,3.0,0.0,3.0,0.0,697.0,False,703.0,0,F,P,0,1,0,0,0,0,0,Coreen,Bushins,4
+3805,Earth,False,TRAPPIST-1e,47.0,939.0,1477.0,130.99143206854345,0.0,0.0,True,2546.9914320685434,0,F,S,0,0,1,0,0,0,0,Jennya,Dillips,6
+2620,Earth,False,TRAPPIST-1e,19.0,0.0,0.0,366.0,268.0,0.0,True,634.0,0,F,P,0,1,0,0,0,0,0,Allena,Blacks,7
+5048,Mars,False,TRAPPIST-1e,28.0,743.0,378.0,8.0,0.0,0.0,True,1129.0,0,F,P,0,0,0,1,0,0,0,Rowl,Flaie,2
+6403,Earth,False,TRAPPIST-1e,20.0,0.0,97.0,725.0,26.0,104.0,True,952.0,0,G,P,0,0,0,1,0,0,0,Bonyam,Berges,5
+5173,Earth,False,PSO J318.5-22,29.0,0.0,0.0,20.0,0.0,402.0,True,422.0,0,G,P,0,0,1,0,0,0,0,Rician,Pearsalason,4
+7164,Europa,False,55 Cancri e,25.0,0.0,16016.0,1025.0,189.0,1037.0,False,18267.0,0,C,S,1,0,0,0,0,0,0,Azim,Sometery,5
+684,Earth,True,PSO J318.5-22,38.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Erie,Rilley,10
+2030,Earth,False,TRAPPIST-1e,24.0,388.0,0.0,7.0,409.0,0.0,False,804.0,0,F,P,0,1,0,0,0,0,0,Sergia,Camerrison,5
+5276,Earth,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Ebonya,Potthews,3
+1035,Mars,False,TRAPPIST-1e,18.0,787.0,0.0,106.0,1710.0,0.0,False,2603.0,0,F,P,1,0,0,0,0,0,0,Cireal,Cuche,5
+7259,Earth,True,55 Cancri e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Stevey,Water,3
+451,Earth,False,TRAPPIST-1e,28.0,0.0,14.0,0.0,0.0,615.0,False,629.0,0,F,S,1,0,0,0,0,0,0,Isaacy,Mallerez,6
+7931,Mars,False,55 Cancri e,38.0,1161.0,0.0,19.0,0.0,0.0,True,1180.0,0,D,P,1,0,0,0,0,0,0,Park,Birt,10
+5431,Earth,False,TRAPPIST-1e,22.0,514.0,0.0,2.0,129.0,583.0,True,1228.0,0,F,S,0,0,0,1,0,0,0,Philda,Snowaney,2
+4400,Europa,True,55 Cancri e,64.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Syrmion,Scerodbox,7
+1456,Europa,False,TRAPPIST-1e,33.0,0.0,7139.0,22.0,0.0,553.0,False,7714.0,0,C,P,1,0,0,0,0,0,0,Duhratz,Clumshangs,7
+7037,Europa,False,55 Cancri e,41.0,0.0,2383.0,0.0,2.0,97.0,True,2482.0,0,C,S,1,0,0,0,0,0,0,Asellan,Fuelisent,5
+3629,Earth,False,PSO J318.5-22,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Deanne,Emenez,6
+2131,Earth,False,TRAPPIST-1e,37.0,0.0,1.0,0.0,219.0,167.54064039408868,True,387.54064039408865,0,F,P,0,1,0,0,0,0,0,Shally,Reyersendry,5
+2149,Earth,True,TRAPPIST-1e,60.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Unknown,Unknown,0
+200,Earth,False,TRAPPIST-1e,16.0,0.0,3.0,0.0,0.0,1099.0,False,1102.0,0,F,P,1,0,0,0,0,0,0,Velyne,Wilsoney,10
+1726,Mars,False,TRAPPIST-1e,26.0,17.0,0.0,1582.0,0.0,0.0,True,1599.0,0,F,S,0,1,0,0,0,0,0,Unknown,Unknown,0
+6168,Europa,False,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Mediton,Oillepint,3
+7182,Mars,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Oats,Meau,2
+3351,Europa,True,55 Cancri e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Zosmas,Mormonized,5
+2884,Earth,False,TRAPPIST-1e,74.0,571.0,0.0,0.0,277.0,0.0,True,848.0,0,G,S,0,1,0,0,0,0,0,Jorgie,Hamberterry,5
+5516,Earth,False,TRAPPIST-1e,19.0,0.0,0.0,0.0,888.0,0.0,False,888.0,0,G,S,0,0,0,1,0,0,0,Aliedy,Oneiles,16
+5482,Earth,False,TRAPPIST-1e,28.0,229.0,761.0,0.0,0.0,6.0,True,996.0,0,E,S,0,1,0,0,0,0,0,Eriana,Benney,7
+7127,Europa,True,55 Cancri e,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Polaton,Fralledic,6
+3311,Mars,False,TRAPPIST-1e,37.0,78.0,0.0,0.0,2948.0,0.0,False,3026.0,0,D,P,1,0,0,0,0,0,0,Row,Manie,5
+7548,Earth,False,TRAPPIST-1e,20.0,0.0,52.0,0.0,110.0,614.0,True,776.0,0,F,S,0,0,0,0,0,1,0,Eduard,Mcfarmerson,2
+14,Earth,False,TRAPPIST-1e,28.0,8.0,974.0,12.0,2.0,7.0,True,1003.0,0,F,P,1,0,0,0,0,0,0,Elle,Bertsontry,4
+3073,Earth,False,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,1765.0,True,1765.0,0,G,P,0,1,0,0,0,0,0,Pamont,Scottney,4
+2995,Mars,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,1,0,0,0,0,0,0,Walles,Reste,4
+2932,Earth,False,TRAPPIST-1e,22.0,153.478672985782,1.0,379.0,0.0,336.0,True,869.4786729857819,0,F,P,0,0,1,0,0,0,0,Hery,Lewinez,5
+2663,Europa,False,55 Cancri e,38.0,0.0,896.0,0.0,1040.373368146214,4168.0,True,6104.3733681462145,0,C,S,1,0,0,0,0,0,0,Duhra,Fulous,0
+2967,Earth,False,TRAPPIST-1e,24.0,180.0,264.0,0.0,1225.0,0.0,True,1669.0,0,E,S,1,0,0,0,0,0,0,Philia,Bellarkerd,5
+2786,Mars,True,TRAPPIST-1e,70.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Stmeal,Fisun,2
+4338,Europa,False,TRAPPIST-1e,31.0,0.0,2520.0,1.0,1.0,0.0,False,2522.0,0,B,S,1,0,0,0,0,0,0,Mothab,Ineedeve,8
+3335,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,0.0,739.0,29.0,True,768.0,0,G,P,0,1,0,0,0,0,0,Garry,Birds,2
+261,Europa,False,TRAPPIST-1e,28.0,0.0,587.0,32.0,6.0,1460.0,False,2085.0,0,B,P,1,0,0,0,0,0,0,Alasym,Bootty,4
+6563,Earth,False,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Lilasa,Solon,7
+6551,Mars,True,TRAPPIST-1e,49.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Slus,Hacle,6
+6323,Earth,True,PSO J318.5-22,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Patsyn,Coolerson,11
+4895,Europa,True,55 Cancri e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Canon,Wingcoling,3
+4428,Earth,True,TRAPPIST-1e,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Verney,Medington,3
+90,Earth,False,TRAPPIST-1e,26.0,0.0,2811.0,957.0,0.0,87.0,False,3855.0,0,G,P,1,0,0,0,0,0,0,Leence,Carezquez,5
+4031,Earth,True,PSO J318.5-22,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Wally,Conney,5
+5355,Europa,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Giedia,Mostedry,4
+1282,Mars,True,TRAPPIST-1e,40.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Bet,Stre,3
+7920,Europa,True,TRAPPIST-1e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,0,1,0,0,0,0,0,Tachib,Sempreate,5
+4869,Europa,True,55 Cancri e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Astonon,Ainatint,3
+7752,Mars,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Mesh,Fache,5
+7147,Earth,False,TRAPPIST-1e,21.0,0.0,0.0,114.0,2.0,683.0,True,799.0,0,F,S,0,0,0,0,1,0,0,Gerly,Burryerson,3
+6112,Mars,False,TRAPPIST-1e,37.0,610.0,64.55714285714286,410.0,148.0,14.0,True,1246.557142857143,0,F,unknown,0,0,0,0,1,0,0,Carkes,Panad,3
+1326,Europa,False,TRAPPIST-1e,47.0,1.0,734.0,28.0,78.0,3471.0,False,4312.0,0,B,S,1,0,0,0,0,0,0,Alaton,Mornaned,2
+6120,Earth,False,55 Cancri e,28.0,151.51861702127658,728.0,0.0,0.0,82.0,True,961.5186170212766,0,F,P,0,0,0,0,1,0,0,Veroy,Morrows,5
+958,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,1,0,0,0,0,0,0,Appers,Wala,7
+6541,Earth,False,TRAPPIST-1e,15.0,0.0,0.0,0.0,938.0,44.0,False,982.0,0,E,S,0,1,0,0,0,0,0,Lilasa,Acobson,4
+5631,Europa,False,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,P,1,0,0,0,0,0,0,Zubeneb,Flesping,2
+3369,Europa,False,55 Cancri e,38.0,195.74237288135592,3456.0,0.0,1486.0,1157.0,False,6294.742372881356,0,C,P,1,0,0,0,0,0,0,Taux,Honatte,6
+5589,Mars,False,TRAPPIST-1e,13.0,157.0,0.0,1199.0,0.0,14.0,True,1370.0,0,E,S,0,1,0,0,0,0,0,Emoles,Graie,4
+3651,Earth,False,55 Cancri e,19.0,0.0,47.0,0.0,263.0,384.0,True,694.0,0,E,S,1,0,0,0,0,0,0,Nance,Reenon,5
+7330,Mars,True,TRAPPIST-1e,75.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,unknown,0,0,0,0,0,1,0,Weet,Petie,2
+2406,Europa,False,TRAPPIST-1e,26.0,0.0,8150.0,0.0,3508.0,99.0,False,11757.0,0,C,P,1,0,0,0,0,0,0,Unknown,Meteet,5
+794,Earth,False,TRAPPIST-1e,31.0,0.0,0.0,0.0,838.0,27.0,True,865.0,0,F,P,1,0,0,0,0,0,0,Garry,Pacerty,5
+6281,Earth,False,TRAPPIST-1e,48.0,12.0,0.0,0.0,0.0,796.0,True,808.0,0,G,P,0,0,0,1,0,0,0,Joelan,Beasleyes,4
+6068,Earth,False,TRAPPIST-1e,31.0,294.0,480.0,31.0,3.0,0.0,True,808.0,0,G,S,0,0,0,1,0,0,0,Troyra,Kellson,4
+5456,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,1,0,0,0,Alex,Berle,6
+5660,Mars,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Sunk,Manie,5
+5022,Europa,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,P,0,1,0,0,0,0,0,Asellan,Calved,0
+5060,Earth,False,TRAPPIST-1e,23.0,0.0,806.0,0.0,2.0,0.0,True,808.0,0,G,P,0,0,1,0,0,0,0,Erie,Patthews,8
+5030,Europa,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Quarke,Tramsor,3
+5880,Earth,False,TRAPPIST-1e,38.0,0.0,709.0,39.0,62.0,0.0,True,810.0,0,G,S,0,0,0,1,0,0,0,Yolas,Maystuarey,4
+1597,Earth,False,TRAPPIST-1e,26.0,324.0,0.0,201.0,2.0,256.0,True,783.0,0,G,S,1,0,0,0,0,0,0,Fredy,Moraleney,2
+5768,Europa,True,55 Cancri e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Ainkard,Folumorly,7
+8542,Earth,True,55 Cancri e,55.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Paulas,Schmondez,5
+7389,Earth,True,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Margio,Boyers,6
+5777,Earth,False,PSO J318.5-22,13.0,0.0,1180.0,0.0,127.27808988764045,0.0,True,1307.2780898876404,0,F,S,0,0,0,1,0,0,0,Garlie,Flynnis,4
+4375,Earth,False,TRAPPIST-1e,23.0,0.0,1125.0,0.0,185.49180327868854,993.0,False,2303.4918032786886,0,F,S,0,0,1,0,0,0,0,Alvira,Miranciash,3
+6955,Earth,False,TRAPPIST-1e,62.0,240.0,0.0,0.0,586.0,10.0,True,836.0,0,G,P,0,0,0,1,0,0,0,Isa,Wiggs,5
+8157,Europa,True,55 Cancri e,65.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,0,1,0,0,0,0,0,Mariton,Tronsive,5
+1986,Earth,False,55 Cancri e,21.0,770.0,0.0,0.0,40.0,0.0,True,810.0,0,G,S,0,1,0,0,0,0,0,Ine,Litthews,16
+356,Europa,False,PSO J318.5-22,27.0,69.0,5728.0,0.0,0.0,987.0,True,6784.0,0,C,P,1,0,0,0,0,0,0,Dabik,Cowsearney,2
+4713,Earth,False,55 Cancri e,41.0,4.0,737.0,0.0,51.0,0.0,True,792.0,0,E,S,0,1,0,0,0,0,0,Noria,Kiddley,5
+4410,Mars,False,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Unknown,Colte,5
+3756,Mars,False,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Frouse,Mele,5
+7688,Europa,False,TRAPPIST-1e,25.0,0.0,1003.0,1629.0,73.0,748.0,False,3453.0,0,E,S,0,1,0,0,0,0,0,Krazet,Distured,13
+3034,Earth,False,TRAPPIST-1e,19.0,64.0,0.0,453.0,174.0,6.0,False,697.0,0,F,S,0,0,1,0,0,0,0,Allyn,Horthy,4
+7241,Earth,False,TRAPPIST-1e,63.0,0.0,243.0,0.0,777.0,0.0,True,1020.0,0,G,P,0,0,0,0,1,0,0,Jilley,Alshipson,4
+3954,Mars,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,1,0,0,0,0,Unfly,Min,5
+4261,Earth,False,TRAPPIST-1e,20.0,25.0,0.0,796.0,44.0,44.0,False,909.0,0,G,P,0,0,1,0,0,0,0,Jerrye,Cardners,8
+1977,Europa,True,55 Cancri e,40.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Gollux,Folhal,7
+4649,Earth,True,PSO J318.5-22,39.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Eulahy,Wheelez,7
+7380,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Sonnie,Scottney,4
+2252,Earth,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Rone,Bertsontry,4
+3572,Earth,False,TRAPPIST-1e,24.0,4.0,314.0,0.0,0.0,428.0,True,746.0,0,F,P,0,0,1,0,0,0,0,Warry,Jacostaney,9
+1066,Earth,False,TRAPPIST-1e,54.0,0.0,0.0,0.0,0.0,908.0,True,908.0,0,G,P,1,0,0,0,0,0,0,Evaned,Pugherman,4
+4136,Earth,False,TRAPPIST-1e,33.0,0.0,0.0,232.0,0.0,622.0,True,854.0,0,G,S,0,0,1,0,0,0,0,Loria,Sweekstarks,8
+2214,Europa,False,TRAPPIST-1e,36.0,0.0,4756.0,0.0,7818.0,96.0,True,12670.0,0,D,S,1,0,0,0,0,0,0,Bens,Aneetle,3
+4508,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Stace,Drakeekss,9
+4892,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Antony,Hersons,6
+6154,Europa,False,TRAPPIST-1e,42.0,0.0,1972.0,0.0,108.0,5.0,False,2085.0,0,C,P,1,0,0,0,0,0,0,Marga,Ineded,3
+7291,Earth,False,TRAPPIST-1e,44.0,358.0,303.0,0.0,0.0,131.0,True,792.0,0,E,P,0,1,0,0,0,0,0,Paulie,Powenoble,5
+369,Earth,False,TRAPPIST-1e,20.0,0.0,465.0,0.0,5.0,223.0,False,693.0,0,F,P,1,0,0,0,0,0,0,Luzel,Mirez,6
+4747,Europa,False,55 Cancri e,22.0,1961.0,82.0,0.0,3025.0,2406.0,True,7474.0,0,A,S,1,0,0,0,0,0,0,Alraiam,Gocent,6
+1363,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Emilla,Cartez,14
+4235,Mars,False,55 Cancri e,54.0,433.0,0.0,867.0,19.0,1.0,False,1320.0,0,F,P,0,0,0,1,0,0,0,Bants,Pepie,8
+3552,Earth,False,TRAPPIST-1e,24.0,58.0,0.0,4.0,789.0,54.0,True,905.0,0,E,P,1,0,0,0,0,0,0,Scotte,Carterson,5
+5959,Mars,False,TRAPPIST-1e,53.0,78.0,85.0,859.0,0.0,0.0,True,1022.0,0,E,S,0,1,0,0,0,0,0,Guink,Ste,4
+6841,Earth,False,PSO J318.5-22,57.0,0.0,1.0,0.0,664.0,19.0,True,684.0,0,F,S,0,0,0,0,1,0,0,Gaylah,Leonadorsen,2
+1656,Earth,False,TRAPPIST-1e,55.0,587.0,0.0,0.0,318.0,3.0,True,908.0,0,G,S,1,0,0,0,0,0,0,Maril,Fielsenders,5
+2060,Earth,False,TRAPPIST-1e,31.0,0.0,0.0,187.0,602.0,0.0,True,789.0,0,E,S,1,0,0,0,0,0,0,Brance,Vandan,12
+5924,Earth,False,TRAPPIST-1e,23.0,2.0,3.0,93.0,6.0,540.0,False,644.0,0,F,S,0,0,0,0,1,0,0,Tracek,Chanan,11
+3101,Earth,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Jordy,Hayder,6
+8202,Earth,False,PSO J318.5-22,14.0,476.0,14.0,0.0,328.0,8.0,False,826.0,0,F,P,0,0,0,0,0,1,0,Sony,Morgerson,5
+295,Earth,False,TRAPPIST-1e,19.0,17.0,0.0,784.0,0.0,2.0,True,803.0,0,G,unknown,1,0,0,0,0,0,0,Jasony,Ocherman,4
+4913,Earth,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Loisey,Melez,3
+7537,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Algor,Sersocatic,2
+629,Earth,False,TRAPPIST-1e,28.0,0.0,863.0,0.0,17.0,0.0,False,880.0,0,F,S,1,0,0,0,0,0,0,Unknown,Cardner,11
+125,Earth,False,TRAPPIST-1e,19.0,0.0,14.0,730.0,0.0,0.0,True,744.0,0,G,P,1,0,0,0,0,0,0,Camina,Harmontry,4
+719,Europa,False,TRAPPIST-1e,33.0,0.0,3879.0,0.0,48.0,67.0,True,3994.0,0,C,P,1,0,0,0,0,0,0,Izarki,Fliblerolt,3
+4964,Earth,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Rician,Sweett,8
+1069,Earth,False,TRAPPIST-1e,55.0,412.0,97.0,3.0,0.0,167.88235294117646,False,679.8823529411765,0,G,S,1,0,0,0,0,0,0,Landa,Barnolderg,3
+6024,Earth,False,TRAPPIST-1e,35.0,858.0,10.0,16.0,0.0,0.0,True,884.0,0,G,P,0,0,0,1,0,0,0,Dorice,Burnerez,3
+4539,Earth,False,55 Cancri e,14.0,363.0,44.0,0.0,0.0,512.0,True,919.0,0,G,P,0,0,1,0,0,0,0,Unknown,Unknown,0
+7431,Earth,False,PSO J318.5-22,24.0,0.0,0.0,604.0,0.0,91.0,True,695.0,0,F,P,0,0,0,0,0,1,0,Elly,Hooperez,2
+7758,Earth,True,55 Cancri e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Diandy,Woody,10
+6566,Earth,False,TRAPPIST-1e,25.0,439.0,0.0,0.0,557.0,0.0,False,996.0,0,E,S,0,1,0,0,0,0,0,Dont,Bookerson,8
+2888,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Derina,Prinson,5
+7347,Earth,True,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Krisa,Wheelez,7
+7310,Earth,False,PSO J318.5-22,18.0,0.0,76.0,0.0,993.0,6.0,True,1075.0,0,F,P,0,0,0,0,0,1,0,Samie,Polliamposs,7
+2819,Europa,False,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,A,S,1,0,0,0,0,0,0,Acraban,Conamminal,0
+5859,Mars,False,TRAPPIST-1e,27.0,55.0,0.0,50.0,1849.0,1.0,True,1955.0,0,D,S,1,0,0,0,0,0,0,Spikes,Sulie,0
+7906,Europa,False,55 Cancri e,32.0,0.0,2154.0,0.0,9655.0,859.0,False,12668.0,0,C,S,0,1,0,0,0,0,0,Arrain,Purellliss,4
+3594,Europa,True,TRAPPIST-1e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Ionium,Dertering,0
+3750,Earth,False,55 Cancri e,51.0,8.0,0.0,206.0,1247.0,14.0,True,1475.0,0,G,S,0,0,1,0,0,0,0,Luisy,Belley,11
+4697,Mars,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,1,0,0,0,Apies,Prity,7
+7840,Earth,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Murie,Dayers,5
+3207,Europa,False,TRAPPIST-1e,21.0,0.0,2834.0,0.0,414.0,558.0,False,3806.0,0,B,S,1,0,0,0,0,0,0,Weion,Knocke,2
+737,Europa,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Weia,Hednigic,8
+2152,Europa,False,TRAPPIST-1e,22.0,0.0,297.0,3.0,676.0,2924.0,False,3900.0,0,C,P,1,0,0,0,0,0,0,Asellum,Colensid,5
+7946,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Axinon,Clutcheed,0
+8118,Earth,False,TRAPPIST-1e,55.0,506.0,0.0,456.0,0.0,0.0,False,962.0,0,F,S,0,0,0,0,0,1,0,Leence,Cartiz,7
+6295,Earth,False,TRAPPIST-1e,18.0,0.0,0.0,827.0,0.0,0.0,True,827.0,0,G,S,0,0,0,1,0,0,0,Annaha,Barnoldeney,5
+4592,Earth,False,TRAPPIST-1e,52.0,44.0,167.15765765765767,0.0,42.0,1731.0,True,1984.1576576576576,0,G,S,0,0,1,0,0,0,0,Branda,Colomonson,3
+971,Earth,False,TRAPPIST-1e,23.0,1081.0,0.0,0.0,0.0,7.0,True,1088.0,0,F,P,1,0,0,0,0,0,0,Jorgie,Farleyatton,7
+4392,Earth,True,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Dia,Cartez,14
+2975,Earth,False,55 Cancri e,58.0,52.0,0.0,5.0,517.0,0.0,False,574.0,0,F,S,0,0,1,0,0,0,0,Lonna,Bardinard,9
+6774,Mars,False,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Lig,Ramad,8
+3239,Earth,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Nelley,Kennetty,4
+4502,Europa,True,55 Cancri e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Unknown,Unknown,0
+4663,Europa,False,TRAPPIST-1e,56.0,0.0,10.0,0.0,9319.0,1225.0,False,10554.0,0,A,P,1,0,0,0,0,0,0,Thabih,Vendeck,3
+5447,Earth,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Coreee,Hortis,6
+7556,Earth,False,TRAPPIST-1e,20.0,721.0,122.0,0.0,0.0,0.0,True,843.0,0,G,P,0,0,0,0,1,0,0,Racy,Watsongley,3
+1654,Earth,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Leneva,Mulley,4
+660,Europa,True,TRAPPIST-1e,36.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Chard,Motive,2
+6524,Earth,False,TRAPPIST-1e,28.0,0.0,669.0,0.0,1.0,2.0,True,672.0,0,F,S,0,0,0,0,1,0,0,Cellex,Merkins,7
+713,Europa,True,55 Cancri e,42.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,P,1,0,0,0,0,0,0,Matan,Ennalve,7
+5477,Europa,True,55 Cancri e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Zaurid,Prefule,8
+5687,Earth,False,TRAPPIST-1e,52.0,0.0,645.0,0.0,0.0,395.0,True,1040.0,0,F,S,0,0,0,1,0,0,0,Bobara,Alshipson,4
+7066,Earth,False,TRAPPIST-1e,58.0,1366.0,257.0,0.0,0.0,311.0,True,1934.0,0,F,P,0,0,0,0,0,1,0,Elancy,Alentonway,6
+444,Mars,False,PSO J318.5-22,27.0,556.1190476190476,6.0,145.0,144.0,0.0,False,851.1190476190476,0,F,P,1,0,0,0,0,0,0,Coves,Chiff,3
+7009,Europa,True,55 Cancri e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Alarkab,Aneter,0
+2586,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,0.0,757.0,0.0,True,757.0,0,G,S,0,1,0,0,0,0,0,Patoya,Meyersones,7
+4871,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Jenn,Haynard,6
+1615,Earth,True,PSO J318.5-22,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Andrey,Mcgowaymond,3
+3100,Earth,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Coreee,Mondsey,4
+326,Mars,False,TRAPPIST-1e,26.0,2832.0,107.0,4447.0,15.0,4.0,False,7405.0,0,F,P,1,0,0,0,0,0,0,Resers,Perte,5
+1234,Europa,False,55 Cancri e,37.0,0.0,439.0,0.0,3198.0,6.0,False,3643.0,0,E,S,1,0,0,0,0,0,0,Grafi,Plegred,7
+1315,Mars,False,TRAPPIST-1e,36.0,42.0,0.0,212.0,151.0,1853.0,False,2258.0,0,F,S,1,0,0,0,0,0,0,Mes,Kake,2
+5611,Europa,True,55 Cancri e,40.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Unknown,Unknown,0
+5759,Europa,False,TRAPPIST-1e,58.0,0.0,1012.0,0.0,1120.0,20.0,True,2152.0,0,E,S,0,1,0,0,0,0,0,Gatrix,Hontichre,6
+5034,Earth,False,55 Cancri e,23.0,253.0,0.0,1175.0,3.0,154.51933701657458,True,1585.5193370165746,0,F,P,0,0,0,1,0,0,0,Kyley,Foxter,9
+7600,Europa,False,TRAPPIST-1e,37.0,79.0,218.0,0.0,442.0,659.0,False,1398.0,0,C,S,0,1,0,0,0,0,0,Arkaban,Coning,5
+5717,Mars,False,55 Cancri e,18.0,2904.0,5.0,50.0,0.0,9.0,True,2968.0,0,F,P,0,0,0,0,1,0,0,Yaphex,Ecart,2
+980,Europa,True,TRAPPIST-1e,46.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,unknown,1,0,0,0,0,0,0,Algrafi,Heedry,2
+1168,Earth,False,PSO J318.5-22,23.0,0.0,0.0,1250.0,0.0,0.0,True,1250.0,0,F,S,1,0,0,0,0,0,0,Derina,Lambles,6
+424,Europa,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Zanin,Bedectical,0
+2364,Europa,False,55 Cancri e,41.0,0.0,12809.0,2.0,2835.0,1514.0,False,17160.0,0,A,P,1,0,0,0,0,0,0,Coxak,Sometery,5
+2315,Earth,False,55 Cancri e,36.0,0.0,0.0,0.0,33.0,619.0,True,652.0,0,G,unknown,0,1,0,0,0,0,0,Glasey,Foledges,4
+1573,Earth,False,TRAPPIST-1e,22.0,2.0,0.0,6.0,101.0,536.0,True,645.0,0,F,S,0,1,0,0,0,0,0,Millia,Watsongley,3
+7324,Europa,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,0,1,0,0,0,0,0,Caphird,Kiling,11
+3580,Europa,True,55 Cancri e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Azharga,Chuble,5
+2223,Earth,False,55 Cancri e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Cathya,Pollarkeeks,9
+3472,Europa,False,TRAPPIST-1e,61.0,328.0,5193.0,0.0,20.0,533.0,True,6074.0,0,B,S,1,0,0,0,0,0,0,Genif,Amincrerus,3
+5622,Europa,False,55 Cancri e,19.0,0.0,1103.6785714285713,0.0,2.0,9.0,True,1114.6785714285713,0,C,S,1,0,0,0,0,0,0,Alatrin,Trallect,0
+7317,Mars,False,TRAPPIST-1e,16.0,1095.0,0.0,54.0,0.0,0.0,True,1149.0,0,F,P,0,0,0,0,0,1,0,Unknown,Unknown,0
+7539,Earth,False,TRAPPIST-1e,20.0,0.0,38.0,0.0,0.0,1779.0,True,1817.0,0,G,P,0,0,0,0,1,0,0,Leria,Merrelliss,2
+8512,Earth,False,PSO J318.5-22,16.0,0.0,0.0,761.0,0.0,0.0,False,761.0,0,F,P,0,0,0,0,0,0,1,Daryla,Clemondsey,12
+4238,Mars,False,TRAPPIST-1e,48.0,137.0,0.0,877.0,0.0,0.0,False,1014.0,0,E,S,1,0,0,0,0,0,0,Cats,Sopie,3
+7913,Europa,False,TRAPPIST-1e,36.0,0.0,1055.0,18.0,1669.0,49.0,False,2791.0,0,C,P,1,0,0,0,0,0,0,Muonon,Voliat,5
+1121,Earth,False,TRAPPIST-1e,48.0,0.0,33.0,654.0,0.0,113.0,False,800.0,0,F,S,1,0,0,0,0,0,0,Oraryn,Browlerson,14
+1122,Earth,False,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Eriney,Browlerson,14
+1690,Earth,False,TRAPPIST-1e,19.0,5.0,639.0,0.0,84.0,180.0,True,908.0,0,G,P,1,0,0,0,0,0,0,Shalle,Leonaldez,4
+3473,Earth,False,TRAPPIST-1e,48.0,0.0,0.0,632.0,250.0,0.0,False,882.0,0,G,S,0,0,1,0,0,0,0,Ryany,Bucklandez,5
+1652,Earth,False,55 Cancri e,15.0,1006.0,1.0,0.0,0.0,308.0,True,1315.0,0,F,S,0,1,0,0,0,0,0,Dell,Chavezalez,8
+6762,Earth,False,TRAPPIST-1e,18.0,0.0,10.0,0.0,0.0,738.0,True,748.0,0,F,S,0,0,0,0,1,0,0,Ninald,Fryersonis,11
+593,Earth,True,55 Cancri e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Stance,Hodes,7
+226,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Lilace,Cartyernan,8
+2590,Earth,False,TRAPPIST-1e,13.0,412.0,4.0,0.0,0.0,551.0,False,967.0,0,F,P,0,1,0,0,0,0,0,Aleroy,Bushins,4
+3025,Europa,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Grafik,Whifounrew,4
+3664,Earth,False,TRAPPIST-1e,24.0,45.0,588.0,5.0,7.0,0.0,True,645.0,0,F,S,0,0,1,0,0,0,0,Vanie,Rossey,3
+3740,Earth,True,PSO J318.5-22,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Lorian,River,7
+8017,Earth,False,PSO J318.5-22,21.0,4.0,3.0,149.0,17.0,442.0,True,615.0,0,G,S,0,0,0,0,1,0,0,Leen,Goldendrice,4
+8405,Earth,False,PSO J318.5-22,22.0,0.0,17.0,0.0,620.0,0.0,False,637.0,0,F,S,0,0,0,0,0,1,0,Lyne,Kirklander,4
+1547,Earth,False,TRAPPIST-1e,19.0,414.0,0.0,66.0,307.0,0.0,True,787.0,0,E,S,1,0,0,0,0,0,0,Roydo,Ballocks,6
+533,Europa,False,TRAPPIST-1e,33.0,1908.0,33.0,0.0,1.0,4.0,False,1946.0,0,D,S,1,0,0,0,0,0,0,Enibik,Baciffhaut,2
+8674,Mars,False,TRAPPIST-1e,13.0,39.0,0.0,1085.0,24.0,0.0,True,1148.0,0,F,P,0,0,0,0,0,0,1,Ties,Apple,2
+7427,Europa,False,PSO J318.5-22,36.0,2.0,6504.0,0.0,98.0,4.0,False,6608.0,0,B,P,1,0,0,0,0,0,0,Eleb,Spedlybood,4
+3435,Earth,False,TRAPPIST-1e,21.0,120.0,235.0,0.0,167.58786446020488,0.0,True,522.5878644602049,0,F,S,0,0,1,0,0,0,0,Dia,Loway,12
+4319,Europa,False,TRAPPIST-1e,36.0,1.0,5234.0,343.0,277.0,12682.0,False,18537.0,0,C,S,1,0,0,0,0,0,0,Kabih,Namsheary,4
+3484,Europa,False,TRAPPIST-1e,53.0,0.0,3377.0,0.0,193.0,5563.0,False,9133.0,0,B,P,1,0,0,0,0,0,0,Dsch,Brakebarne,2
+6528,Mars,False,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Risps,Hacle,6
+5743,Earth,False,TRAPPIST-1e,39.0,0.0,29.0,291.0,13.0,527.0,False,860.0,0,F,P,0,0,0,0,1,0,0,Pattin,Lynnerett,8
+7900,Mars,False,TRAPPIST-1e,32.0,725.0,0.0,1641.0,0.0,0.0,True,2366.0,0,F,S,0,0,0,0,0,1,0,Kohs,Prist,2
+1722,Europa,True,55 Cancri e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Atrinon,Persed,3
+4018,Europa,False,55 Cancri e,28.0,0.0,31.0,0.0,1283.0,871.0,True,2185.0,0,A,S,1,0,0,0,0,0,0,Hadiram,Disight,2
+5810,Mars,True,TRAPPIST-1e,43.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Jagice,Sueke,4
+6670,Earth,False,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Mamina,Mcphernard,7
+4908,Mars,False,TRAPPIST-1e,16.0,271.0,0.0,2251.0,117.0,0.0,True,2639.0,0,F,P,0,0,0,1,0,0,0,Tote,Chmad,4
+6784,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,1,0,0,Hal,Walé,2
+6816,Europa,False,TRAPPIST-1e,37.0,300.0,3434.0,0.0,1.0,171.0,True,3906.0,0,C,S,1,0,0,0,0,0,0,Aldah,Coustive,0
+685,Earth,False,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Claine,Rilley,10
+1761,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,1,0,0,0,0,0,0,Stote,Wala,7
+440,Europa,False,55 Cancri e,30.0,0.0,7972.0,0.0,0.0,4.0,False,7976.0,0,B,P,1,0,0,0,0,0,0,Izarino,Fuelisent,5
+6870,Earth,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Hillie,Garden,7
+2565,Earth,True,PSO J318.5-22,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Ollip,Ballocks,6
+4673,Earth,False,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Sanney,Potterry,6
+5868,Europa,False,55 Cancri e,37.0,0.0,90.0,0.0,3282.0,11.0,False,3383.0,0,B,S,1,0,0,0,0,0,0,Suhelik,Sterly,2
+7407,Earth,False,TRAPPIST-1e,47.0,397.0,0.0,321.0,0.0,5.0,False,723.0,0,G,P,0,0,0,0,1,0,0,Eriky,Munozaley,4
+7266,Earth,False,55 Cancri e,20.0,748.0,0.0,0.0,0.0,487.0,False,1235.0,0,F,S,0,0,0,0,1,0,0,Jerrye,Oneiles,16
+3448,Europa,True,TRAPPIST-1e,56.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Alraida,Trattle,4
+6750,Europa,True,55 Cancri e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Alkurak,Dressink,3
+3505,Europa,False,55 Cancri e,44.0,0.0,280.0,112.0,0.0,9244.0,True,9636.0,0,B,S,1,0,0,0,0,0,0,Sadaton,Alenat,3
+7369,Earth,False,TRAPPIST-1e,46.0,248.0,173.7282741738066,0.0,4.0,0.0,True,425.7282741738066,0,F,S,0,0,0,0,0,1,0,Rald,Crosbornes,4
+6280,Earth,False,TRAPPIST-1e,16.0,124.72881355932203,0.0,265.0,0.0,0.0,True,389.728813559322,0,F,S,0,0,0,0,1,0,0,Andan,Wartyson,10
+1140,Earth,False,TRAPPIST-1e,23.0,393.0,510.0,0.0,0.0,5.0,False,908.0,0,G,P,1,0,0,0,0,0,0,Done,Brooker,3
+4200,Earth,False,TRAPPIST-1e,26.0,1170.0,0.0,0.0,187.0,100.0,True,1457.0,0,F,P,0,0,0,1,0,0,0,Brancy,Miranciash,3
+6574,Mars,False,TRAPPIST-1e,47.0,160.0,0.0,1232.0,36.0,0.0,False,1428.0,0,F,P,0,0,0,0,1,0,0,Cats,Nutty,4
+1888,Earth,False,TRAPPIST-1e,19.0,1139.0,18.0,0.0,0.0,671.0,True,1828.0,0,F,S,0,1,0,0,0,0,0,Fayene,Hickett,6
+4148,Earth,False,55 Cancri e,38.0,8.0,0.0,1414.0,10.0,3.0,True,1435.0,0,G,P,0,0,1,0,0,0,0,Ryany,Kenzierry,2
+1972,Earth,False,55 Cancri e,20.0,1.0,0.0,0.0,4926.0,1.0,True,4928.0,0,G,S,0,1,0,0,0,0,0,Bertle,Calhounez,0
+2883,Earth,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Sus,Coolez,6
+5965,Europa,False,TRAPPIST-1e,33.0,2.0,4742.0,0.0,34.0,0.0,False,4778.0,0,C,S,1,0,0,0,0,0,0,Arinon,Unkcal,3
+5505,Mars,False,TRAPPIST-1e,52.0,1364.0,131.0,444.0,0.0,0.0,False,1939.0,0,D,P,1,0,0,0,0,0,0,Eles,Cone,6
+2242,Earth,False,TRAPPIST-1e,25.0,7.0,0.0,0.0,877.0,0.0,True,884.0,0,G,S,0,1,0,0,0,0,0,Antony,Frederry,0
+2087,Mars,False,TRAPPIST-1e,31.0,21.0,0.0,1031.0,0.0,63.93650793650794,False,1115.936507936508,0,D,P,1,0,0,0,0,0,0,Burs,Flité,8
+5951,Earth,False,55 Cancri e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Vin,Rodricker,6
+2735,Earth,False,TRAPPIST-1e,21.0,15.0,30.0,11.0,2.0,388.0,True,446.0,0,G,S,0,1,0,0,0,0,0,Jimmyn,Berreranks,5
+5422,Europa,False,55 Cancri e,40.0,0.0,3338.0,0.0,6344.0,199.0,True,9881.0,0,B,P,1,0,0,0,0,0,0,Eltares,Subwor,3
+7305,Earth,False,PSO J318.5-22,27.0,0.0,605.0,0.0,0.0,0.0,True,605.0,0,F,S,0,0,0,0,1,0,0,Jaye,Daviddley,5
+4382,Earth,True,55 Cancri e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Sharie,Moodman,13
+1741,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Ellena,Jenson,11
+3517,Earth,False,TRAPPIST-1e,35.0,227.0,117.0,394.0,9.0,56.0,False,803.0,0,F,P,0,0,1,0,0,0,0,Dorah,Willy,12
+6436,Mars,False,TRAPPIST-1e,41.0,145.0,0.0,2383.0,30.0,40.0,True,2598.0,0,F,P,0,0,0,0,1,0,0,Razzle,Reate,2
+1683,Earth,True,PSO J318.5-22,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Francy,Garnettiz,5
+2328,Europa,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Phacton,Switud,3
+4425,Earth,False,55 Cancri e,60.0,0.0,0.0,0.0,0.0,170.35874439461884,True,170.35874439461884,0,F,P,0,0,0,1,0,0,0,Tammyl,Roses,9
+2434,Earth,False,TRAPPIST-1e,45.0,10.0,16.0,801.0,73.0,147.2742474916388,False,1047.2742474916388,0,F,P,0,1,0,0,0,0,0,Claura,Dawsoncis,3
+8686,Europa,False,TRAPPIST-1e,32.0,1.0,1146.0,0.0,50.0,34.0,False,1231.0,0,A,P,1,0,0,0,0,0,0,Diram,Conable,4
+687,Earth,True,PSO J318.5-22,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Charry,Rilley,10
+7281,Earth,False,TRAPPIST-1e,38.0,0.0,0.0,0.0,45.0,3372.0,True,3417.0,0,F,P,0,0,0,0,0,1,0,Stelle,Adkinson,3
+979,Earth,False,PSO J318.5-22,15.0,521.0,162.0,62.0,5.0,0.0,True,750.0,0,G,S,1,0,0,0,0,0,0,Clard,Mcbritts,3
+3814,Europa,False,TRAPPIST-1e,38.0,1901.0,1276.0,0.0,7561.0,12.0,True,10750.0,0,C,S,1,0,0,0,0,0,0,Anchira,Nateansive,4
+3509,Europa,False,TRAPPIST-1e,28.0,80.0,828.0,0.0,4494.0,4269.0,True,9671.0,0,B,P,1,0,0,0,0,0,0,Mesarid,Pinoffent,0
+6983,Earth,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Milyla,Balderts,7
+2943,Mars,False,TRAPPIST-1e,27.0,309.0,50.13068181818182,849.0,0.0,0.0,True,1208.1306818181818,0,F,P,0,0,1,0,0,0,0,Golve,Mushe,3
+2476,Earth,False,TRAPPIST-1e,20.0,0.0,27.0,1.0,686.0,1.0,True,715.0,0,F,S,0,1,0,0,0,0,0,Ricard,Gainney,12
+7132,Mars,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,0,1,0,Wase,Deeke,5
+5722,Europa,False,55 Cancri e,68.0,125.0,13437.0,0.0,22408.0,17.0,True,35987.0,0,C,P,1,0,0,0,0,0,0,Markar,Radisiouss,4
+3526,Earth,False,TRAPPIST-1e,77.0,0.0,167.15765765765767,131.0,3981.0,108.0,True,4387.157657657657,0,G,P,0,0,1,0,0,0,0,Ale,Morrencis,6
+2579,Earth,False,TRAPPIST-1e,42.0,0.0,0.0,213.0,166.0,1209.0,True,1588.0,0,E,S,1,0,0,0,0,0,0,Racily,Reyervaney,4
+1746,Europa,False,TRAPPIST-1e,35.0,0.0,1.0,0.0,0.0,3156.0,False,3157.0,0,A,P,1,0,0,0,0,0,0,Caiah,Headfair,3
+1142,Earth,True,TRAPPIST-1e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Curtle,Alvasquez,7
+1109,Mars,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,1,0,0,0,0,0,0,Ers,Brin,4
+7198,Europa,False,55 Cancri e,32.0,0.0,48.0,0.0,3204.0,112.0,True,3364.0,0,C,S,1,0,0,0,0,0,0,Meropus,Aroodint,5
+8099,Earth,True,TRAPPIST-1e,50.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Racily,Bairdyork,3
+3652,Earth,False,TRAPPIST-1e,18.0,716.0,141.63880126182966,0.0,0.0,0.0,True,857.6388012618297,0,F,P,0,0,1,0,0,0,0,Wine,Fowlesterez,12
+3270,Earth,False,TRAPPIST-1e,19.0,122.0,170.0,52.0,0.0,465.0,True,809.0,0,G,P,0,1,0,0,0,0,0,Mara,Batestonley,7
+3121,Earth,False,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Elene,Huffy,2
+6121,Mars,False,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,0,1,0,0,0,0,0,Whead,Swin,5
+4401,Europa,True,55 Cancri e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Sadrus,Scerodbox,7
+8146,Earth,False,PSO J318.5-22,28.0,679.0,0.0,0.0,0.0,0.0,True,679.0,0,G,P,0,0,0,0,1,0,0,Annard,Jacostaffey,7
+409,Earth,False,TRAPPIST-1e,22.0,9.0,0.0,795.0,0.0,0.0,True,804.0,0,F,S,1,0,0,0,0,0,0,Ferry,Mcclayton,3
+930,Europa,False,55 Cancri e,37.0,4301.0,791.0,0.0,1748.0,91.0,False,6931.0,0,D,S,1,0,0,0,0,0,0,Weidus,Kiling,11
+1940,Earth,False,55 Cancri e,29.0,270.0,0.0,0.0,25.0,343.0,True,638.0,0,F,S,0,1,0,0,0,0,0,Janne,Yatters,4
+5129,Mars,False,TRAPPIST-1e,29.0,518.0,0.0,10.0,1245.0,0.0,True,1773.0,0,F,S,0,0,0,1,0,0,0,Hocorz,Prity,7
+7579,Europa,False,55 Cancri e,26.0,0.0,11598.0,0.0,3.0,386.0,False,11987.0,0,B,P,1,0,0,0,0,0,0,Hasim,Mosteraked,11
+949,Earth,False,TRAPPIST-1e,31.0,1633.0,4.0,49.0,6.0,0.0,False,1692.0,0,G,P,1,0,0,0,0,0,0,Camie,Prinson,5
+7260,Earth,False,55 Cancri e,14.0,325.0,0.0,19.0,506.0,2.0,True,852.0,0,G,S,0,0,0,0,1,0,0,Dessie,Lewinez,5
+8422,Earth,True,55 Cancri e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,0,1,0,Dont,Guerson,11
+3208,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Teremy,Hamcmahon,6
+1710,Earth,False,PSO J318.5-22,16.0,112.0,0.0,38.0,77.0,443.0,True,670.0,0,F,S,0,1,0,0,0,0,0,Marky,Lanks,3
+32,Earth,False,TRAPPIST-1e,32.0,0.0,850.0,81.0,437.0,453.0,True,1821.0,0,G,S,1,0,0,0,0,0,0,Ginia,Morsentley,4
+983,Europa,False,TRAPPIST-1e,44.0,0.0,2349.0,7.0,815.0,10896.0,False,14067.0,0,C,P,1,0,0,0,0,0,0,Shail,Unteckery,8
+2049,Earth,False,TRAPPIST-1e,27.0,0.0,280.0,119.0,646.0,5.0,True,1050.0,0,F,P,0,1,0,0,0,0,0,Naomie,Coleyanglas,3
+8683,Earth,False,TRAPPIST-1e,21.0,86.0,3.0,149.0,208.0,329.0,False,775.0,0,F,P,0,0,0,0,0,0,1,Gordo,Simson,6
+6099,Earth,False,TRAPPIST-1e,51.0,0.0,10.0,388.0,1380.0,0.0,False,1778.0,0,G,S,0,0,0,1,0,0,0,Denny,Cartyernan,8
+4549,Europa,True,55 Cancri e,59.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Mahamak,Prefule,8
+1182,Mars,False,TRAPPIST-1e,27.0,4.0,0.0,896.0,229.0,0.0,False,1129.0,0,F,S,1,0,0,0,0,0,0,Babix,Breke,3
+4064,Mars,False,TRAPPIST-1e,47.0,2044.0,0.0,95.0,0.0,120.0,True,2259.0,0,F,S,0,0,1,0,0,0,0,Ranch,Reste,4
+6156,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Terald,Dillips,6
+5548,Earth,False,TRAPPIST-1e,32.0,0.0,0.0,39.0,0.0,749.0,True,788.0,0,E,S,0,1,0,0,0,0,0,Garion,Mcneiley,6
+311,Earth,True,55 Cancri e,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Lynney,Chanan,11
+6883,Europa,True,55 Cancri e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Cheleon,Bruthydre,6
+5067,Earth,False,TRAPPIST-1e,22.0,0.0,747.0,8.0,0.0,314.0,True,1069.0,0,F,P,0,0,0,1,0,0,0,Lynez,Hartz,2
+65,Earth,False,TRAPPIST-1e,42.0,887.0,0.0,9.0,6.0,0.0,True,902.0,0,F,S,1,0,0,0,0,0,0,Unknown,Unknown,0
+3188,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Shaele,Pottney,4
+6084,Earth,True,PSO J318.5-22,20.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Timyra,Kramosley,8
+7589,Mars,False,55 Cancri e,28.0,49.0,0.0,0.0,2.0,1136.0,True,1187.0,0,D,P,1,0,0,0,0,0,0,Ties,Prin,5
+2577,Earth,False,55 Cancri e,15.0,254.0,0.0,10.0,180.0,0.0,False,444.0,0,G,S,0,1,0,0,0,0,0,Paulah,Leonzaley,7
+2491,Earth,False,PSO J318.5-22,21.0,970.0,0.0,213.0,8.0,86.0,True,1277.0,0,F,P,0,1,0,0,0,0,0,Lillia,Waltonson,2
+2664,Earth,False,PSO J318.5-22,29.0,631.0,138.3592493297587,0.0,40.0,0.0,True,809.3592493297588,0,F,S,0,1,0,0,0,0,0,Hanry,Larlowelley,2
+5756,Earth,False,55 Cancri e,24.0,13.0,0.0,2.0,673.0,3.0,True,691.0,0,F,P,0,0,0,0,1,0,0,Moniey,Lambucketty,3
+1526,Earth,False,55 Cancri e,25.0,553.0,0.0,1.0,239.0,8.0,False,801.0,0,F,S,0,1,0,0,0,0,0,Jeane,Dukertyler,4
+4393,Earth,True,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Nelsie,Roachoanand,6
+4855,Europa,False,TRAPPIST-1e,48.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Minkark,Motled,5
+7628,Earth,False,TRAPPIST-1e,20.0,0.0,142.0,0.0,3528.0,92.0,False,3762.0,0,G,P,0,0,0,0,1,0,0,Everly,Pittler,11
+3355,Europa,False,TRAPPIST-1e,27.0,0.0,325.0,0.0,8.0,1622.0,False,1955.0,0,C,P,1,0,0,0,0,0,0,Mesaton,Fralledic,6
+7154,Mars,False,TRAPPIST-1e,28.0,2703.0,0.0,4.0,1.0,0.0,True,2708.0,0,D,S,1,0,0,0,0,0,0,Phex,Kepie,2
+3728,Earth,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Loresa,Lowelliott,9
+2193,Earth,True,55 Cancri e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Lewise,Wellierras,8
+8302,Europa,True,55 Cancri e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,0,1,0,0,0,0,0,Alramix,Myling,9
+3626,Earth,False,55 Cancri e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Glendy,Doughan,5
+4798,Earth,False,TRAPPIST-1e,41.0,256.0,109.0,0.0,340.0,0.0,True,705.0,0,F,P,0,0,0,1,0,0,0,Kimmie,Greeves,6
+3638,Earth,False,TRAPPIST-1e,15.0,309.0,28.0,496.0,20.0,49.0,True,902.0,0,F,S,0,0,1,0,0,0,0,Carona,Cartiz,7
+514,Earth,False,TRAPPIST-1e,42.0,126.0,0.0,266.0,445.0,12.0,True,849.0,0,G,S,1,0,0,0,0,0,0,Stene,Bradlerson,8
+6712,Earth,False,55 Cancri e,26.0,0.0,158.0,0.0,0.0,912.0,True,1070.0,0,F,S,0,0,0,0,1,0,0,Faithy,Hunterton,2
+8432,Earth,False,TRAPPIST-1e,31.0,0.0,173.0,409.0,102.0,43.0,False,727.0,0,F,S,0,0,0,0,0,1,0,Robina,Herreras,6
+4727,Earth,False,TRAPPIST-1e,23.0,0.0,381.0,142.0,0.0,261.0,False,784.0,0,G,S,0,0,1,0,0,0,0,Sanya,Palmes,6
+5335,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Melara,Callowery,6
+1060,Europa,True,55 Cancri e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,unknown,1,0,0,0,0,0,0,Hadyon,Sobvisted,2
+2372,Earth,False,55 Cancri e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Dorice,Vincenton,10
+1480,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Tors,Hac,3
+6708,Earth,True,55 Cancri e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Jonaye,Carpennels,8
+3910,Europa,False,TRAPPIST-1e,30.0,0.0,1172.0,183.0,91.0,0.0,False,1446.0,0,A,S,1,0,0,0,0,0,0,Unknown,Pleele,4
+4677,Earth,False,TRAPPIST-1e,24.0,530.0,0.0,0.0,0.0,179.0,False,709.0,0,G,S,0,0,1,0,0,0,0,Brank,Brenney,7
+6191,Earth,False,TRAPPIST-1e,23.0,0.0,1362.0,0.0,1267.0,0.0,True,2629.0,0,F,S,0,0,0,0,1,0,0,Bony,Shieldson,9
+2076,Earth,True,PSO J318.5-22,25.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Willey,Puckley,5
+3978,Europa,False,TRAPPIST-1e,58.0,0.0,2946.0,0.0,101.0,387.0,False,3434.0,0,B,S,1,0,0,0,0,0,0,Nusoton,Inghting,3
+4297,Mars,False,TRAPPIST-1e,17.0,250.0,0.0,2179.0,0.0,0.0,True,2429.0,0,F,S,0,0,1,0,0,0,0,Oss,Kha,0
+700,Earth,False,55 Cancri e,23.0,0.0,38.0,88.0,4.0,561.0,True,691.0,0,F,P,1,0,0,0,0,0,0,Lulah,Hamberterry,5
+5452,Mars,True,TRAPPIST-1e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Caper,Bine,9
+176,Earth,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Regana,Morrows,5
+536,Europa,False,TRAPPIST-1e,36.0,530.0,5085.0,1.0,146.0,872.0,True,6634.0,0,C,S,1,0,0,0,0,0,0,Chard,Tramsor,3
+6851,Europa,True,55 Cancri e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Errak,Reeddommy,7
+4015,Mars,False,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,P,1,0,0,0,0,0,0,Lidenx,Icake,0
+2475,Earth,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Benny,Ballocks,6
+6765,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Peefox,Pre,5
+4943,Earth,False,TRAPPIST-1e,21.0,38.0,1.0,591.0,1.0,31.0,True,662.0,0,E,S,0,1,0,0,0,0,0,Mollen,Ewisentley,4
+7921,Europa,False,TRAPPIST-1e,28.0,1004.0,2423.0,0.0,0.0,17.0,False,3444.0,0,C,S,0,1,0,0,0,0,0,Hezenif,Sempreate,5
+347,Earth,False,TRAPPIST-1e,23.0,348.0,0.0,0.0,4.0,368.0,True,720.0,0,G,P,1,0,0,0,0,0,0,Blanie,Floydendley,5
+2805,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Artis,Gambs,4
+2002,Mars,False,55 Cancri e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Slig,Queke,5
+2646,Europa,False,55 Cancri e,28.0,1581.0,213.0,0.0,18.0,3051.0,False,4863.0,0,C,P,1,0,0,0,0,0,0,Teron,Pabler,2
+1376,Europa,False,55 Cancri e,46.0,202.0,484.0,0.0,3208.0,2485.0,False,6379.0,0,C,S,1,0,0,0,0,0,0,Zinor,Proorbeng,3
+8513,Earth,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Aliey,Clemondsey,12
+8312,Earth,True,PSO J318.5-22,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Nadie,Benney,7
+7770,Mars,False,TRAPPIST-1e,40.0,1309.0,0.0,0.0,0.0,0.0,True,1309.0,0,F,S,0,0,0,0,0,1,0,Skies,Upead,3
+4342,Europa,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Azharga,Ineedeve,8
+3861,Earth,False,PSO J318.5-22,23.0,40.0,15.0,30.0,0.0,637.0,True,722.0,0,F,P,0,0,1,0,0,0,0,Shan,Fitzgerson,6
+3710,Mars,False,TRAPPIST-1e,26.0,1632.0,0.0,80.0,7.0,0.0,True,1719.0,0,D,P,1,0,0,0,0,0,0,Beal,Soun,2
+1284,Earth,False,TRAPPIST-1e,23.0,0.0,1268.0,0.0,119.0,2.0,True,1389.0,0,F,S,1,0,0,0,0,0,0,Unknown,Unknown,0
+8342,Earth,False,TRAPPIST-1e,33.0,0.0,3.0,0.0,782.0,7.0,True,792.0,0,E,S,0,1,0,0,0,0,0,Therta,Crayeson,4
+7391,Earth,False,TRAPPIST-1e,60.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Dianie,Villenson,11
+1595,Mars,False,TRAPPIST-1e,27.0,3482.0,1234.0,1155.0,0.0,0.0,True,5871.0,0,F,S,0,1,0,0,0,0,0,Sesh,Giba,4
+8390,Europa,True,TRAPPIST-1e,51.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,E,S,0,1,0,0,0,0,0,Phamark,Watorivedy,0
+1813,Earth,False,TRAPPIST-1e,47.0,7.0,877.0,17.0,0.0,0.0,True,901.0,0,F,S,0,1,0,0,0,0,0,Therly,Knoxtones,3
+263,Europa,True,55 Cancri e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Furuson,Objeciane,5
+5731,Earth,False,TRAPPIST-1e,33.0,41.0,417.0,0.0,42.0,308.0,True,808.0,0,G,S,0,0,0,1,0,0,0,Almara,Delazarson,6
+29,Earth,False,TRAPPIST-1e,15.0,0.0,225.0,0.0,998.0,0.0,True,1223.0,0,F,S,1,0,0,0,0,0,0,Karard,Brookenson,3
+8396,Earth,False,TRAPPIST-1e,27.0,1.0,233.608,0.0,20.0,948.0,False,1202.608,0,F,P,0,0,0,0,0,0,1,Inerry,Goffey,6
+7685,Europa,True,TRAPPIST-1e,53.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,0,1,0,0,0,0,0,Sinon,Unkcatted,9
+5078,Mars,False,PSO J318.5-22,13.0,358.0,65.0,599.0,676.0,0.0,False,1698.0,0,F,P,0,0,0,1,0,0,0,Chtios,Dal,10
+2707,Mars,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Corse,Snoff,6
+2270,Mars,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Totse,Stake,0
+1835,Earth,False,TRAPPIST-1e,24.0,3.0,361.0,94.0,824.0,160.0,False,1442.0,0,F,P,0,1,0,0,0,0,0,Verek,Buckeenez,3
+5834,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,1,0,0,0,Anthia,Mcbriddley,8
+2379,Mars,False,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,1,0,0,0,0,0,Sups,Katte,7
+3119,Mars,False,PSO J318.5-22,26.0,717.0,0.0,84.0,0.0,0.0,False,801.0,0,D,S,1,0,0,0,0,0,0,Blers,Sinda,6
+7936,Earth,False,55 Cancri e,21.0,39.0,53.0,94.0,33.0,518.0,True,737.0,0,F,S,0,0,0,0,0,1,0,Eriky,Weaves,6
+7916,Earth,False,TRAPPIST-1e,23.0,29.0,0.0,172.70347003154575,332.0,270.0,True,803.7034700315457,0,F,S,0,0,0,0,0,1,0,Erie,Lopelases,10
+1733,Earth,False,TRAPPIST-1e,20.0,0.0,0.0,0.0,788.0,16.0,True,804.0,0,F,P,0,1,0,0,0,0,0,Elicia,Mejiamsey,0
+1529,Earth,True,PSO J318.5-22,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Joanry,Barbes,13
+5708,Europa,False,TRAPPIST-1e,27.0,0.0,21.0,0.0,8126.0,4.0,True,8151.0,0,B,S,1,0,0,0,0,0,0,Bralino,Matoltuble,5
+4298,Mars,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,1,0,0,0,0,Mocake,Buko,0
+6389,Mars,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Trisp,Berle,6
+7248,Mars,True,55 Cancri e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Shood,Pie,3
+2572,Earth,False,TRAPPIST-1e,33.0,0.0,0.0,170.0,14.0,810.0,True,994.0,0,E,P,1,0,0,0,0,0,0,Iree,Kimons,7
+5235,Earth,False,PSO J318.5-22,37.0,0.0,0.0,6.0,746.0,1.0,True,753.0,0,G,P,0,0,1,0,0,0,0,Elanda,Reyersendry,5
+8279,Mars,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,0,0,0,1,Asinch,Derry,5
+202,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Guye,Wilsoney,10
+3733,Earth,False,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Everly,Lowelliott,9
+7529,Earth,False,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Duana,Serry,10
+1240,Mars,False,TRAPPIST-1e,26.0,1946.0,4.0,4.0,0.0,623.0,False,2577.0,0,D,P,1,0,0,0,0,0,0,Muld,Make,8
+1651,Earth,True,PSO J318.5-22,59.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Monald,Coley,3
+1845,Mars,False,TRAPPIST-1e,41.0,3702.0,0.0,1.0,0.0,18.0,True,3721.0,0,D,P,1,0,0,0,0,0,0,Sugark,Cusa,5
+1900,Mars,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,1,0,0,0,0,0,Powl,Shcad,0
+7632,Earth,False,TRAPPIST-1e,18.0,0.0,508.0,0.0,44.0,257.0,True,809.0,0,G,P,0,0,0,0,1,0,0,Jarena,Cartez,14
+6405,Mars,False,TRAPPIST-1e,31.0,76.0,0.0,2398.0,102.0,23.0,False,2599.0,0,F,S,0,0,0,0,1,0,0,Supix,Rake,2
+771,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Wales,Meake,10
+4982,Earth,False,TRAPPIST-1e,18.0,454.0,0.0,0.0,324.0,0.0,True,778.0,0,F,P,0,0,0,1,0,0,0,Gwendy,Toddleton,8
+3656,Europa,True,55 Cancri e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Alrak,Witeronfus,6
+2393,Europa,True,55 Cancri e,21.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Sheratz,Suptibler,5
+3426,Earth,True,TRAPPIST-1e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Warry,Sandry,3
+3357,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Fomalik,Fralledic,6
+3192,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Saleh,Modent,4
+2708,Earth,False,TRAPPIST-1e,16.0,0.0,20.0,0.0,300.0,681.0,False,1001.0,0,F,P,0,0,1,0,0,0,0,Jeanna,Vandez,4
+4521,Earth,False,TRAPPIST-1e,18.0,211.0,594.0,2.0,493.0,62.0,False,1362.0,0,F,S,0,0,0,1,0,0,0,Dorene,Thorney,8
+210,Mars,False,TRAPPIST-1e,20.0,1406.0,0.0,0.0,11.0,0.0,False,1417.0,0,F,S,1,0,0,0,0,0,0,Gone,Perte,5
+3553,Mars,False,TRAPPIST-1e,20.0,984.0,1.0,921.0,0.0,60.6228813559322,True,1966.6228813559321,0,E,P,1,0,0,0,0,0,0,Poselk,Reste,4
+4506,Europa,False,TRAPPIST-1e,54.0,0.0,2853.0,0.0,0.0,1666.0,True,4519.0,0,B,S,1,0,0,0,0,0,0,Alarkab,Mirinanty,4
+1150,Earth,True,55 Cancri e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Elanie,Fulloydez,14
+4474,Europa,True,55 Cancri e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Beidus,Gealloyalt,5
+4439,Earth,False,TRAPPIST-1e,21.0,0.0,681.0,51.0,131.0,1.0,True,864.0,0,F,S,0,0,1,0,0,0,0,Maya,Lardy,3
+3640,Earth,False,PSO J318.5-22,29.0,0.0,2.0,553.0,44.0,0.0,False,599.0,0,F,S,0,0,1,0,0,0,0,Ermank,Waterson,5
+4617,Mars,True,TRAPPIST-1e,4.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Graw,Sturt,6
+8262,Earth,False,TRAPPIST-1e,29.0,128.0,0.0,130.0,132.0,473.0,True,863.0,0,F,P,0,0,0,0,0,0,1,Ruthy,Whiters,5
+4313,Europa,False,TRAPPIST-1e,33.0,0.0,4516.0,0.0,6167.0,5308.0,False,15991.0,0,C,P,1,0,0,0,0,0,0,Furus,Coudered,4
+7669,Earth,True,PSO J318.5-22,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Kariel,Jenkinnedy,4
+4431,Mars,False,TRAPPIST-1e,22.0,130.0,15.0,2454.0,0.0,0.0,False,2599.0,0,F,P,0,0,0,1,0,0,0,Lift,Cread,3
+8473,Earth,False,TRAPPIST-1e,36.0,0.0,17.0,204.0,559.0,3.0,False,783.0,0,G,S,0,0,0,0,1,0,0,Adamy,Hestes,8
+7361,Earth,True,TRAPPIST-1e,1.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Chesty,Wardendez,9
+7422,Europa,True,55 Cancri e,30.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Sarino,Skessid,2
+5798,Mars,False,TRAPPIST-1e,28.0,236.0,699.0,332.0,31.0,0.0,True,1298.0,0,E,S,0,1,0,0,0,0,0,Mos,Frie,0
+1143,Earth,True,TRAPPIST-1e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Bethy,Pollarkeeks,9
+6808,Europa,True,TRAPPIST-1e,29.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Auvara,Cowtale,2
+5481,Earth,False,TRAPPIST-1e,33.0,36.0,0.0,0.0,1415.0,0.0,True,1451.0,0,F,S,0,0,0,1,0,0,0,Olly,Trankliney,6
+4230,Earth,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Eilace,Castannison,10
+7472,Earth,False,PSO J318.5-22,25.0,153.0,0.0,0.0,388.0,0.0,True,541.0,0,G,P,0,0,0,0,1,0,0,Ivanna,Stanleyd,4
+895,Europa,True,TRAPPIST-1e,48.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Weidus,Platch,10
+2676,Mars,False,TRAPPIST-1e,41.0,71.0,0.0,1617.0,31.0,0.0,False,1719.0,0,D,P,1,0,0,0,0,0,0,Smats,Bane,6
+1718,Europa,False,55 Cancri e,48.0,0.0,3578.0,80.0,123.0,1002.435593220339,False,4783.435593220339,0,D,P,1,0,0,0,0,0,0,Unknown,Clumshangs,7
+3099,Earth,True,PSO J318.5-22,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Melvia,Pentss,7
+2420,Mars,False,TRAPPIST-1e,28.0,938.0,61.0,0.0,53.0,4.0,False,1056.0,0,D,P,1,0,0,0,0,0,0,Res,Fle,3
+7070,Earth,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Colly,Simpsonks,7
+1161,Mars,False,TRAPPIST-1e,59.0,142.0,0.0,907.0,0.0,0.0,False,1049.0,0,E,S,1,0,0,0,0,0,0,Newtch,Purle,6
+2243,Europa,False,TRAPPIST-1e,29.0,0.0,544.0,7.0,2650.0,1561.0,False,4762.0,0,C,S,1,0,0,0,0,0,0,Scharab,Disheract,4
+7379,Earth,True,55 Cancri e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Edgary,Reenez,7
+5597,Europa,False,TRAPPIST-1e,29.0,1.0,2809.0,97.0,61.0,1227.0,False,4195.0,0,D,S,1,0,0,0,0,0,0,Schabik,Praugnox,5
+5799,Europa,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Azhasim,Bewarsecal,2
+5380,Earth,False,TRAPPIST-1e,29.0,715.0,47.0,0.0,0.0,0.0,True,762.0,0,F,P,0,0,0,1,0,0,0,Troya,Hallahaney,3
+3368,Europa,True,55 Cancri e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Hadlam,Honatte,6
+146,Mars,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Miten,Floaf,4
+4665,Earth,True,PSO J318.5-22,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Olgary,Wartyson,10
+6006,Europa,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Erraiam,Clumsty,3
+7346,Mars,False,TRAPPIST-1e,23.0,550.0,0.0,738.0,0.0,0.0,True,1288.0,0,F,S,0,0,0,0,0,1,0,Shams,Jaflé,3
+4282,Europa,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Shaton,Reedall,9
+7549,Europa,True,55 Cancri e,60.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Adharan,Greded,0
+3987,Earth,True,PSO J318.5-22,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Stenny,Hornettoney,6
+4257,Earth,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Lynez,Serraynardy,3
+378,Europa,True,55 Cancri e,68.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Lesatik,Poicaptic,2
+1411,Earth,False,TRAPPIST-1e,56.0,0.0,51.0,0.0,2.0,706.0,False,759.0,0,F,P,1,0,0,0,0,0,0,Tanley,Sosalinson,4
+7193,Earth,False,PSO J318.5-22,20.0,0.0,0.0,8.0,1.0,1175.0,True,1184.0,0,F,P,0,0,0,0,0,1,0,Dwin,Hortez,3
+4125,Earth,True,PSO J318.5-22,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Eriana,Loverthyo,6
+1413,Earth,False,TRAPPIST-1e,38.0,35.0,0.0,0.0,0.0,713.0,True,748.0,0,F,S,1,0,0,0,0,0,0,Eilace,Hardley,3
+4162,Europa,True,55 Cancri e,59.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Wasaton,Chocaters,6
+2958,Earth,True,55 Cancri e,55.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Denny,Dotsondez,3
+4316,Earth,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Kayd,Weavesend,8
+4901,Mars,True,TRAPPIST-1e,8.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Koot,Fla,11
+4520,Earth,False,TRAPPIST-1e,55.0,1028.0,18.0,0.0,0.0,0.0,True,1046.0,0,F,P,0,0,0,1,0,0,0,Evaned,Foxter,9
+5419,Mars,False,TRAPPIST-1e,27.0,850.0,0.0,681.0,1.0,0.0,True,1532.0,0,F,S,0,0,0,1,0,0,0,Ves,Birte,3
+2267,Europa,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,P,1,0,0,0,0,0,0,Keidus,Ametic,6
+308,Earth,True,PSO J318.5-22,5.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Lorian,Webstephrey,9
+7355,Europa,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Caphirk,Matimple,0
+5757,Earth,False,PSO J318.5-22,26.0,104.0,0.0,0.0,280.0,216.0,True,600.0,0,F,S,0,0,0,1,0,0,0,Jilley,Figuez,5
+7215,Earth,False,PSO J318.5-22,27.0,2647.0,0.0,0.0,42.0,32.0,False,2721.0,0,F,P,0,0,0,0,0,1,0,Rald,Sweett,8
+3046,Europa,False,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Acruxon,Discuous,0
+3184,Europa,False,55 Cancri e,74.0,0.0,1026.0,0.0,6616.0,119.0,True,7761.0,0,C,P,1,0,0,0,0,0,0,Alik,Spirfuent,2
+2260,Earth,False,TRAPPIST-1e,34.0,34.0,223.0,1559.0,0.0,0.0,True,1816.0,0,G,S,0,1,0,0,0,0,0,Hanna,Fishopper,5
+5214,Europa,False,TRAPPIST-1e,28.0,0.0,175.0,0.0,214.0,7461.0,False,7850.0,0,A,P,1,0,0,0,0,0,0,Cellus,Fueling,5
+2728,Europa,False,55 Cancri e,54.0,0.0,2062.0,2.0,19.0,1618.0,False,3701.0,0,B,P,1,0,0,0,0,0,0,Menkibi,Mander,4
+7184,Mars,False,TRAPPIST-1e,37.0,2771.0,0.0,6.0,1.0,10.0,True,2788.0,0,D,S,1,0,0,0,0,0,0,Bases,Chman,6
+1081,Earth,True,TRAPPIST-1e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Sonnie,Quinnerettt,9
+7511,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,0,1,0,0,0,0,0,Krus,Bost,4
+214,Mars,False,TRAPPIST-1e,32.0,181.0,0.0,5.0,1634.0,0.0,True,1820.0,0,F,S,1,0,0,0,0,0,0,Blues,Queen,0
+7284,Earth,False,PSO J318.5-22,43.0,0.0,0.0,110.0,538.0,0.0,True,648.0,0,F,S,0,0,0,0,1,0,0,Julin,Guerson,11
+4123,Mars,True,TRAPPIST-1e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Flyros,Sepie,4
+7364,Earth,False,TRAPPIST-1e,19.0,0.0,721.0,0.0,25.0,1.0,False,747.0,0,F,P,0,0,0,0,0,1,0,Monard,Carpentley,7
+70,Europa,False,TRAPPIST-1e,42.0,1.0,8397.0,0.0,0.0,506.0,True,8904.0,0,C,S,1,0,0,0,0,0,0,Aldibah,Mostedry,4
+7785,Europa,False,TRAPPIST-1e,30.0,0.0,640.0,0.0,31.0,6201.0,False,6872.0,0,D,S,1,0,0,0,0,0,0,Altairk,Folumorly,7
+1398,Earth,False,PSO J318.5-22,63.0,356.0,287.0,0.0,0.0,248.0,True,891.0,0,G,P,1,0,0,0,0,0,0,Byrona,Alfordonard,6
+7613,Mars,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,0,1,0,Gieses,Shbre,6
+2247,Mars,True,TRAPPIST-1e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Cornys,Pie,3
+4838,Mars,True,55 Cancri e,16.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Hoce,Barne,4
+3964,Earth,False,55 Cancri e,13.0,406.0,0.0,1670.0,0.0,427.0,True,2503.0,0,F,P,0,0,1,0,0,0,0,Unknown,Unknown,0
+4111,Mars,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Grawk,Vloaf,12
+6596,Earth,False,55 Cancri e,35.0,0.0,71.0,631.0,0.0,0.0,True,702.0,0,F,P,0,0,0,0,1,0,0,Lilasa,Thonyderson,5
+5388,Earth,False,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,1,0,0,0,Unknown,Briggston,14
+1955,Earth,False,TRAPPIST-1e,33.0,356.0,173.7282741738066,0.0,245.0,0.0,True,774.7282741738065,0,F,P,0,1,0,0,0,0,0,Arlie,Woodwinez,9
+1645,Europa,False,TRAPPIST-1e,28.0,0.0,1310.0,0.0,221.0,6064.0,True,7595.0,0,E,S,1,0,0,0,0,0,0,Unknown,Unknown,0
+4362,Earth,False,55 Cancri e,13.0,8.0,1385.0,1445.0,250.0,8.0,True,3096.0,0,F,S,0,0,1,0,0,0,0,Juliey,Fultz,5
+7948,Europa,False,55 Cancri e,32.0,65.0,1684.1822916666667,0.0,88.0,9811.0,True,11648.182291666666,0,C,P,1,0,0,0,0,0,0,Kajamak,Boderbint,5
+5560,Europa,False,55 Cancri e,24.0,0.0,2421.0,0.0,725.0,2300.0,False,5446.0,0,B,P,1,0,0,0,0,0,0,Duhrak,Sysilstict,11
+7104,Earth,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,0,1,0,0,Blancy,Balley,5
+230,Europa,False,TRAPPIST-1e,33.0,0.0,86.0,796.0,584.0,10912.0,False,12378.0,0,C,P,1,0,0,0,0,0,0,Anchib,Repumparte,3
+2229,Earth,False,TRAPPIST-1e,58.0,147.46017699115043,400.0,0.0,690.0,490.0,True,1727.4601769911505,0,E,P,1,0,0,0,0,0,0,Debony,Estiagosen,5
+865,Earth,False,TRAPPIST-1e,25.0,0.0,141.63880126182966,699.0,43.0,22.0,True,905.6388012618297,0,G,S,1,0,0,0,0,0,0,Emmax,Avisnydes,5
+4507,Earth,False,TRAPPIST-1e,43.0,63.0,1339.0,9.0,253.0,42.0,True,1706.0,0,G,S,0,0,1,0,0,0,0,Louisy,Morrodgers,4
+3234,Earth,False,55 Cancri e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,1,0,0,0,0,0,Unknown,Burksson,5
+5962,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Marga,Pusive,3
+6992,Earth,False,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Letty,Meyersones,7
+613,Europa,False,55 Cancri e,29.0,0.0,3344.0,0.0,118.0,972.0,False,4434.0,0,C,S,1,0,0,0,0,0,0,Dilatik,Kiling,11
+4781,Earth,False,TRAPPIST-1e,31.0,25.0,712.0,0.0,16.0,0.0,True,753.0,0,G,S,0,0,1,0,0,0,0,Keitha,Waltonnedy,9
+3152,Mars,False,TRAPPIST-1e,21.0,2.0,0.0,898.0,148.0,0.0,True,1048.0,0,E,S,1,0,0,0,0,0,0,Toal,Ban,3
+467,Europa,True,55 Cancri e,54.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Mirfar,Unpasine,6
+6633,Europa,False,TRAPPIST-1e,20.0,0.0,275.0,1690.0,580.0,5499.0,False,8044.0,0,B,S,1,0,0,0,0,0,0,Alwaide,Bagetvable,2
+5434,Earth,False,TRAPPIST-1e,53.0,751.0,0.0,162.09302325581396,7.0,0.0,False,920.0930232558139,0,F,P,0,0,0,0,1,0,0,Haryn,Josey,10
+802,Mars,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,1,0,0,0,0,0,0,Monam,Raca,2
+6212,Earth,False,TRAPPIST-1e,41.0,18.0,144.04761904761904,35.0,0.0,845.0,False,1042.047619047619,0,F,P,0,0,0,0,1,0,0,Guadae,Buchansen,5
+8400,Earth,False,TRAPPIST-1e,29.0,311.0,7.0,665.0,0.0,0.0,True,983.0,0,E,S,0,1,0,0,0,0,0,Deanny,Rames,4
+5724,Europa,False,TRAPPIST-1e,33.0,0.0,357.0,2366.0,1612.0,2137.0,False,6472.0,0,C,S,1,0,0,0,0,0,0,Altan,Mallisly,5
+7869,Europa,False,TRAPPIST-1e,32.0,0.0,13.0,0.0,2148.0,319.0,True,2480.0,0,D,P,1,0,0,0,0,0,0,Keidus,Coniple,3
+5643,Mars,False,TRAPPIST-1e,19.0,781.0,0.0,295.0,613.0,0.0,False,1689.0,0,D,P,1,0,0,0,0,0,0,Forms,Bart,3
+334,Earth,False,TRAPPIST-1e,22.0,116.0,0.0,786.0,6.0,0.0,True,908.0,0,G,S,1,0,0,0,0,0,0,Francy,Spentley,3
+6214,Earth,True,55 Cancri e,58.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Loisey,Slatessen,2
+2768,Earth,False,TRAPPIST-1e,13.0,0.0,0.0,31.0,0.0,810.0,True,841.0,0,E,P,1,0,0,0,0,0,0,Mamina,Monsoney,3
+6062,Earth,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Unknown,Unknown,0
+1926,Earth,False,55 Cancri e,22.0,1430.0,0.0,0.0,0.0,423.0,True,1853.0,0,G,S,0,1,0,0,0,0,0,Anniey,Baketton,5
+6508,Europa,False,55 Cancri e,20.0,0.0,17958.0,99.0,14.0,57.0,False,18128.0,0,C,S,1,0,0,0,0,0,0,Gork,Hetforhaft,6
+5463,Earth,True,55 Cancri e,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Carry,Contrevins,5
+3976,Earth,True,TRAPPIST-1e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Chery,Ingston,12
+2933,Earth,False,TRAPPIST-1e,20.0,4.0,353.0,193.0,241.0,0.0,True,791.0,0,E,P,1,0,0,0,0,0,0,Tanley,Gregordy,4
+4273,Earth,False,TRAPPIST-1e,28.0,0.0,180.0,516.0,168.32533333333333,183.11436170212767,True,1047.439695035461,0,F,S,0,0,1,0,0,0,0,Ebonyd,Sotond,2
+8412,Earth,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Caseye,Fowlesterez,12
+4310,Europa,False,TRAPPIST-1e,64.0,77.0,2424.0,0.0,3001.0,127.0,False,5629.0,0,C,P,1,0,0,0,0,0,0,Tabius,Folhal,7
+5553,Earth,False,TRAPPIST-1e,22.0,0.0,0.0,859.0,62.0,0.0,False,921.0,0,F,P,0,0,0,0,1,0,0,Brance,Campson,5
+4076,Europa,False,TRAPPIST-1e,37.0,33.0,3484.0,17.0,4.0,1384.0,False,4922.0,0,C,S,1,0,0,0,0,0,0,Alaton,Trupistic,3
+2861,Europa,False,TRAPPIST-1e,14.0,0.0,946.0,0.0,7860.0,384.0,False,9190.0,0,D,S,1,0,0,0,0,0,0,Kitakan,Wingcoling,3
+8257,Earth,False,TRAPPIST-1e,44.0,857.0,0.0,1.0,8.0,17.0,True,883.0,0,G,P,0,0,0,0,1,0,0,Almary,Sancasey,9
+6831,Europa,True,TRAPPIST-1e,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Pheino,Arible,7
+1455,Europa,False,TRAPPIST-1e,32.0,1.0,470.0,0.0,1440.0,2114.0,False,4025.0,0,C,P,1,0,0,0,0,0,0,Shamak,Clumshangs,7
+4911,Earth,True,PSO J318.5-22,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Gailia,Blainson,3
+456,Europa,True,55 Cancri e,27.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Batomam,Preent,2
+2134,Earth,False,55 Cancri e,6.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Patoya,Pittler,11
+3148,Earth,False,55 Cancri e,6.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Idace,Valezaley,7
+3114,Earth,False,TRAPPIST-1e,32.0,0.0,810.0,0.0,0.0,2.0,True,812.0,0,G,S,0,1,0,0,0,0,0,Essara,Sweene,5
+23,Earth,True,55 Cancri e,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,E,S,1,0,0,0,0,0,0,Mollen,Mcfaddennon,6
+2501,Earth,False,TRAPPIST-1e,51.0,0.0,1347.0,0.0,43.0,0.0,True,1390.0,0,F,P,0,1,0,0,0,0,0,Carry,Kimons,7
+527,Europa,True,55 Cancri e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Bath,Dinsprody,5
+1666,Europa,False,TRAPPIST-1e,50.0,3677.0,782.0,0.0,6.0,1168.0,False,5633.0,0,C,S,1,0,0,0,0,0,0,Decruxa,Stewder,4
+479,Europa,False,55 Cancri e,55.0,113.0,2492.0,41.0,0.0,2376.0,True,5022.0,0,A,S,1,0,0,0,0,0,0,Vindem,Eneurordry,0
+4661,Earth,False,TRAPPIST-1e,43.0,957.0,0.0,1.0,0.0,39.0,False,997.0,0,E,P,0,1,0,0,0,0,0,Paulie,Stephendsey,7
+7155,Earth,False,TRAPPIST-1e,39.0,0.0,0.0,0.0,847.0,1.0,True,848.0,0,G,P,0,0,0,0,1,0,0,Dannie,Hebernandry,4
+2526,Europa,True,TRAPPIST-1e,44.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Mothab,Doorge,0
+4339,Europa,True,55 Cancri e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Naosa,Ineedeve,8
+7074,Earth,False,TRAPPIST-1e,18.0,0.0,732.0,2.0,13.0,47.0,True,794.0,0,F,P,0,0,0,0,0,1,0,Elle,Flowensley,8
+8330,Mars,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,0,0,0,0,1,0,Ars,Shpie,4
+6000,Earth,False,55 Cancri e,14.0,0.0,973.0,0.0,1.0,0.0,True,974.0,0,E,P,0,1,0,0,0,0,0,France,Mirezavis,8
+4626,Mars,True,55 Cancri e,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,0,0,0,1,0,0,0,Guink,Reake,3
+4904,Earth,True,PSO J318.5-22,24.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Joyn,Hahnstoneal,6
+51,Earth,False,TRAPPIST-1e,25.0,0.0,0.0,1938.0,0.0,1.0,True,1939.0,0,F,S,1,0,0,0,0,0,0,Elson,Hickerson,4
+3013,Earth,False,TRAPPIST-1e,26.0,0.0,56.0,322.0,6.0,243.0,True,627.0,0,G,P,0,1,0,0,0,0,0,Thell,Klindsey,6
+7003,Earth,False,55 Cancri e,25.0,244.0,0.0,40.0,294.0,124.0,True,702.0,0,F,P,0,0,0,0,0,1,0,Line,Bradlerson,8
+6240,Earth,False,TRAPPIST-1e,62.0,94.0,267.0,2341.0,94.0,0.0,True,2796.0,0,F,S,0,0,0,0,1,0,0,Davis,Cookson,7
+6205,Europa,False,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Zavior,Ainserfle,11
+489,Mars,True,TRAPPIST-1e,34.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Llat,Stité,6
+7713,Earth,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,0,1,0,0,Armene,Patthews,8
+5903,Mars,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,1,0,0,Jetax,Pane,4
+3063,Mars,True,TRAPPIST-1e,35.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,P,1,0,0,0,0,0,0,Swink,Jaff,4
+2980,Earth,False,TRAPPIST-1e,23.0,16.0,0.0,799.0,0.0,37.0,True,852.0,0,G,P,0,1,0,0,0,0,0,Elany,Prickmantes,5
+7607,Earth,False,TRAPPIST-1e,24.0,381.0,925.0,342.0,0.0,642.0,False,2290.0,0,F,P,0,0,0,0,0,1,0,Eulah,Casonston,18
+1090,Earth,False,TRAPPIST-1e,26.0,131.0,799.0,0.0,0.0,16.0,False,946.0,0,F,P,1,0,0,0,0,0,0,Unknown,Hessey,5
+2759,Earth,False,TRAPPIST-1e,21.0,2.0,417.0,323.0,0.0,84.0,True,826.0,0,E,P,1,0,0,0,0,0,0,Deaney,Avisley,2
+4149,Earth,True,TRAPPIST-1e,50.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Robyna,Loway,12
+4323,Europa,False,55 Cancri e,24.0,25.0,3291.0,0.0,6075.0,179.0,False,9570.0,0,C,S,1,0,0,0,0,0,0,Gatrino,Pumpeshaft,3
+2017,Earth,True,TRAPPIST-1e,21.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Alvia,Daviddley,5
+7171,Earth,True,PSO J318.5-22,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Meline,Potters,9
+2405,Europa,True,55 Cancri e,50.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Alphact,Meteet,5
+3464,Europa,True,55 Cancri e,5.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Sheleon,Scoudelle,9
+1912,Mars,False,TRAPPIST-1e,31.0,162.0,1211.0,4.0,0.0,1.0,True,1378.0,0,E,S,1,0,0,0,0,0,0,Jele,Balle,0
+1585,Earth,False,TRAPPIST-1e,34.0,1.0,89.0,0.0,793.0,0.0,True,883.0,0,G,S,1,0,0,0,0,0,0,Tonia,Englence,6
+6561,Europa,True,55 Cancri e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,S,1,0,0,0,0,0,0,Arrain,Fordulgaug,5
+3319,Earth,True,TRAPPIST-1e,14.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Genee,Williotters,6
+7143,Europa,True,55 Cancri e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Halla,Subcap,0
+1768,Earth,False,55 Cancri e,20.0,470.0,128.0,0.0,0.0,9.0,True,607.0,0,F,P,0,1,0,0,0,0,0,Valey,Clean,3
+1089,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Cella,Ingascomet,4
+6133,Earth,False,TRAPPIST-1e,12.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,0,1,0,0,0,Adria,Cardners,8
+5439,Europa,False,55 Cancri e,36.0,1.0,4058.0,95.0,0.0,2109.0,False,6263.0,0,A,P,1,0,0,0,0,0,0,Haldah,Fulatorly,4
+7285,Earth,False,TRAPPIST-1e,32.0,183.1891891891892,368.0,0.0,304.0,741.0,True,1596.1891891891892,0,F,S,0,0,0,0,1,0,0,Pattie,Whitledges,6
+3485,Europa,True,55 Cancri e,18.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Tabiton,Ambleetive,6
+7871,Europa,True,TRAPPIST-1e,15.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,0,1,0,0,0,0,0,Asch,Stradick,3
+4041,Mars,False,TRAPPIST-1e,24.0,439.0,0.0,2140.0,0.0,0.0,True,2579.0,0,D,S,1,0,0,0,0,0,0,Babix,Prine,3
+8483,Europa,True,TRAPPIST-1e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Azhat,Brakeng,7
+3007,Earth,True,TRAPPIST-1e,9.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Genee,Waltonnedy,9
+7295,Earth,False,55 Cancri e,3.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Stenny,Tranklinay,4
+4732,Mars,True,TRAPPIST-1e,17.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Crick,Khart,3
+2355,Earth,False,PSO J318.5-22,23.0,0.0,9.0,292.0,35.0,349.0,True,685.0,0,E,P,1,0,0,0,0,0,0,Dwin,Meltoney,2
+3916,Europa,False,55 Cancri e,31.0,2.0,8747.0,0.0,4840.0,14485.0,False,28074.0,0,C,P,1,0,0,0,0,0,0,Wezena,Frattyring,6
+5152,Earth,False,TRAPPIST-1e,22.0,142.0,1307.0,0.0,0.0,0.0,True,1449.0,0,F,P,0,0,0,1,0,0,0,Greggy,Benderez,4
+8660,Mars,False,TRAPPIST-1e,14.0,2.0,0.0,918.0,128.0,0.0,True,1048.0,0,E,P,0,1,0,0,0,0,0,Per,Minen,10
+1889,Europa,False,55 Cancri e,22.0,0.0,5183.0,0.0,1080.0,2.0,False,6265.0,0,B,S,1,0,0,0,0,0,0,Dirfak,Oppressive,2
+6988,Earth,False,PSO J318.5-22,24.0,549.0,3.0,201.0,0.0,0.0,True,753.0,0,G,S,0,0,0,0,1,0,0,Isa,Vantonson,4
+3131,Earth,False,PSO J318.5-22,53.0,2.0,18.0,705.0,0.0,1.0,False,726.0,0,F,P,0,0,1,0,0,0,0,Jodia,Rossey,3
+6270,Mars,False,TRAPPIST-1e,27.0,1228.0,0.0,0.0,0.0,0.0,True,1228.0,0,F,S,0,0,0,0,1,0,0,Tibers,Sinda,6
+6075,Mars,False,TRAPPIST-1e,23.0,1533.0,0.0,858.0,297.0,0.0,False,2688.0,0,F,P,0,0,0,0,1,0,0,Hones,Panie,5
+639,Earth,False,TRAPPIST-1e,45.0,0.0,25.0,87.0,989.0,482.0,True,1583.0,0,F,P,1,0,0,0,0,0,0,Rician,Torrez,11
+148,Earth,True,TRAPPIST-1e,31.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Wandy,Fisherry,2
+2070,Europa,False,TRAPPIST-1e,36.0,0.0,3206.0,0.0,698.0,72.0,False,3976.0,0,A,S,1,0,0,0,0,0,0,Ranons,Ingent,4
+1123,Earth,False,TRAPPIST-1e,30.0,0.0,575.0,180.0,4.0,44.0,False,803.0,0,F,S,1,0,0,0,0,0,0,Erick,Matts,9
+4233,Europa,False,TRAPPIST-1e,40.0,2.0,76.0,0.0,201.0,1002.435593220339,False,1281.435593220339,0,C,S,1,0,0,0,0,0,0,Dabik,Wirdley,7
+7941,Earth,False,TRAPPIST-1e,27.0,0.0,0.0,0.0,716.0,0.0,True,716.0,0,F,P,0,0,0,0,0,1,0,Heremy,Cardner,11
+8478,Earth,False,TRAPPIST-1e,28.0,0.0,8.0,338.0,135.0,390.0,True,871.0,0,F,P,0,0,0,0,0,0,1,Annard,Charryerry,2
+5110,Earth,False,TRAPPIST-1e,21.0,724.0,0.0,0.0,0.0,0.0,True,724.0,0,F,S,0,0,0,1,0,0,0,Laude,Balderts,7
+2350,Mars,False,TRAPPIST-1e,24.0,737.0,37.0,1682.0,0.0,0.0,False,2456.0,0,F,S,0,1,0,0,0,0,0,Gorn,Traie,5
+2250,Earth,True,TRAPPIST-1e,43.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,1,0,0,0,0,0,Dia,Beckeetter,5
+7166,Europa,False,55 Cancri e,24.0,145.0,4224.0,0.0,5.0,61.0,False,4435.0,0,C,S,1,0,0,0,0,0,0,Alwaide,Sometery,5
+5888,Earth,False,TRAPPIST-1e,19.0,2044.0,0.0,13.0,1.0,0.0,True,2058.0,0,F,S,0,0,0,1,0,0,0,Weslie,Irwines,4
+978,Earth,False,TRAPPIST-1e,47.0,0.0,306.0,84.0,499.0,0.0,True,889.0,0,G,S,1,0,0,0,0,0,0,Naomie,Knoxonway,5
+5237,Earth,False,TRAPPIST-1e,26.0,0.0,786.0,0.0,11.0,83.0,True,880.0,0,F,P,0,0,0,1,0,0,0,Fayen,Hermanapp,5
+8421,Europa,False,TRAPPIST-1e,39.0,2101.0,41.0,0.0,525.0,19.0,True,2686.0,0,D,P,1,0,0,0,0,0,0,Dabireo,Nalanet,6
+8404,Earth,False,TRAPPIST-1e,19.0,0.0,810.0,21.0,788.0,166.4797843665768,False,1785.4797843665767,0,E,S,0,1,0,0,0,0,0,Neilda,Kirklander,4
+1563,Mars,False,TRAPPIST-1e,28.0,1150.0,0.0,6.0,4.0,0.0,True,1160.0,0,F,S,0,1,0,0,0,0,0,Sallos,Part,4
+1580,Earth,False,TRAPPIST-1e,29.0,7.0,0.0,0.0,797.0,0.0,True,804.0,0,F,S,0,1,0,0,0,0,0,Elicia,Solivers,3
+5153,Europa,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Phecca,Speedgear,0
+7765,Mars,False,TRAPPIST-1e,15.0,1150.0,0.0,175.0,1.0,11.0,False,1337.0,0,F,P,0,0,0,0,0,1,0,Goleer,Sache,5
+7684,Europa,False,55 Cancri e,36.0,0.0,8151.0,5.0,0.0,8182.0,False,16338.0,0,C,S,0,1,0,0,0,0,0,Bottom,Unkcatted,9
+1369,Earth,True,PSO J318.5-22,13.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,1,0,0,0,0,0,0,Leenny,Pughanders,5
+773,Mars,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Pan,Nutte,6
+1514,Europa,False,TRAPPIST-1e,20.0,13.0,817.0,0.0,1435.0,22.0,True,2287.0,0,E,S,1,0,0,0,0,0,0,Furuson,Oilloody,4
+891,Mars,True,TRAPPIST-1e,41.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,P,1,0,0,0,0,0,0,Waffs,Hapie,8
+6478,Earth,False,TRAPPIST-1e,23.0,7.0,0.0,0.0,716.0,800.0,True,1523.0,0,E,S,0,1,0,0,0,0,0,Sta,Mccarveymon,7
+2004,Mars,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,F,S,0,1,0,0,0,0,0,Gibil,Razo,2
+1800,Europa,True,TRAPPIST-1e,52.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Sheleb,Assibler,4
+7220,Europa,True,TRAPPIST-1e,30.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Nusoton,Nairconed,0
+4799,Earth,False,55 Cancri e,29.0,0.0,0.0,22.0,738.0,0.0,True,760.0,0,F,S,0,0,0,1,0,0,0,Timmie,Rocknight,8
+3831,Earth,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,1,0,0,0,0,Willey,Fryersonis,11
+4068,Earth,False,TRAPPIST-1e,28.0,0.0,1125.0,3.0,562.0,7.0,True,1697.0,0,G,P,0,0,1,0,0,0,0,Lelah,Sancockett,4
+3376,Earth,False,TRAPPIST-1e,19.0,0.0,0.0,0.0,484.0,344.0,True,828.0,0,F,P,0,0,1,0,0,0,0,Chael,Bardsey,4
+3639,Earth,False,TRAPPIST-1e,23.0,0.0,93.0,1.0,0.0,542.0,False,636.0,0,F,S,0,0,1,0,0,0,0,Catha,Waterson,5
+7961,Earth,True,55 Cancri e,22.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,0,0,1,0,0,Kencey,Moranthons,3
+5360,Earth,False,TRAPPIST-1e,24.0,156.0,0.0,364.0,489.0,383.0,True,1392.0,0,F,S,0,0,0,1,0,0,0,Clindy,Joycerton,8
+1571,Earth,True,PSO J318.5-22,36.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,1,0,0,0,0,0,0,Carita,Villenson,11
+7199,Europa,False,TRAPPIST-1e,36.0,0.0,2979.0,0.0,68.0,347.0,False,3394.0,0,B,P,1,0,0,0,0,0,0,Cherrak,Roftfuling,3
+1978,Europa,True,TRAPPIST-1e,27.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,D,S,1,0,0,0,0,0,0,Schird,Oinded,0
+4493,Mars,False,TRAPPIST-1e,20.0,845.0,0.0,46.0,123.0,0.0,False,1014.0,0,E,S,0,1,0,0,0,0,0,Hont,Teake,6
+7470,Europa,True,TRAPPIST-1e,40.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,A,S,1,0,0,0,0,0,0,Alphact,Frakepeed,2
+272,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,unknown,1,0,0,0,0,0,0,Margia,Wriggins,0
+6189,Earth,False,TRAPPIST-1e,21.0,0.0,717.0,0.0,0.0,0.0,True,717.0,0,F,P,0,0,0,0,1,0,0,Monah,Lowelliott,9
+4574,Earth,False,TRAPPIST-1e,21.0,529.0,8.0,89.0,21.0,0.0,True,647.0,0,F,S,0,0,0,1,0,0,0,Willey,Morrows,5
+4794,Mars,True,TRAPPIST-1e,25.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,1,0,0,0,Ars,Prity,7
+6802,Europa,False,TRAPPIST-1e,32.0,0.0,1369.0,29.0,662.0,22.0,False,2082.0,0,E,P,0,1,0,0,0,0,0,Alpha,Mosteraked,11
+6093,Earth,False,TRAPPIST-1e,17.0,0.0,0.0,0.0,1806.0,0.0,True,1806.0,0,G,S,0,0,0,1,0,0,0,Camiet,Gainebergan,10
+4266,Europa,True,TRAPPIST-1e,19.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Coxak,Sterve,0
+6317,Europa,False,TRAPPIST-1e,25.0,0.0,4.0,0.0,1525.0,475.0,False,2004.0,0,E,P,0,1,0,0,0,0,0,Jihda,Swirring,3
+3299,Europa,True,TRAPPIST-1e,56.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Elerops,Holatirint,5
+6610,Earth,False,PSO J318.5-22,45.0,1.0,15.0,44.0,0.0,1541.0,True,1601.0,0,E,S,0,1,0,0,0,0,0,Hary,Owerson,6
+880,Mars,False,TRAPPIST-1e,18.0,594.0,0.0,555.0,0.0,0.0,True,1149.0,0,F,P,1,0,0,0,0,0,0,Triple,Vloaf,12
+7526,Earth,False,PSO J318.5-22,30.0,0.0,34.0,143.0,275.0,0.0,False,452.0,0,G,S,0,0,0,0,1,0,0,Annya,Frazie,5
+1127,Earth,False,TRAPPIST-1e,52.0,0.0,243.0,464.0,71.0,8.0,True,786.0,0,E,P,1,0,0,0,0,0,0,Melica,Carpennels,8
+7957,Europa,False,TRAPPIST-1e,48.0,3784.0,917.0,146.0,1770.0,880.0,False,7497.0,0,B,P,1,0,0,0,0,0,0,Izaron,Coweboded,7
+4846,Earth,False,TRAPPIST-1e,23.0,0.0,7.0,0.0,190.0,501.0,True,698.0,0,F,S,0,0,0,1,0,0,0,Julin,Estiagosen,5
+5464,Europa,False,TRAPPIST-1e,43.0,0.0,8808.0,0.0,580.0,0.0,True,9388.0,0,B,P,1,0,0,0,0,0,0,Betenar,Apenelexy,4
+5200,Earth,True,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Sall,Rigginsen,10
+878,Earth,False,TRAPPIST-1e,38.0,55.0,741.0,0.0,0.0,13.0,True,809.0,0,G,P,1,0,0,0,0,0,0,Armen,Byerton,3
+6311,Mars,True,TRAPPIST-1e,11.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,P,0,0,0,0,1,0,0,Coass,Deva,5
+7007,Europa,False,55 Cancri e,26.0,286.0,3387.0,575.0,213.0,548.0,False,5009.0,0,B,S,1,0,0,0,0,0,0,Mirfark,Sloweber,5
+6063,Earth,False,PSO J318.5-22,22.0,431.0,40.0,0.0,10.0,0.0,True,481.0,0,G,P,0,0,0,1,0,0,0,Naomin,Crosbornes,4
+8069,Earth,False,TRAPPIST-1e,26.0,1.0,0.0,1.0,15.0,854.0,True,871.0,0,F,P,0,0,0,0,0,1,0,Alber,Corman,5
+3043,Europa,True,TRAPPIST-1e,52.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Sarino,Dianket,5
+5366,Earth,False,TRAPPIST-1e,20.0,0.0,0.0,53.0,2.0,754.0,True,809.0,0,G,P,0,0,0,1,0,0,0,Brancy,Ocherman,4
+2400,Earth,False,TRAPPIST-1e,22.0,26.0,0.0,0.0,0.0,733.0,False,759.0,0,F,P,0,1,0,0,0,0,0,Ianya,Conney,5
+1290,Mars,False,TRAPPIST-1e,25.0,591.0,466.0,0.0,0.0,0.0,True,1057.0,0,D,P,1,0,0,0,0,0,0,Dunch,Kuche,0
+283,Earth,False,55 Cancri e,49.0,331.0,0.0,0.0,318.0,0.0,False,649.0,0,F,P,1,0,0,0,0,0,0,Jaimer,Mckinsond,10
+3326,Earth,False,PSO J318.5-22,15.0,85.0,373.0,160.0,5.0,0.0,True,623.0,0,G,S,0,1,0,0,0,0,0,Reney,Balley,5
+1014,Mars,True,TRAPPIST-1e,23.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Pars,Sfin,6
+7052,Earth,False,TRAPPIST-1e,19.0,0.0,789.0,0.0,0.0,0.0,False,789.0,0,E,S,0,1,0,0,0,0,0,Marlly,Santin,7
+4512,Earth,False,TRAPPIST-1e,50.0,138.0,706.0,0.0,18.0,40.0,True,902.0,0,F,S,0,0,0,1,0,0,0,Ton,Simstravery,6
+8120,Europa,False,55 Cancri e,29.0,1.0,764.0,1.0,265.0,1539.0,True,2570.0,0,A,P,1,0,0,0,0,0,0,Avijava,Ticagent,2
+6313,Europa,False,TRAPPIST-1e,29.0,0.0,841.0,0.0,1733.0,11.0,False,2585.0,0,E,P,0,1,0,0,0,0,0,Wezna,Swirring,3
+4421,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,1,0,0,0,0,Cobix,Snoff,6
+5322,Mars,False,55 Cancri e,25.0,1410.0,123.0,26.0,9.0,812.0,False,2380.0,0,D,P,1,0,0,0,0,0,0,Pil,Cry,3
+2071,Earth,True,55 Cancri e,18.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Milda,Woodwin,2
+5107,Earth,False,TRAPPIST-1e,24.0,0.0,0.0,980.0,7.0,0.0,True,987.0,0,E,S,0,1,0,0,0,0,0,Wandy,Diazarez,0
+6855,Mars,False,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,0,0,0,0,1,0,0,Jetax,Burle,4
+2644,Europa,True,55 Cancri e,35.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,C,S,1,0,0,0,0,0,0,Shain,Rinicapead,3
+7929,Earth,False,TRAPPIST-1e,21.0,0.0,5.0,0.0,687.0,10.0,True,702.0,0,F,P,0,0,0,0,0,1,0,Miken,Leonaldez,4
+1555,Earth,True,PSO J318.5-22,43.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,1,0,0,0,0,0,0,Camina,Wonglasquez,4
+5079,Mars,False,TRAPPIST-1e,64.0,469.0,700.0,2.0,1.0,0.0,False,1172.0,0,E,P,0,1,0,0,0,0,0,Docks,Dal,10
+675,Earth,False,55 Cancri e,43.0,0.0,0.0,722.0,0.0,0.0,True,722.0,0,F,P,1,0,0,0,0,0,0,Denny,Mccarveymon,7
+3124,Earth,True,PSO J318.5-22,20.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Jacki,Oneiles,16
+768,Mars,False,TRAPPIST-1e,10.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,F,S,1,0,0,0,0,0,0,Oaters,Meake,10
+3039,Earth,False,PSO J318.5-22,2.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,1,0,0,0,0,0,Jeron,Carlsonney,6
+6150,Earth,True,TRAPPIST-1e,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Elsane,Balley,5
+3585,Earth,False,TRAPPIST-1e,23.0,339.0,754.0,7.0,0.0,0.0,True,1100.0,0,F,S,0,0,1,0,0,0,0,Ward,Alvasquez,7
+1292,Earth,False,TRAPPIST-1e,19.0,0.0,3.0,946.0,0.0,0.0,False,949.0,0,F,S,1,0,0,0,0,0,0,Gwendy,Sykess,6
+8277,Earth,False,TRAPPIST-1e,18.0,0.0,181.0,628.0,0.0,0.0,True,809.0,0,G,P,0,0,0,0,1,0,0,Briam,Chanash,5
+6736,Europa,False,TRAPPIST-1e,42.0,159.0,4387.0,2.0,3.0,485.0,False,5036.0,0,C,P,1,0,0,0,0,0,0,Alatrix,Regmansidy,3
+6619,Mars,False,TRAPPIST-1e,26.0,1967.0,0.0,116.0,131.26190476190476,0.0,False,2214.2619047619046,0,F,P,0,0,0,0,1,0,0,Diedow,Hake,4
+2653,Earth,False,PSO J318.5-22,23.0,0.0,0.0,172.70347003154575,3.0,1919.0,True,2094.7034700315457,0,F,P,0,1,0,0,0,0,0,Sergia,Mcgoway,6
+3197,Earth,False,TRAPPIST-1e,38.0,792.0,0.0,130.99143206854345,1.0,29.0,True,952.9914320685434,0,F,S,0,0,1,0,0,0,0,Marix,Poperez,5
+3993,Earth,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Everly,Garnes,14
+5948,Earth,False,TRAPPIST-1e,7.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,1,0,0,0,Marky,Rodricker,6
+6581,Europa,True,55 Cancri e,33.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,S,1,0,0,0,0,0,0,Schird,Sophaft,0
+4687,Earth,True,TRAPPIST-1e,43.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,0,1,0,0,0,0,Lison,Willy,12
+1343,Europa,True,TRAPPIST-1e,24.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,S,1,0,0,0,0,0,0,Seginon,Asoppor,3
+917,Earth,True,TRAPPIST-1e,71.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,1,0,0,0,0,0,0,Alancy,Flemaney,9
+2539,Mars,False,TRAPPIST-1e,48.0,1200.0,0.0,38.0,48.0,0.0,False,1286.0,0,F,P,0,1,0,0,0,0,0,Manth,Merte,6
+1237,Europa,False,TRAPPIST-1e,57.0,0.0,987.0,1.0,4948.0,53.0,True,5989.0,0,C,S,1,0,0,0,0,0,0,Kitauon,Coillery,0
+2815,Earth,False,PSO J318.5-22,21.0,0.0,27.0,1181.0,0.0,513.0,True,1721.0,0,G,S,0,1,0,0,0,0,0,Hardy,Wagnerray,11
+4694,Europa,True,55 Cancri e,44.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Alyat,Stingive,4
+1997,Earth,False,TRAPPIST-1e,20.0,75.0,0.0,0.0,1545.0,0.0,False,1620.0,0,E,P,1,0,0,0,0,0,0,Tin,Monroellynn,9
+3658,Earth,False,55 Cancri e,42.0,0.0,218.0,0.0,481.0,2.0,True,701.0,0,F,P,0,0,1,0,0,0,0,Denis,Sandry,3
+3558,Mars,False,TRAPPIST-1e,27.0,1192.0,0.0,0.0,0.0,0.0,True,1192.0,0,F,S,0,0,1,0,0,0,0,Crisp,Spore,2
+3069,Europa,False,TRAPPIST-1e,30.0,0.0,1076.0,0.0,3725.0,9.0,True,4810.0,0,E,P,1,0,0,0,0,0,0,Alathim,Waring,8
+8445,Earth,False,PSO J318.5-22,18.0,0.0,0.0,0.0,391.0,283.0,True,674.0,0,F,S,0,0,0,0,0,1,0,Billia,Pottonalden,5
+2542,Earth,False,TRAPPIST-1e,32.0,0.0,9.0,11.0,784.0,63.0,True,867.0,0,F,S,0,1,0,0,0,0,0,Stany,Hoopez,4
+7415,Europa,False,TRAPPIST-1e,31.0,0.0,910.0,58.0,1654.0,1217.0,True,3839.0,0,B,S,0,1,0,0,0,0,0,Mergak,Dissper,4
+85,Earth,False,TRAPPIST-1e,19.0,0.0,0.0,670.0,1.0,34.0,False,705.0,0,G,P,1,0,0,0,0,0,0,Gracy,Dunnisey,4
+7475,Europa,True,55 Cancri e,26.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,B,P,1,0,0,0,0,0,0,Arraiam,Bealvewd,5
+3488,Europa,True,TRAPPIST-1e,32.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,B,P,1,0,0,0,0,0,0,Gimpus,Fordulgaug,5
+4918,Earth,True,TRAPPIST-1e,57.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,P,0,0,1,0,0,0,0,Glene,Drakeekss,9
+2658,Earth,True,TRAPPIST-1e,28.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Margio,Lardsonald,4
+7094,Earth,False,TRAPPIST-1e,18.0,388.0,182.0,0.0,66.0,140.0,True,776.0,0,F,S,0,0,0,0,1,0,0,Unknown,Unknown,0
+2290,Earth,True,TRAPPIST-1e,69.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Idary,Leeves,6
+502,Europa,True,TRAPPIST-1e,49.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,C,P,1,0,0,0,0,0,0,Betenif,Nalanet,6
+4189,Europa,False,55 Cancri e,43.0,0.0,39.0,327.0,4643.0,85.0,False,5094.0,0,B,P,1,0,0,0,0,0,0,Coxan,Windend,2
+4676,Earth,False,PSO J318.5-22,29.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Millia,Connon,6
+3431,Earth,False,TRAPPIST-1e,23.0,58.0,396.0,15.0,167.58786446020488,180.0,True,816.5878644602049,0,F,P,0,0,1,0,0,0,0,Coreee,Midtt,5
+3093,Mars,True,TRAPPIST-1e,37.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,D,S,1,0,0,0,0,0,0,Plat,Flate,7
+5018,Earth,False,PSO J318.5-22,18.0,0.0,141.63880126182966,0.0,150.0,0.0,True,291.63880126182966,0,F,P,0,0,0,1,0,0,0,Elica,Brantuarez,7
+2460,Earth,True,PSO J318.5-22,16.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,S,0,1,0,0,0,0,0,Kendre,Merkins,7
+8058,Earth,True,55 Cancri e,13.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,0,0,1,0,0,Jarena,Buckentry,11
+5855,Europa,False,TRAPPIST-1e,27.0,3.0,4654.0,0.0,657.0,214.0,False,5528.0,0,B,S,1,0,0,0,0,0,0,Saxino,Duckil,3
+3726,Earth,True,TRAPPIST-1e,0.0,0.0,0.0,0.0,0.0,0.0,False,0.0,1,G,S,0,0,1,0,0,0,0,Samie,Burraymons,4
+5138,Europa,False,TRAPPIST-1e,53.0,0.0,6634.0,0.0,5047.0,108.0,False,11789.0,0,B,P,1,0,0,0,0,0,0,Krabius,Hoorherve,5
+8233,Earth,False,TRAPPIST-1e,14.0,0.0,1427.0,148.0,0.0,7.0,False,1582.0,0,F,S,0,0,0,0,0,1,0,Felice,Traverdy,7
+1633,Earth,False,TRAPPIST-1e,26.0,21.0,0.0,499.0,568.0,0.0,True,1088.0,0,F,P,0,1,0,0,0,0,0,Billya,Merce,7
+864,Europa,False,TRAPPIST-1e,30.0,0.0,760.0,234.0,2761.0,81.0,False,3836.0,0,B,S,1,0,0,0,0,0,0,Alkeson,Asticit,3
+3780,Earth,False,TRAPPIST-1e,22.0,7.0,61.0,110.0,708.0,0.0,True,886.0,0,G,S,0,0,1,0,0,0,0,Jodia,Evedorsen,3
+6046,Earth,True,55 Cancri e,23.0,0.0,0.0,0.0,0.0,0.0,True,0.0,1,G,P,0,0,0,1,0,0,0,Monald,Belley,11
+170,Mars,False,TRAPPIST-1e,23.0,607.8125,0.0,8.0,1072.0,0.0,False,1687.8125,0,F,P,1,0,0,0,0,0,0,Frook,Raf,4
+2519,Europa,False,TRAPPIST-1e,58.0,1113.0,1650.0,0.0,194.0,510.0,False,3467.0,0,B,S,1,0,0,0,0,0,0,Ziba,Belstrut,6
